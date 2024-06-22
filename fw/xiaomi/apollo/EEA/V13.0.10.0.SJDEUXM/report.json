@@ -1,0 +1,2092 @@
+[
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "11:6A:86:F1:48:AD:AD:9C:ED:29:3A:A9:02:16:93:97:F5:FA:DC:2B:C9:23:B1:DE:DE:D2:BD:CF:B9:02:40:E6",
+        "notbefore": "20211111025830Z",
+        "notafter": "20231111025830Z",
+        "serialnumber": 705474428029078534152510292668735840410236007843,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "1A:18:7C:7D:B8:DE:7E:DD:7E:00:E5:67:4B:63:BB:21:30:56:F4:FF:C5:40:59:86:C9:B4:B3:D2:0A:97:B3:CF",
+        "notbefore": "20211111025858Z",
+        "notafter": "20411106025858Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "rtic"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "A1:0C:8E:57:37:E2:C0:E3:CD:EA:3A:FB:02:ED:F2:43:A2:9E:21:FC:39:AD:10:AE:21:7B:3C:8F:5F:54:B5:E3",
+        "notbefore": "20200909101938Z",
+        "notafter": "20400904101938Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "aptcryptotestapp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "A3:1A:6C:F2:A0:93:D7:00:2E:2C:48:22:CD:59:BD:2C:9C:07:51:18:A3:BD:E9:E6:28:50:05:2A:BD:34:C2:F9",
+        "notbefore": "20220922162836Z",
+        "notafter": "20420917162836Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864296,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "otrpapp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "62:A2:31:1B:56:C6:EB:0D:FE:C4:37:D5:41:4A:6A:83:8F:48:32:4B:1A:6C:3F:94:79:60:7C:61:19:6D:CF:48",
+        "notbefore": "20220922162815Z",
+        "notafter": "20420917162815Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1921,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "gfcmi"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "62:01:4F:8E:F4:36:B0:69:79:BE:9C:16:40:9C:E5:CC:33:05:61:BF:A4:01:0D:5F:DD:E3:7F:B8:63:B0:0F:AC",
+        "notbefore": "20200909102518Z",
+        "notafter": "20400904102518Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "iris"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "3A:A9:49:5B:A2:0A:14:59:B8:AD:8B:F5:91:41:9F:94:9A:ED:BA:98:DC:87:18:D1:C7:9F:5D:56:D7:96:8E:CA",
+        "notbefore": "20220922162820Z",
+        "notafter": "20420917162820Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864305,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "fpcali"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "C4:EA:CF:2A:5F:1D:D3:9D:DB:9E:0E:F6:26:D0:10:C8:B3:DE:84:E3:50:61:D4:E7:E8:49:B3:1F:6C:D3:9B:EE",
+        "notbefore": "20220922163154Z",
+        "notafter": "20420917163154Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 21,
+    "secondary_sw_id": 0,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "hyp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "FE:57:78:71:7C:27:5B:ED:4E:20:26:87:87:9D:C7:5A:F7:5A:D3:DD:F0:EA:D6:0F:C1:73:A1:B5:F2:F2:52:85",
+        "notbefore": "20220922162908Z",
+        "notafter": "20420917162908Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864283,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "mldapta"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "EB:D3:71:B0:6D:B4:70:BA:03:4B:4E:CE:CB:06:DB:32:62:65:0C:06:BA:1D:44:86:61:E3:BA:C6:E8:10:29:85",
+        "notbefore": "20220922162839Z",
+        "notafter": "20420917162839Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864295,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "tamapp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "68:EB:BD:75:69:07:32:11:1D:40:56:59:53:DF:0A:66:EB:28:D6:F6:82:6F:2F:CA:64:97:DA:0F:EE:39:9B:DA",
+        "notbefore": "20220922162856Z",
+        "notafter": "20420917162856Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1910,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "hdcp1"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "10:24:84:9E:B8:30:A9:4E:D8:2F:CC:E4:26:CC:25:03:1C:09:C4:FE:D5:71:D8:89:D9:83:51:05:9E:59:97:C8",
+        "notbefore": "20220922162909Z",
+        "notafter": "20420917162909Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864275,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "winsecap"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "C9:9E:31:2E:27:9C:A9:4C:45:7F:13:C9:24:94:7E:52:AC:5C:09:58:10:DB:44:65:34:30:9F:BA:C5:5F:C5:37",
+        "notbefore": "20200909101944Z",
+        "notafter": "20400904101944Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "apttestapp64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "6C:83:72:8D:C9:D1:6F:4D:97:EE:8A:1F:BF:03:A4:D8:30:D6:03:CD:69:FD:68:B2:7F:6F:BD:1F:1C:12:69:37",
+        "notbefore": "20211111025957Z",
+        "notafter": "20231111025957Z",
+        "serialnumber": 302555504536617700363246205121367715484676393276,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "24:52:4B:61:26:47:2E:DB:55:E9:46:85:12:17:FB:DB:9E:0D:A1:1A:F7:A6:0C:AD:33:77:4F:0F:A6:52:FB:B4",
+        "notbefore": "20220922162905Z",
+        "notafter": "20420917162905Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "featenabler"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "87:E3:40:B3:16:D2:4E:59:5B:AE:95:FD:81:00:A3:F8:01:14:39:CD:C6:6F:8D:8E:A7:8C:ED:7B:1B:5F:56:2C",
+        "notbefore": "20210414132906Z",
+        "notafter": "20410409132906Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "loadalgota64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "8F:3C:E1:66:DA:DE:F8:1B:24:96:BA:BE:B8:B7:FC:46:1D:B5:8B:8A:B0:3C:D1:98:5C:96:12:6B:9B:C1:B9:9A",
+        "notbefore": "20210406165516Z",
+        "notafter": "20230406165516Z",
+        "serialnumber": 445565831062778795139113285585100151728946026335,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "6F:B9:5D:F1:85:53:95:97:8C:45:D9:4B:BE:75:79:8B:5D:75:69:ED:21:F4:2F:2B:B9:44:DB:85:87:C1:51:D3",
+        "notbefore": "20220922163152Z",
+        "notafter": "20420917163152Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "tz"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "A3:AE:D9:3A:3C:9A:18:D9:7F:60:0F:2B:AE:6B:80:1E:A4:9A:2F:B2:60:7E:FD:9B:48:46:AC:F8:EC:77:33:19",
+        "notbefore": "20210406165448Z",
+        "notafter": "20230406165448Z",
+        "serialnumber": 396405985059272101123141076424553394978030332656,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "multi_image_qti"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "B4:91:A8:05:1D:86:C4:93:6D:5F:15:95:2B:B0:EF:79:00:8A:29:F7:89:27:9F:D1:F2:BB:F5:2B:39:2B:C4:92",
+        "notbefore": "20220922162757Z",
+        "notafter": "20420917162757Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864289,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "mfido"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "75:47:34:55:B8:D4:60:93:1B:7E:DB:15:8B:DF:6B:65:30:20:19:2F:B3:27:F4:AC:52:7A:32:D2:9F:88:47:2A",
+        "notbefore": "20220922162801Z",
+        "notafter": "20420917162801Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864266,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "secauth"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "6A:10:E8:C7:EB:76:C1:55:8A:94:E3:E5:2E:64:AB:F2:EE:52:14:03:95:0C:4E:C0:BE:6D:3D:EC:5B:84:69:00",
+        "notbefore": "20220922162810Z",
+        "notafter": "20420917162810Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864274,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "vsimapp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "9D:38:2C:94:E9:B6:BD:10:61:EE:83:A7:D3:FC:E1:A9:8D:47:5F:00:EA:E5:40:35:2D:96:9C:0E:4E:5B:5C:BD",
+        "notbefore": "20220922162721Z",
+        "notafter": "20420917162721Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "smplap64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "59:43:7A:00:A6:1A:A0:51:9C:87:DC:5E:63:03:1D:82:A6:4F:BD:F8:40:0A:6D:7A:1E:A3:EF:28:EE:43:37:84",
+        "notbefore": "20211111025917Z",
+        "notafter": "20231111025917Z",
+        "serialnumber": 260815442251831174039176165226908994125234662973,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "EF:F5:66:8E:60:6B:CB:7F:67:10:C1:8E:01:04:35:FD:DD:D4:28:A9:73:BC:8A:05:09:B0:8C:39:E5:0B:2F:C1",
+        "notbefore": "20220922162913Z",
+        "notafter": "20420917162913Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "haventkn"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "36:4E:AF:03:A4:04:F2:27:A8:29:DB:4B:C1:66:7F:2B:07:14:67:7D:64:68:94:CA:27:21:E9:E3:83:DA:4A:F8",
+        "notbefore": "20220922162750Z",
+        "notafter": "20420917162750Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320868127,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "gpeid"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "87:9D:C3:48:27:B0:0A:DF:D0:28:0E:6C:8B:FD:51:F7:95:06:CB:DC:BB:9C:89:74:E6:0C:E4:B8:6E:5B:C3:EC",
+        "notbefore": "20220922162831Z",
+        "notafter": "20420917162831Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1929,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "fpcapo"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "48:7C:92:D6:B5:5E:2D:96:C2:82:C4:FB:D9:2C:F0:AD:B1:AC:7F:B0:9A:4F:A5:06:63:49:AE:FF:AD:C3:5F:84",
+        "notbefore": "20200909101942Z",
+        "notafter": "20400904101942Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "apttestapp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "74:1B:A3:4A:61:59:1F:C1:41:E6:4C:03:B5:D5:72:33:AA:02:2A:D3:DB:89:C2:C9:E6:68:F1:55:89:D4:45:F9",
+        "notbefore": "20220922162837Z",
+        "notafter": "20420917162837Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864257,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "cardapp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "5A:5B:2A:0D:F8:3D:DE:58:A6:E6:94:27:61:BB:51:91:87:83:18:33:64:7E:F8:93:69:66:8B:40:0B:8C:28:83",
+        "notbefore": "20210422001237Z",
+        "notafter": "20230422001237Z",
+        "serialnumber": 238729765278818855906118185725624586844420957073,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "C0:ED:F3:C3:6B:43:E2:65:66:81:90:EA:65:99:3C:EE:4A:6C:03:11:7E:C4:AD:79:8E:E2:BF:57:90:4E:96:20",
+        "notbefore": "20220922162806Z",
+        "notafter": "20420917162806Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "cmnlib"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "3C:61:44:8B:08:C2:D2:EE:70:6C:75:17:94:88:1C:58:60:C5:2E:06:4E:F5:4F:E5:4F:DE:20:3F:BB:0C:AB:8B",
+        "notbefore": "20220922162910Z",
+        "notafter": "20420917162910Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864278,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "soter64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "D3:B1:73:AA:33:3A:C7:DD:0B:A2:A7:CF:FA:24:FF:5A:47:60:B5:58:DF:43:25:18:CC:94:67:E6:12:7C:78:36",
+        "notbefore": "20220922163131Z",
+        "notafter": "20420917163131Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 14,
+    "secondary_sw_id": 0,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "apps"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "F5:16:40:78:4E:9D:D0:37:C5:09:56:7A:CC:A9:94:E1:4C:AD:1A:29:DB:4E:58:A4:FE:A4:B3:FF:90:65:38:AE",
+        "notbefore": "20220922162824Z",
+        "notafter": "20420917162824Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864286,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "gpqese"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "E4:F7:5D:3F:C6:12:7A:6A:CE:0D:17:DC:07:4E:06:7A:47:CE:5E:0B:73:CB:F8:A9:CD:2C:14:C5:A2:90:69:C0",
+        "notbefore": "20200910105738Z",
+        "notafter": "20400905105738Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "spss2p"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "22:E0:F7:71:61:80:EE:84:70:0F:E9:30:E7:DC:C3:EC:5F:DE:D1:3F:AC:4C:50:62:7A:C2:CC:05:8F:F7:FE:5A",
+        "notbefore": "20220922162743Z",
+        "notafter": "20420917162743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1924,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "gflmi"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "8C:1C:79:80:B7:18:FE:AB:8E:4A:10:87:0A:5E:34:71:D4:A2:EA:CB:F5:5B:84:41:77:63:BE:FD:AC:28:1B:11",
+        "notbefore": "20220922163229Z",
+        "notafter": "20420917163229Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "C0:A6:92:56:7D:FB:F1:EF:51:3C:BC:F7:E2:27:37:49:4F:72:4E:83:0E:B6:37:2A:67:5E:B8:67:33:9A:17:A7",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "95:9B:8D:05:49:EF:41:BE:FA:BC:24:F5:1E:FE:84:FE:E3:66:AC:16:9A:B0:4A:0D:B3:0C:79:9B:32:4F:D7:98",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "multi_image"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "06:78:06:1C:FA:62:B3:42:53:BB:FA:C3:3B:11:AF:2B:EC:B9:62:90:9F:BB:D8:BA:18:31:3B:49:7C:E9:35:6E",
+        "notbefore": "20220922162830Z",
+        "notafter": "20420917162830Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864262,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "mlipay"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "07:D4:50:B3:58:97:E1:5E:ED:F5:9E:A3:69:6E:D7:10:59:5A:CB:66:5D:77:84:68:A3:F7:52:36:59:2F:2F:4F",
+        "notbefore": "20220922162747Z",
+        "notafter": "20420917162747Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1926,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "gflmi6"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "95:2E:EF:BE:29:66:70:F1:BD:62:F0:82:CF:A3:E5:A3:46:91:3E:11:7C:EE:01:4E:DC:57:D6:BA:DA:E8:C0:8B",
+        "notbefore": "20220922162854Z",
+        "notafter": "20420917162854Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 821,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "fingerpr"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "1F:A8:A7:F2:0E:D9:09:FC:B0:A6:CF:E7:D3:09:ED:64:F8:12:CC:AB:50:EA:7A:3B:CD:4C:BD:26:B9:71:AE:67",
+        "notbefore": "20220922162755Z",
+        "notafter": "20420917162755Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1922,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "gfumi"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "85:54:CB:83:DE:59:9B:3B:7A:24:FD:C6:A1:8F:A6:6E:A8:77:4A:46:F5:FC:B3:C3:3E:C0:D4:8B:A0:2F:36:B9",
+        "notbefore": "20220922162722Z",
+        "notafter": "20420917162722Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "smplap32"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "62:00:4F:89:DC:95:5E:06:73:8F:73:14:24:95:30:22:D0:84:DB:98:D9:13:2A:07:C0:61:B8:A8:7F:2D:E7:A1",
+        "notbefore": "20220922162829Z",
+        "notafter": "20420917162829Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1925,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "gfurd"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "53:91:58:8B:62:CC:1B:FA:BF:AA:30:4F:26:71:62:83:A1:B6:D1:2F:1B:80:4B:54:AE:B1:71:BB:C8:82:02:A5",
+        "notbefore": "20220922162902Z",
+        "notafter": "20420917162902Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864279,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "hdcpsrm"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "80:78:3F:42:D9:30:E5:6C:65:A3:47:20:3A:84:C2:B5:3F:B3:2D:F0:C4:58:40:D7:D9:60:E2:BC:E4:90:74:CD",
+        "notbefore": "20220922162821Z",
+        "notafter": "20420917162821Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864530,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "antdtx"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "2F:F2:B1:92:E1:61:71:C0:87:55:25:02:26:82:54:4E:3F:11:C2:8B:F9:E6:DC:18:6E:37:D3:85:7F:A8:2A:9B",
+        "notbefore": "20220922162912Z",
+        "notafter": "20420917162912Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1911,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "hdcp2p2"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "59:43:7A:00:A6:1A:A0:51:9C:87:DC:5E:63:03:1D:82:A6:4F:BD:F8:40:0A:6D:7A:1E:A3:EF:28:EE:43:37:84",
+        "notbefore": "20211111025917Z",
+        "notafter": "20231111025917Z",
+        "serialnumber": 260815442251831174039176165226908994125234662973,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "EF:F5:66:8E:60:6B:CB:7F:67:10:C1:8E:01:04:35:FD:DD:D4:28:A9:73:BC:8A:05:09:B0:8C:39:E5:0B:2F:C1",
+        "notbefore": "20220922162913Z",
+        "notafter": "20420917162913Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Feature License Attestation Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "37:0E:17:E5:88:A1:12:1E:03:5F:C7:5A:F9:87:24:C9:D9:5E:16:07:92:28:08:95:9D:7D:46:B5:C0:47:4C:D3",
+        "notbefore": "20151002000001Z",
+        "notafter": "20451001235959Z",
+        "serialnumber": 173387853770470392918606252303726353709162129728104,
+        "issuer": "CN=Feature License Attestation Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=Insecure License Test Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "DA:7A:98:8E:D2:03:37:C8:F8:22:4A:09:A0:16:F6:C8:3C:D2:0A:96:FC:43:82:CC:E5:35:9A:BF:2D:41:63:83",
+        "notbefore": "20161208002525Z",
+        "notafter": "20361203002525Z",
+        "serialnumber": 173387853770470392918606252303726353709162129728104,
+        "issuer": "CN=Insecure License Test Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "haventkn"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "88:4C:7D:47:AE:B7:F4:12:07:A7:68:DD:DE:83:27:4C:E7:34:37:5C:79:AA:5C:73:6C:1B:7E:D8:66:29:F8:1C",
+        "notbefore": "20220922163153Z",
+        "notafter": "20420917163153Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 5,
+    "secondary_sw_id": 0,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "devcfg"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "FA:F3:A5:7A:5C:CB:FA:8C:D5:93:CC:D3:26:79:B0:90:D1:E6:3A:73:75:E1:B6:C4:61:A7:1B:9D:85:C9:34:A7",
+        "notbefore": "20220922162901Z",
+        "notafter": "20420917162901Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 530,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "securemm"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "86:06:D7:39:64:01:0E:33:8E:4E:29:54:16:10:F7:DB:F7:AA:C5:53:61:4E:7B:41:61:35:56:A0:E2:8F:8E:C5",
+        "notbefore": "20220922162852Z",
+        "notafter": "20420917162852Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 819,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "F1:49:23:7B:E0:5F:13:C0:E4:68:AC:EF:50:3C:C1:D1:40:2A:7D:42:E7:35:C7:B4:B0:7A:7B:49:12:B3:12:98",
+        "notbefore": "20200324224536Z",
+        "notafter": "20220324224536Z",
+        "serialnumber": 295640047363217389837073909450260429936,
+        "issuer": "CN=XBL Sec Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=XBL Sec Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "26:9A:D6:76:0A:56:84:CF:3D:73:43:CF:F4:C9:B9:4B:67:D9:68:FB:0F:1A:ED:71:7B:BE:67:EF:16:5D:0E:A4",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 162555538407722648675374066852750769242945249154114,
+        "issuer": "CN=XBL Sec Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=XBL Sec Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "EF:29:C4:D3:D6:6E:7C:57:E0:26:FF:DA:5A:79:5B:0B:7B:5D:F7:F5:59:19:FF:0D:AD:7D:12:E9:F3:BB:CA:A4",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 162555538407722648675374066852750769242945249154113,
+        "issuer": "CN=XBL Sec Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "40:FA:17:19:3D:01:A0:CB:99:CF:B1:63:96:7A:BE:53:24:F7:46:A6:EC:D8:8B:D1:AB:5B:65:63:50:F9:24:80",
+        "notbefore": "20220922163221Z",
+        "notafter": "20420917163221Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 0,
+    "secondary_sw_id": 0,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "sbl1"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "1B:2E:D2:A4:84:52:FD:DB:02:26:A0:B3:EC:41:7C:E5:77:11:B5:6E:D4:49:2A:CF:D4:EF:C3:65:DC:E1:AF:EA",
+        "notbefore": "20200909102501Z",
+        "notafter": "20400904102501Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "hdcptest"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "68:9B:26:FA:28:EC:77:8E:6C:D4:81:AF:28:CE:4E:5D:E1:FF:33:40:07:07:F5:4F:E3:25:0D:DF:13:23:8E:17",
+        "notbefore": "20220922162921Z",
+        "notafter": "20420917162921Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 33,
+    "secondary_sw_id": 0,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "aop"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "FA:FA:D1:9B:29:FE:E5:3E:36:33:A5:CF:24:38:25:53:AE:4B:FB:FE:16:95:06:EE:E3:49:50:CE:AC:C7:C9:22",
+        "notbefore": "20210422001325Z",
+        "notafter": "20230422001325Z",
+        "serialnumber": 395352849153364561735200588291193030966699138511,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "9E:29:98:35:A0:89:84:B3:E2:5C:8E:4B:D9:39:8F:70:46:DE:31:F8:F3:46:40:86:8B:0A:98:44:6F:A6:4C:9F",
+        "notbefore": "20220922162833Z",
+        "notafter": "20420917162833Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "cmnlib64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "EC:E0:9E:60:89:53:DB:12:64:84:91:66:F3:1C:A9:6A:C4:22:5E:95:CE:50:2B:A1:73:9C:D0:C8:61:5A:61:55",
+        "notbefore": "20200909101938Z",
+        "notafter": "20400904101938Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "aptcryptotestapp64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "8E:58:1E:32:BC:D2:38:C6:A1:C1:E4:23:C1:1D:05:5D:92:02:AC:87:33:8B:EE:A5:68:67:E1:A9:7E:CE:DC:DE",
+        "notbefore": "20220922162840Z",
+        "notafter": "20420917162840Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 320864258,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "eseservice"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "1E:AA:7B:12:0D:CF:24:D2:9D:BF:1A:09:B4:24:D2:09:90:00:AF:35:86:13:25:AB:3A:2C:4D:F7:AB:C2:D2:62",
+        "notbefore": "20220922162812Z",
+        "notafter": "20420917162812Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1928,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "gfcas"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "6D:CA:B7:38:96:8F:6C:42:9E:28:26:C9:96:77:B0:B4:8E:5B:BF:6C:FC:53:B3:2F:93:28:FB:32:22:5D:16:DE",
+        "notbefore": "20190927113938Z",
+        "notafter": "20390922113938Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 512,
+    "secondary_sw_id": 0,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "apdp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1639,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "voicepri"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "DF:39:12:1B:14:35:5F:5F:3A:5E:0D:9C:AA:7A:21:5C:75:19:A3:B2:01:63:CF:77:53:38:37:E7:6A:4A:A1:A7",
+        "notbefore": "20220922162807Z",
+        "notafter": "20420917162807Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+        "notbefore": "20171029040705Z",
+        "notafter": "20371024040705Z",
+        "serialnumber": 5,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      },
+      {
+        "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+        "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+        "notbefore": "20171029040611Z",
+        "notafter": "20371024040611Z",
+        "serialnumber": 1,
+        "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1923,
+    "oem_id": 114,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "fpcumi"
+  }
+]

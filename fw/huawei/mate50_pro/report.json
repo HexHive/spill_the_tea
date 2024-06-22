@@ -1,0 +1,3154 @@
+[
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "coauth"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "ultidrmwv"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "vsi"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "EC:19:3F:79:1D:8A:24:04:10:0E:1E:F2:4C:06:05:C4:CC:BF:83:B4:DD:74:83:97:A1:FA:DB:01:C0:20:11:9E",
+        "notbefore": "20220517133641Z",
+        "notafter": "20420512133641Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "AC:B5:B1:17:04:4E:62:11:A3:54:19:CE:8D:0B:F1:8C:C2:B6:16:0F:77:A9:4A:A2:C7:A2:F8:77:DA:AD:4B:2C",
+        "notbefore": "20160321215215Z",
+        "notafter": "20360316215215Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "9C:DA:62:68:C1:19:16:FF:53:B4:1F:2B:17:01:E2:75:8F:C3:BB:D2:27:53:8E:E1:27:15:8F:7C:95:27:A4:54",
+        "notbefore": "20160321215211Z",
+        "notafter": "20360316215211Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "sp_license"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "adsp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "prdr"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "hdcp2p2"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "weaver"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "kds"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "ifaa"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "cdsp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "face"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "securennxta64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "pki"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "EB:0D:D7:A1:24:6F:DB:0A:07:F9:3A:6B:93:12:5D:FC:92:52:32:76:EE:7F:91:BA:EF:4C:A2:FC:37:41:ED:1E",
+        "notbefore": "20220517133609Z",
+        "notafter": "20420512133609Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "AC:B5:B1:17:04:4E:62:11:A3:54:19:CE:8D:0B:F1:8C:C2:B6:16:0F:77:A9:4A:A2:C7:A2:F8:77:DA:AD:4B:2C",
+        "notbefore": "20160321215215Z",
+        "notafter": "20360316215215Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "9C:DA:62:68:C1:19:16:FF:53:B4:1F:2B:17:01:E2:75:8F:C3:BB:D2:27:53:8E:E1:27:15:8F:7C:95:27:A4:54",
+        "notbefore": "20160321215211Z",
+        "notafter": "20360316215211Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "ops"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "cis"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "nfcteehardwarecheck"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "enhanced_circle"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "nfcwalletcheck"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "voiceauth"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "58:ED:19:F8:27:68:D4:D8:75:69:62:3F:7C:AE:43:EE:29:70:BE:A8:EE:44:CF:CE:15:73:0F:89:D8:65:DE:6E",
+        "notbefore": "20220517133306Z",
+        "notafter": "20420512133306Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "AC:B5:B1:17:04:4E:62:11:A3:54:19:CE:8D:0B:F1:8C:C2:B6:16:0F:77:A9:4A:A2:C7:A2:F8:77:DA:AD:4B:2C",
+        "notbefore": "20160321215215Z",
+        "notafter": "20360316215215Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "9C:DA:62:68:C1:19:16:FF:53:B4:1F:2B:17:01:E2:75:8F:C3:BB:D2:27:53:8E:E1:27:15:8F:7C:95:27:A4:54",
+        "notbefore": "20160321215211Z",
+        "notafter": "20360316215211Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "eid"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "secure_agen"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "ainfpr"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "itofalgo64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "antithef"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      },
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "BD:AC:7D:F0:67:9C:42:37:04:0C:E9:EF:01:6B:E1:FC:D6:D6:33:17:A7:A7:4B:25:04:B4:B2:74:19:A3:5C:FC",
+        "notbefore": "20220518175607Z",
+        "notafter": "20240518175607Z",
+        "serialnumber": 287975592223479597222687628904331271042820477316,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SRoT MBNv7 Image Signing Root CA 6 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "94:5D:44:CE:F4:35:81:75:01:A7:0B:DC:61:C1:56:C0:ED:55:05:04:A0:65:80:10:4E:E6:2F:FA:DB:6D:74:03",
+        "notbefore": "20200825220346Z",
+        "notafter": "20300825220346Z",
+        "serialnumber": 996091429729812749978817681183613880540367235477,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "6D:8D:59:5F:C1:AD:2F:80:38:3F:26:64:53:F9:B4:8B:35:F4:8A:09:7C:C8:1B:1E:C2:82:16:1C:56:1D:47:F6",
+        "notbefore": "20200825215431Z",
+        "notafter": "20500825215431Z",
+        "serialnumber": 10049847127100329645,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "rtic"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "remotepin"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "fido"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "ode"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "nfcactivecar"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "gsl_7015"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "powerc"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "64:10:B5:13:01:7B:C6:00:BC:B9:CE:B3:30:5F:B1:5D:ED:50:47:C2:15:7F:35:8A:B4:1C:70:B2:6D:33:A0:E1",
+        "notbefore": "20220517133608Z",
+        "notafter": "20420512133608Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "AC:B5:B1:17:04:4E:62:11:A3:54:19:CE:8D:0B:F1:8C:C2:B6:16:0F:77:A9:4A:A2:C7:A2:F8:77:DA:AD:4B:2C",
+        "notbefore": "20160321215215Z",
+        "notafter": "20360316215215Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "9C:DA:62:68:C1:19:16:FF:53:B4:1F:2B:17:01:E2:75:8F:C3:BB:D2:27:53:8E:E1:27:15:8F:7C:95:27:A4:54",
+        "notbefore": "20160321215211Z",
+        "notafter": "20360316215211Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "loadalgota64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "hdcp1"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "19:AF:05:72:AF:B5:2C:62:D6:C4:7B:85:13:CF:E5:37:F7:5C:EF:89:FC:24:C0:22:92:A6:9C:A1:93:BD:E7:BC",
+        "notbefore": "20220517133609Z",
+        "notafter": "20420512133609Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "AC:B5:B1:17:04:4E:62:11:A3:54:19:CE:8D:0B:F1:8C:C2:B6:16:0F:77:A9:4A:A2:C7:A2:F8:77:DA:AD:4B:2C",
+        "notbefore": "20160321215215Z",
+        "notafter": "20360316215215Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "9C:DA:62:68:C1:19:16:FF:53:B4:1F:2B:17:01:E2:75:8F:C3:BB:D2:27:53:8E:E1:27:15:8F:7C:95:27:A4:54",
+        "notbefore": "20160321215211Z",
+        "notafter": "20360316215211Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "ldapta"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "C3:3D:4B:67:77:C1:92:FC:AF:14:09:7D:F4:8A:F3:4A:25:66:A8:94:6D:6A:B3:6D:CF:AC:51:64:27:BD:69:51",
+        "notbefore": "20220517133548Z",
+        "notafter": "20420512133548Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "AC:B5:B1:17:04:4E:62:11:A3:54:19:CE:8D:0B:F1:8C:C2:B6:16:0F:77:A9:4A:A2:C7:A2:F8:77:DA:AD:4B:2C",
+        "notbefore": "20160321215215Z",
+        "notafter": "20360316215215Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "9C:DA:62:68:C1:19:16:FF:53:B4:1F:2B:17:01:E2:75:8F:C3:BB:D2:27:53:8E:E1:27:15:8F:7C:95:27:A4:54",
+        "notbefore": "20160321215211Z",
+        "notafter": "20360316215211Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "ic3"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "itofpmdalgo"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "smplap64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "soter64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "bonevoice"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "eseservice"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "cdrmcapp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "hwgpqese"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "i"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "2E:2F:18:1B:AB:C3:E7:76:66:6A:31:A4:80:0A:0D:5B:EF:19:69:21:17:7D:8D:08:60:C4:8F:A7:96:EF:1F:40",
+        "notbefore": "20220517133647Z",
+        "notafter": "20420512133647Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "AC:B5:B1:17:04:4E:62:11:A3:54:19:CE:8D:0B:F1:8C:C2:B6:16:0F:77:A9:4A:A2:C7:A2:F8:77:DA:AD:4B:2C",
+        "notbefore": "20160321215215Z",
+        "notafter": "20360316215215Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "9C:DA:62:68:C1:19:16:FF:53:B4:1F:2B:17:01:E2:75:8F:C3:BB:D2:27:53:8E:E1:27:15:8F:7C:95:27:A4:54",
+        "notbefore": "20160321215211Z",
+        "notafter": "20360316215211Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "tuiauthapp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "65:8A:B2:30:1F:BE:D4:DB:7C:89:8A:F0:B5:99:4B:B3:4E:44:67:82:C5:C7:35:47:A4:CF:BF:F7:EE:0A:32:D7",
+        "notbefore": "20220518175604Z",
+        "notafter": "20240518175604Z",
+        "serialnumber": 11543048243436855994587426149906164411672823240,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SRoT MBNv7 Image Signing Root CA 6 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "94:5D:44:CE:F4:35:81:75:01:A7:0B:DC:61:C1:56:C0:ED:55:05:04:A0:65:80:10:4E:E6:2F:FA:DB:6D:74:03",
+        "notbefore": "20200825220346Z",
+        "notafter": "20300825220346Z",
+        "serialnumber": 996091429729812749978817681183613880540367235477,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "6D:8D:59:5F:C1:AD:2F:80:38:3F:26:64:53:F9:B4:8B:35:F4:8A:09:7C:C8:1B:1E:C2:82:16:1C:56:1D:47:F6",
+        "notbefore": "20200825215431Z",
+        "notafter": "20500825215431Z",
+        "serialnumber": 10049847127100329645,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "featenabler"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "huks"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "egis_721"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "panpay"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "winsecap"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "goodix_g3s"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "ipa_fws"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "faceidalgota64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "evautil64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "hwfuse"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "hdcpsr"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "walletei"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "68:66:10:14:99:33:07:67:A4:EC:2D:98:85:78:67:2B:E6:9C:54:1F:C8:D1:95:D1:93:C8:A0:FF:20:B6:DE:3A",
+        "notbefore": "20220317074950Z",
+        "notafter": "20240317074950Z",
+        "serialnumber": 97855109882794409440112679370606450467713759204,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SRoT MBNv7 Image Signing Root CA 6 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "94:5D:44:CE:F4:35:81:75:01:A7:0B:DC:61:C1:56:C0:ED:55:05:04:A0:65:80:10:4E:E6:2F:FA:DB:6D:74:03",
+        "notbefore": "20200825220346Z",
+        "notafter": "20300825220346Z",
+        "serialnumber": 996091429729812749978817681183613880540367235477,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "6D:8D:59:5F:C1:AD:2F:80:38:3F:26:64:53:F9:B4:8B:35:F4:8A:09:7C:C8:1B:1E:C2:82:16:1C:56:1D:47:F6",
+        "notbefore": "20200825215431Z",
+        "notafter": "20500825215431Z",
+        "serialnumber": 10049847127100329645,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "cpusys_v"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=verifyboot_qcom_attest_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "FA:BC:DC:62:43:F3:F8:67:D8:39:0D:10:EA:8D:96:92:24:2E:A2:C6:03:06:08:38:8D:81:7A:A1:53:3C:2F:85",
+        "notbefore": "20220324141703Z",
+        "notafter": "20520324141703Z",
+        "serialnumber": 1648131423557,
+        "issuer": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_attestca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "39:F8:8F:1A:A7:F1:73:28:A1:3B:AA:7E:AC:7A:73:4A:A0:F1:84:51:D5:57:A8:04:E1:9C:F6:BE:A3:E8:0E:FE",
+        "notbefore": "20220324141609Z",
+        "notafter": "20520324141609Z",
+        "serialnumber": 1648131369172,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "17:B5:0E:92:36:FA:3E:97:32:AD:18:C6:C0:41:35:08:B8:F8:D6:5C:3C:79:2F:26:FB:76:53:9B:2B:46:99:D0",
+        "notbefore": "20220324131538Z",
+        "notafter": "20520324131538Z",
+        "serialnumber": 1648127738801,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      },
+      {
+        "subject": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN",
+        "sha256": "CD:14:D9:0F:AA:8E:A8:7D:8E:11:48:BD:F0:A9:3C:42:50:65:F6:61:6A:C9:B7:65:0F:CF:42:A5:30:E1:3E:55",
+        "notbefore": "20220324141513Z",
+        "notafter": "20520324141513Z",
+        "serialnumber": 1648131313080,
+        "issuer": "CN=verifyboot_qcom_rootca_key_secboot_release_v12,O=Huawei,OU=Huawei CBG,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "slpi"
+  }
+]

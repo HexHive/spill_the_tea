@@ -1,0 +1,534 @@
+[
+  {
+    "certs": [
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=01 000000000000000C SW_ID,C=CN",
+        "sha256": "C2:76:16:30:31:FC:44:F1:96:24:ED:F8:1A:E5:32:2B:9E:11:17:99:4D:9F:86:38:93:42:1A:2B:9E:A1:56:58",
+        "notbefore": "20210910041757Z",
+        "notafter": "20410905041757Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN",
+        "sha256": "BB:37:B1:3F:64:19:CA:77:29:C5:34:F4:88:4B:5E:B6:CF:AD:18:23:E7:DA:19:BC:2D:F3:0F:AA:25:4D:A6:C3",
+        "notbefore": "20171027074808Z",
+        "notafter": "21090131074808Z",
+        "serialnumber": 5,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN",
+        "sha256": "2C:0A:52:FF:BD:8D:B6:87:B5:6F:6A:98:D8:84:0F:46:59:7A:4D:DE:6D:9D:C8:D0:00:39:87:3C:E6:D7:4F:60",
+        "notbefore": "20171026070939Z",
+        "notafter": "21090130070939Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 1610874880,
+    "OEM_ID": 115,
+    "SW_SIZE": 296,
+    "MODEL_ID": 3,
+    "SHA256": 1,
+    "DEBUG": 2,
+    "APP_ID": 273,
+    "IN_USE_SOC_HW_VERSION": 1,
+    "old_mdt": true,
+    "ta_name": "smplap32"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=01 000000000000000C SW_ID,C=US",
+        "sha256": "31:A3:38:5C:3D:C4:7D:F2:11:89:FD:95:0E:31:99:9C:3E:0C:4C:8B:2D:69:60:6E:20:AA:28:EB:22:A8:50:7A",
+        "notbefore": "20210409062337Z",
+        "notafter": "20410404062337Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 1610874880,
+    "DEBUG": 0,
+    "OEM_ID": 0,
+    "SW_SIZE": 296,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "APP_ID": 11684462368737107203,
+    "IN_USE_SOC_HW_VERSION": 1,
+    "old_mdt": true,
+    "ta_name": "gptes"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=01 000000000000000E SW_ID,C=CN",
+        "sha256": "27:85:65:6C:A9:07:21:5D:51:E4:79:0F:CE:BA:B5:4E:97:96:E8:18:DC:65:D6:C3:40:CD:3A:9E:D3:32:B1:A4",
+        "notbefore": "20210910041755Z",
+        "notafter": "20410905041755Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN",
+        "sha256": "BB:37:B1:3F:64:19:CA:77:29:C5:34:F4:88:4B:5E:B6:CF:AD:18:23:E7:DA:19:BC:2D:F3:0F:AA:25:4D:A6:C3",
+        "notbefore": "20171027074808Z",
+        "notafter": "21090131074808Z",
+        "serialnumber": 5,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN",
+        "sha256": "2C:0A:52:FF:BD:8D:B6:87:B5:6F:6A:98:D8:84:0F:46:59:7A:4D:DE:6D:9D:C8:D0:00:39:87:3C:E6:D7:4F:60",
+        "notbefore": "20171026070939Z",
+        "notafter": "21090130070939Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      }
+    ],
+    "SW_ID": 14,
+    "Version": 0,
+    "Image_ID": 14,
+    "MSM_ID": 1610874880,
+    "OEM_ID": 115,
+    "SW_SIZE": 200,
+    "MODEL_ID": 3,
+    "SHA256": 1,
+    "DEBUG": 2,
+    "IN_USE_SOC_HW_VERSION": 1,
+    "old_mdt": true,
+    "ta_name": "venus"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=01 000000000000000C SW_ID,C=US",
+        "sha256": "DE:61:BF:3E:13:2D:C6:45:40:AD:AB:60:64:E7:6A:1B:97:C8:B7:20:B2:9D:1C:0E:B5:A9:0D:63:3C:4B:78:41",
+        "notbefore": "20210409063125Z",
+        "notafter": "20410404063125Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 1610874880,
+    "DEBUG": 0,
+    "OEM_ID": 0,
+    "SW_SIZE": 296,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "APP_ID": 15122911976939569816,
+    "IN_USE_SOC_HW_VERSION": 1,
+    "old_mdt": true,
+    "ta_name": "fingerpr"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=01 000000000000000C SW_ID,C=US",
+        "sha256": "87:56:7A:E8:F3:54:0C:6B:6E:B8:2F:DB:4D:15:D4:AD:5A:9A:B4:E7:ED:38:93:A9:26:DB:72:A1:EA:88:1C:A3",
+        "notbefore": "20210409063136Z",
+        "notafter": "20410404063136Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 1610874880,
+    "DEBUG": 0,
+    "OEM_ID": 0,
+    "SW_SIZE": 296,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "APP_ID": 7181315553411926289,
+    "IN_USE_SOC_HW_VERSION": 1,
+    "old_mdt": true,
+    "ta_name": "rtic"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=01 000000000000000C SW_ID,C=CN",
+        "sha256": "25:6A:F3:2B:F2:56:33:19:69:0B:61:08:CA:8F:D6:F4:DD:5A:A7:2F:AD:5B:07:5F:FC:66:37:11:66:D5:FD:3A",
+        "notbefore": "20210910041810Z",
+        "notafter": "20410905041810Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN",
+        "sha256": "BB:37:B1:3F:64:19:CA:77:29:C5:34:F4:88:4B:5E:B6:CF:AD:18:23:E7:DA:19:BC:2D:F3:0F:AA:25:4D:A6:C3",
+        "notbefore": "20171027074808Z",
+        "notafter": "21090131074808Z",
+        "serialnumber": 5,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN",
+        "sha256": "2C:0A:52:FF:BD:8D:B6:87:B5:6F:6A:98:D8:84:0F:46:59:7A:4D:DE:6D:9D:C8:D0:00:39:87:3C:E6:D7:4F:60",
+        "notbefore": "20171026070939Z",
+        "notafter": "21090130070939Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 1610874880,
+    "OEM_ID": 115,
+    "SW_SIZE": 296,
+    "MODEL_ID": 3,
+    "SHA256": 1,
+    "DEBUG": 2,
+    "APP_ID": 305,
+    "IN_USE_SOC_HW_VERSION": 1,
+    "old_mdt": true,
+    "ta_name": "haventkn"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=01 000000000000000C SW_ID,C=CN",
+        "sha256": "75:58:1E:EC:D0:A6:5B:95:EB:76:0F:1B:D2:D5:95:16:BE:24:25:B3:67:CC:67:E0:81:89:57:0E:A6:DB:72:6A",
+        "notbefore": "20210910041759Z",
+        "notafter": "20410905041759Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN",
+        "sha256": "BB:37:B1:3F:64:19:CA:77:29:C5:34:F4:88:4B:5E:B6:CF:AD:18:23:E7:DA:19:BC:2D:F3:0F:AA:25:4D:A6:C3",
+        "notbefore": "20171027074808Z",
+        "notafter": "21090131074808Z",
+        "serialnumber": 5,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN",
+        "sha256": "2C:0A:52:FF:BD:8D:B6:87:B5:6F:6A:98:D8:84:0F:46:59:7A:4D:DE:6D:9D:C8:D0:00:39:87:3C:E6:D7:4F:60",
+        "notbefore": "20171026070939Z",
+        "notafter": "21090130070939Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 1610874880,
+    "OEM_ID": 115,
+    "SW_SIZE": 296,
+    "MODEL_ID": 3,
+    "SHA256": 1,
+    "DEBUG": 2,
+    "APP_ID": 273,
+    "IN_USE_SOC_HW_VERSION": 1,
+    "old_mdt": true,
+    "ta_name": "smplap64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=01 000000000000000C SW_ID,C=US",
+        "sha256": "2E:F2:40:E7:10:7B:2D:FC:18:44:09:BB:25:1D:19:A3:1F:6E:29:26:04:52:AD:E6:33:12:F9:0F:F7:BC:B8:CD",
+        "notbefore": "20210409063140Z",
+        "notafter": "20410404063140Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 1610874880,
+    "DEBUG": 0,
+    "OEM_ID": 0,
+    "SW_SIZE": 296,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "APP_ID": 16848695023676181383,
+    "IN_USE_SOC_HW_VERSION": 1,
+    "old_mdt": true,
+    "ta_name": "soter64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=01 000000000000001F SW_ID,C=CN",
+        "sha256": "A2:1A:80:A2:D6:5E:AF:93:90:D7:D6:02:21:CA:94:BE:63:44:77:80:A7:27:A5:11:B4:44:27:73:AF:A1:69:EE",
+        "notbefore": "20210910041807Z",
+        "notafter": "20410905041807Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN",
+        "sha256": "BB:37:B1:3F:64:19:CA:77:29:C5:34:F4:88:4B:5E:B6:CF:AD:18:23:E7:DA:19:BC:2D:F3:0F:AA:25:4D:A6:C3",
+        "notbefore": "20171027074808Z",
+        "notafter": "21090131074808Z",
+        "serialnumber": 5,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN",
+        "sha256": "2C:0A:52:FF:BD:8D:B6:87:B5:6F:6A:98:D8:84:0F:46:59:7A:4D:DE:6D:9D:C8:D0:00:39:87:3C:E6:D7:4F:60",
+        "notbefore": "20171026070939Z",
+        "notafter": "21090130070939Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      }
+    ],
+    "SW_ID": 31,
+    "Version": 0,
+    "Image_ID": 31,
+    "MSM_ID": 1610874880,
+    "OEM_ID": 115,
+    "SW_SIZE": 232,
+    "MODEL_ID": 3,
+    "SHA256": 1,
+    "DEBUG": 2,
+    "APP_ID": 1365,
+    "IN_USE_SOC_HW_VERSION": 1,
+    "old_mdt": true,
+    "ta_name": "cmnlib64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=01 000000000000000C SW_ID,C=CN",
+        "sha256": "A2:3B:EC:97:54:FD:DA:32:7C:60:A0:79:69:D8:F2:AD:A4:F1:32:10:4B:9F:6D:49:47:6D:4F:6C:3D:87:27:F0",
+        "notbefore": "20210910041803Z",
+        "notafter": "20410905041803Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN",
+        "sha256": "BB:37:B1:3F:64:19:CA:77:29:C5:34:F4:88:4B:5E:B6:CF:AD:18:23:E7:DA:19:BC:2D:F3:0F:AA:25:4D:A6:C3",
+        "notbefore": "20171027074808Z",
+        "notafter": "21090131074808Z",
+        "serialnumber": 5,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN",
+        "sha256": "2C:0A:52:FF:BD:8D:B6:87:B5:6F:6A:98:D8:84:0F:46:59:7A:4D:DE:6D:9D:C8:D0:00:39:87:3C:E6:D7:4F:60",
+        "notbefore": "20171026070939Z",
+        "notafter": "21090130070939Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 1610874880,
+    "OEM_ID": 115,
+    "SW_SIZE": 296,
+    "MODEL_ID": 3,
+    "SHA256": 1,
+    "DEBUG": 2,
+    "APP_ID": 8738,
+    "IN_USE_SOC_HW_VERSION": 1,
+    "old_mdt": true,
+    "ta_name": "cppf"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=01 000000000000000C SW_ID,C=CN",
+        "sha256": "AE:18:46:A3:95:1B:9D:4F:37:63:8A:A5:44:A9:E0:6E:4E:90:1C:C2:1C:BB:AC:FB:FA:58:D0:6E:2D:9C:8B:D5",
+        "notbefore": "20210910041801Z",
+        "notafter": "20410905041801Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN",
+        "sha256": "BB:37:B1:3F:64:19:CA:77:29:C5:34:F4:88:4B:5E:B6:CF:AD:18:23:E7:DA:19:BC:2D:F3:0F:AA:25:4D:A6:C3",
+        "notbefore": "20171027074808Z",
+        "notafter": "21090131074808Z",
+        "serialnumber": 5,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN",
+        "sha256": "2C:0A:52:FF:BD:8D:B6:87:B5:6F:6A:98:D8:84:0F:46:59:7A:4D:DE:6D:9D:C8:D0:00:39:87:3C:E6:D7:4F:60",
+        "notbefore": "20171026070939Z",
+        "notafter": "21090130070939Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 1610874880,
+    "OEM_ID": 115,
+    "SW_SIZE": 296,
+    "MODEL_ID": 3,
+    "SHA256": 1,
+    "DEBUG": 2,
+    "APP_ID": 819,
+    "IN_USE_SOC_HW_VERSION": 1,
+    "old_mdt": true,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=01 000000000000001F SW_ID,C=CN",
+        "sha256": "30:E6:0C:E0:F4:7B:B3:C6:76:E0:16:59:0F:FA:23:18:69:DF:C6:95:83:97:C9:13:74:3A:78:8E:02:3E:18:A9",
+        "notbefore": "20210910041805Z",
+        "notafter": "20410905041805Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN",
+        "sha256": "BB:37:B1:3F:64:19:CA:77:29:C5:34:F4:88:4B:5E:B6:CF:AD:18:23:E7:DA:19:BC:2D:F3:0F:AA:25:4D:A6:C3",
+        "notbefore": "20171027074808Z",
+        "notafter": "21090131074808Z",
+        "serialnumber": 5,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN",
+        "sha256": "2C:0A:52:FF:BD:8D:B6:87:B5:6F:6A:98:D8:84:0F:46:59:7A:4D:DE:6D:9D:C8:D0:00:39:87:3C:E6:D7:4F:60",
+        "notbefore": "20171026070939Z",
+        "notafter": "21090130070939Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      }
+    ],
+    "SW_ID": 31,
+    "Version": 0,
+    "Image_ID": 31,
+    "MSM_ID": 1610874880,
+    "OEM_ID": 115,
+    "SW_SIZE": 232,
+    "MODEL_ID": 3,
+    "SHA256": 1,
+    "DEBUG": 2,
+    "APP_ID": 1365,
+    "IN_USE_SOC_HW_VERSION": 1,
+    "old_mdt": true,
+    "ta_name": "cmnlib"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=01 000000000000000C SW_ID,C=US",
+        "sha256": "DB:B7:60:05:7D:B2:BB:DA:AE:AF:F4:2E:7A:E5:75:1A:68:C0:BB:C4:08:34:C1:A1:A0:31:CE:6C:F3:D4:CB:C8",
+        "notbefore": "20210409063139Z",
+        "notafter": "20410404063139Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 1610874880,
+    "DEBUG": 0,
+    "OEM_ID": 0,
+    "SW_SIZE": 296,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "APP_ID": 2838439216322161356,
+    "IN_USE_SOC_HW_VERSION": 1,
+    "old_mdt": true,
+    "ta_name": "secure"
+  }
+]

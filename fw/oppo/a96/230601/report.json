@@ -1,0 +1,474 @@
+[
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "79:64:AD:2C:69:2D:2E:BD:5A:A1:40:4F:70:AE:F4:A6:AE:5A:57:50:F4:6B:AD:43:27:04:52:41:67:78:8B:51",
+        "notbefore": "20211117080306Z",
+        "notafter": "20231117080306Z",
+        "serialnumber": 113094997114446418588086883639985180345721667151,
+        "issuer": "CN=QSEE Attestation Root CA 4 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 4 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "9A:4E:CB:29:9E:AE:62:AC:9C:0E:A8:73:FF:FA:EF:87:2B:F8:BA:CE:F2:24:46:A8:D1:67:97:CC:32:CD:03:73",
+        "notbefore": "20170801223003Z",
+        "notafter": "20270801223003Z",
+        "serialnumber": 12367844569064031078735733646651534169759711126905,
+        "issuer": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "CD:68:2B:2E:C7:0D:CE:D3:EA:F4:18:8C:A7:65:26:07:0A:6A:EC:EA:B5:AB:2E:15:EE:62:8A:11:BB:1E:15:37",
+        "notbefore": "20170801222541Z",
+        "notafter": "20470801222541Z",
+        "serialnumber": 12711044623020681667,
+        "issuer": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=OPLUS SM6375,O=OPLUS,OU=None,C=CN",
+        "sha256": "2D:39:0D:1D:C8:27:C4:94:8C:45:A6:14:1E:65:33:EC:F6:5E:61:88:C1:EC:D8:BA:EF:0F:B6:85:BB:30:06:B9",
+        "notbefore": "20220825144831Z",
+        "notafter": "20420820144831Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN",
+        "sha256": "38:BA:27:DB:6D:F5:24:A8:DE:50:D4:7E:B0:5F:45:70:80:F3:11:69:70:9F:54:FF:9F:FB:DB:3A:F7:93:BC:59",
+        "notbefore": "20210805071406Z",
+        "notafter": "20410731071406Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN",
+        "sha256": "DA:ED:B4:0C:E6:18:2F:28:B9:72:05:D4:D3:C5:40:79:16:80:51:FC:C8:D1:5A:18:40:37:AA:7D:6E:71:F2:ED",
+        "notbefore": "20210805071405Z",
+        "notafter": "20410731071405Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      },
+      {
+        "subject": "CN=Feature License Attestation Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "37:0E:17:E5:88:A1:12:1E:03:5F:C7:5A:F9:87:24:C9:D9:5E:16:07:92:28:08:95:9D:7D:46:B5:C0:47:4C:D3",
+        "notbefore": "20151002000001Z",
+        "notafter": "20451001235959Z",
+        "serialnumber": 173387853770470392918606252303726353709162129728104,
+        "issuer": "CN=Feature License Attestation Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=Insecure License Test Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "DA:7A:98:8E:D2:03:37:C8:F8:22:4A:09:A0:16:F6:C8:3C:D2:0A:96:FC:43:82:CC:E5:35:9A:BF:2D:41:63:83",
+        "notbefore": "20161208002525Z",
+        "notafter": "20361203002525Z",
+        "serialnumber": 173387853770470392918606252303726353709162129728104,
+        "issuer": "CN=Insecure License Test Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "haventk"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "D8:EF:B0:05:FD:A7:85:84:FD:63:4A:6A:91:0B:7B:49:60:2E:D1:F7:94:45:40:E2:6E:80:2E:07:AB:86:FE:9F",
+        "notbefore": "20220825141004Z",
+        "notafter": "20420820141004Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "C0:A6:92:56:7D:FB:F1:EF:51:3C:BC:F7:E2:27:37:49:4F:72:4E:83:0E:B6:37:2A:67:5E:B8:67:33:9A:17:A7",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "95:9B:8D:05:49:EF:41:BE:FA:BC:24:F5:1E:FE:84:FE:E3:66:AC:16:9A:B0:4A:0D:B3:0C:79:9B:32:4F:D7:98",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "smplap32"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=OPLUS SM6375,O=OPLUS,OU=None,C=CN",
+        "sha256": "54:44:26:E6:08:F1:3D:FD:73:CE:51:EB:8F:07:A1:8D:43:68:6D:B2:43:A3:50:2A:71:8F:E4:1D:43:A0:93:0B",
+        "notbefore": "20220825144818Z",
+        "notafter": "20420820144818Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN",
+        "sha256": "38:BA:27:DB:6D:F5:24:A8:DE:50:D4:7E:B0:5F:45:70:80:F3:11:69:70:9F:54:FF:9F:FB:DB:3A:F7:93:BC:59",
+        "notbefore": "20210805071406Z",
+        "notafter": "20410731071406Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN",
+        "sha256": "DA:ED:B4:0C:E6:18:2F:28:B9:72:05:D4:D3:C5:40:79:16:80:51:FC:C8:D1:5A:18:40:37:AA:7D:6E:71:F2:ED",
+        "notbefore": "20210805071405Z",
+        "notafter": "20410731071405Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2049,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "soter64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=OPLUS SM6375,O=OPLUS,OU=None,C=CN",
+        "sha256": "30:DF:50:0D:50:C1:49:0E:B1:B4:E4:23:69:DD:8B:38:AA:0E:98:C9:D5:3A:9B:3B:FF:98:4F:1B:46:68:88:ED",
+        "notbefore": "20220825144822Z",
+        "notafter": "20420820144822Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN",
+        "sha256": "38:BA:27:DB:6D:F5:24:A8:DE:50:D4:7E:B0:5F:45:70:80:F3:11:69:70:9F:54:FF:9F:FB:DB:3A:F7:93:BC:59",
+        "notbefore": "20210805071406Z",
+        "notafter": "20410731071406Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN",
+        "sha256": "DA:ED:B4:0C:E6:18:2F:28:B9:72:05:D4:D3:C5:40:79:16:80:51:FC:C8:D1:5A:18:40:37:AA:7D:6E:71:F2:ED",
+        "notbefore": "20210805071405Z",
+        "notafter": "20410731071405Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 819,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "F8:1F:44:31:8C:0E:23:A8:ED:00:1B:92:19:85:8B:31:6E:B7:AF:B9:9E:FA:23:16:12:6B:C8:64:D0:CB:A7:4D",
+        "notbefore": "20220825141004Z",
+        "notafter": "20420820141004Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "C0:A6:92:56:7D:FB:F1:EF:51:3C:BC:F7:E2:27:37:49:4F:72:4E:83:0E:B6:37:2A:67:5E:B8:67:33:9A:17:A7",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "95:9B:8D:05:49:EF:41:BE:FA:BC:24:F5:1E:FE:84:FE:E3:66:AC:16:9A:B0:4A:0D:B3:0C:79:9B:32:4F:D7:98",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "smplap64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=OPLUS SM6375,O=OPLUS,OU=None,C=CN",
+        "sha256": "BD:FF:A5:F5:FD:83:14:A1:CB:D6:EB:DD:5C:1E:56:19:37:21:3F:DA:CC:59:10:0D:6B:72:D4:54:13:40:AD:1F",
+        "notbefore": "20220825144830Z",
+        "notafter": "20420820144830Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN",
+        "sha256": "38:BA:27:DB:6D:F5:24:A8:DE:50:D4:7E:B0:5F:45:70:80:F3:11:69:70:9F:54:FF:9F:FB:DB:3A:F7:93:BC:59",
+        "notbefore": "20210805071406Z",
+        "notafter": "20410731071406Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN",
+        "sha256": "DA:ED:B4:0C:E6:18:2F:28:B9:72:05:D4:D3:C5:40:79:16:80:51:FC:C8:D1:5A:18:40:37:AA:7D:6E:71:F2:ED",
+        "notbefore": "20210805071405Z",
+        "notafter": "20410731071405Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1912,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "hdcpsr"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "EE:99:28:5A:DC:E7:AA:A2:BA:1F:CA:7D:83:5B:39:34:9B:A8:F8:EF:BA:77:97:89:EC:CF:80:7A:48:99:D6:F7",
+        "notbefore": "20211117080344Z",
+        "notafter": "20231117080344Z",
+        "serialnumber": 345888244482114188245174296093624031155067835003,
+        "issuer": "CN=QSEE Attestation Root CA 4 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 4 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "9A:4E:CB:29:9E:AE:62:AC:9C:0E:A8:73:FF:FA:EF:87:2B:F8:BA:CE:F2:24:46:A8:D1:67:97:CC:32:CD:03:73",
+        "notbefore": "20170801223003Z",
+        "notafter": "20270801223003Z",
+        "serialnumber": 12367844569064031078735733646651534169759711126905,
+        "issuer": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "CD:68:2B:2E:C7:0D:CE:D3:EA:F4:18:8C:A7:65:26:07:0A:6A:EC:EA:B5:AB:2E:15:EE:62:8A:11:BB:1E:15:37",
+        "notbefore": "20170801222541Z",
+        "notafter": "20470801222541Z",
+        "serialnumber": 12711044623020681667,
+        "issuer": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=OPLUS SM6375,O=OPLUS,OU=None,C=CN",
+        "sha256": "63:FB:8C:E6:E3:DB:3C:2C:47:C9:45:52:AA:BF:F3:03:34:6E:DB:7A:0E:C9:93:DB:F0:5F:7E:8B:7D:29:FC:A0",
+        "notbefore": "20220825144828Z",
+        "notafter": "20420820144828Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN",
+        "sha256": "38:BA:27:DB:6D:F5:24:A8:DE:50:D4:7E:B0:5F:45:70:80:F3:11:69:70:9F:54:FF:9F:FB:DB:3A:F7:93:BC:59",
+        "notbefore": "20210805071406Z",
+        "notafter": "20410731071406Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN",
+        "sha256": "DA:ED:B4:0C:E6:18:2F:28:B9:72:05:D4:D3:C5:40:79:16:80:51:FC:C8:D1:5A:18:40:37:AA:7D:6E:71:F2:ED",
+        "notbefore": "20210805071405Z",
+        "notafter": "20410731071405Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "featenabler"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=OPLUS SM6375,O=OPLUS,OU=None,C=CN",
+        "sha256": "E6:4C:AE:DB:D4:2A:3B:33:CB:BE:53:60:68:D7:9F:EC:1C:CD:DB:D7:AD:CC:3E:C5:0A:6D:F9:1C:3B:79:E7:59",
+        "notbefore": "20220825144828Z",
+        "notafter": "20420820144828Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN",
+        "sha256": "38:BA:27:DB:6D:F5:24:A8:DE:50:D4:7E:B0:5F:45:70:80:F3:11:69:70:9F:54:FF:9F:FB:DB:3A:F7:93:BC:59",
+        "notbefore": "20210805071406Z",
+        "notafter": "20410731071406Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN",
+        "sha256": "DA:ED:B4:0C:E6:18:2F:28:B9:72:05:D4:D3:C5:40:79:16:80:51:FC:C8:D1:5A:18:40:37:AA:7D:6E:71:F2:ED",
+        "notbefore": "20210805071405Z",
+        "notafter": "20410731071405Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2201,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "eseservice"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=OPLUS SM6375,O=OPLUS,OU=None,C=CN",
+        "sha256": "64:F4:D5:FA:3D:1C:A8:AC:76:18:41:81:B8:14:C2:59:72:A6:96:FB:6A:A0:59:32:ED:9A:B4:DC:71:DC:67:4F",
+        "notbefore": "20220825144819Z",
+        "notafter": "20420820144819Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN",
+        "sha256": "38:BA:27:DB:6D:F5:24:A8:DE:50:D4:7E:B0:5F:45:70:80:F3:11:69:70:9F:54:FF:9F:FB:DB:3A:F7:93:BC:59",
+        "notbefore": "20210805071406Z",
+        "notafter": "20410731071406Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN",
+        "sha256": "DA:ED:B4:0C:E6:18:2F:28:B9:72:05:D4:D3:C5:40:79:16:80:51:FC:C8:D1:5A:18:40:37:AA:7D:6E:71:F2:ED",
+        "notbefore": "20210805071405Z",
+        "notafter": "20410731071405Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2200,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "gpqese"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "F0:AD:2D:B4:05:FA:F8:7D:7D:CF:BC:95:94:F8:05:55:1A:25:AC:45:F5:E5:27:F0:85:9D:9E:07:33:7E:51:79",
+        "notbefore": "20211117080231Z",
+        "notafter": "20231117080231Z",
+        "serialnumber": 296794573790332465617828535774832527212253229979,
+        "issuer": "CN=QSEE Attestation Root CA 4 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 4 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "9A:4E:CB:29:9E:AE:62:AC:9C:0E:A8:73:FF:FA:EF:87:2B:F8:BA:CE:F2:24:46:A8:D1:67:97:CC:32:CD:03:73",
+        "notbefore": "20170801223003Z",
+        "notafter": "20270801223003Z",
+        "serialnumber": 12367844569064031078735733646651534169759711126905,
+        "issuer": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "CD:68:2B:2E:C7:0D:CE:D3:EA:F4:18:8C:A7:65:26:07:0A:6A:EC:EA:B5:AB:2E:15:EE:62:8A:11:BB:1E:15:37",
+        "notbefore": "20170801222541Z",
+        "notafter": "20470801222541Z",
+        "serialnumber": 12711044623020681667,
+        "issuer": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=OPLUS SM6375,O=OPLUS,OU=None,C=CN",
+        "sha256": "42:49:2A:F5:7D:7F:20:55:42:F0:33:EC:63:21:91:3B:AE:B5:1C:27:E8:61:75:78:B1:95:4A:45:7D:FE:6F:8B",
+        "notbefore": "20220825144833Z",
+        "notafter": "20420820144833Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS Attestation CA\",O=OPLUS,OU=\"OPLUS Technologies\",C=CN",
+        "sha256": "38:BA:27:DB:6D:F5:24:A8:DE:50:D4:7E:B0:5F:45:70:80:F3:11:69:70:9F:54:FF:9F:FB:DB:3A:F7:93:BC:59",
+        "notbefore": "20210805071406Z",
+        "notafter": "20410731071406Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      },
+      {
+        "subject": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN",
+        "sha256": "DA:ED:B4:0C:E6:18:2F:28:B9:72:05:D4:D3:C5:40:79:16:80:51:FC:C8:D1:5A:18:40:37:AA:7D:6E:71:F2:ED",
+        "notbefore": "20210805071405Z",
+        "notafter": "20410731071405Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"OPLUS ROOT CA 1\",O=OPLUS,OU=\"General OPLUS Use Key\",C=CN"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "rtic"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "1C:14:08:86:BF:B0:FA:BB:56:13:04:09:75:9D:E7:78:92:60:F4:7C:DD:1A:CF:8F:EC:0E:91:1E:92:F3:D3:EE",
+        "notbefore": "20211110194552Z",
+        "notafter": "20411105194552Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "C0:A6:92:56:7D:FB:F1:EF:51:3C:BC:F7:E2:27:37:49:4F:72:4E:83:0E:B6:37:2A:67:5E:B8:67:33:9A:17:A7",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "95:9B:8D:05:49:EF:41:BE:FA:BC:24:F5:1E:FE:84:FE:E3:66:AC:16:9A:B0:4A:0D:B3:0C:79:9B:32:4F:D7:98",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "loadalgota64"
+  }
+]

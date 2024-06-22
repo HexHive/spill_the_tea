@@ -1,0 +1,526 @@
+[
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "64:84:D6:94:D5:60:8E:7C:F6:D5:2F:92:17:7D:CA:7F:50:01:D2:6F:72:54:F8:79:A4:E2:1C:D8:D4:E2:A7:CC",
+        "notbefore": "20210525151127Z",
+        "notafter": "20410520151127Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "smplap32"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=OPPO 19021,O=OPPO,OU=None,C=CN",
+        "sha256": "9D:C0:68:C0:72:C9:74:F0:3C:7D:46:12:E8:13:66:9A:46:4E:E6:DA:47:F6:04:7D:E3:19:D9:B2:9A:18:63:3A",
+        "notbefore": "20210525151345Z",
+        "notafter": "20410520151345Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN",
+        "sha256": "EB:F2:5D:30:26:38:70:00:BB:5E:83:BF:74:CD:7D:EC:91:60:CF:29:DA:17:D4:53:A8:2B:56:FA:9C:21:42:58",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 5,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN",
+        "sha256": "F6:B5:6F:D4:82:DC:62:04:F3:E5:A1:D8:B3:DD:BF:2A:4E:EB:40:55:A7:15:48:5C:BA:EA:EA:19:35:F2:E6:1D",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2318,
+    "oem_id": 81,
+    "hw_id": 1089761,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "eseservi"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=OPPO 19021,O=OPPO,OU=None,C=CN",
+        "sha256": "87:92:A9:AC:34:CF:CF:CB:21:1A:3C:56:43:C7:8E:36:51:F4:19:70:7C:92:A3:A7:FA:E4:08:41:F3:1D:DE:BF",
+        "notbefore": "20210525151619Z",
+        "notafter": "20410520151619Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN",
+        "sha256": "EB:F2:5D:30:26:38:70:00:BB:5E:83:BF:74:CD:7D:EC:91:60:CF:29:DA:17:D4:53:A8:2B:56:FA:9C:21:42:58",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 5,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN",
+        "sha256": "F6:B5:6F:D4:82:DC:62:04:F3:E5:A1:D8:B3:DD:BF:2A:4E:EB:40:55:A7:15:48:5C:BA:EA:EA:19:35:F2:E6:1D",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2309,
+    "oem_id": 81,
+    "hw_id": 1089761,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "gptes"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=OPPO 19021,O=OPPO,OU=None,C=CN",
+        "sha256": "D6:03:CA:F8:8A:80:C5:10:EF:1A:4A:8B:F7:D8:54:3A:A2:A8:79:95:DD:B0:57:0F:9F:59:EF:EF:21:95:20:20",
+        "notbefore": "20210525151325Z",
+        "notafter": "20410520151325Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN",
+        "sha256": "EB:F2:5D:30:26:38:70:00:BB:5E:83:BF:74:CD:7D:EC:91:60:CF:29:DA:17:D4:53:A8:2B:56:FA:9C:21:42:58",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 5,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN",
+        "sha256": "F6:B5:6F:D4:82:DC:62:04:F3:E5:A1:D8:B3:DD:BF:2A:4E:EB:40:55:A7:15:48:5C:BA:EA:EA:19:35:F2:E6:1D",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2317,
+    "oem_id": 81,
+    "hw_id": 1089761,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "gpqese"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=OPPO 19021,O=OPPO,OU=None,C=CN",
+        "sha256": "02:7F:2C:84:7B:39:E0:35:A8:95:BB:3F:F4:EB:E8:4D:0A:50:EC:E8:F5:42:9C:C7:65:C3:F2:36:AF:0B:01:02",
+        "notbefore": "20210525153212Z",
+        "notafter": "20410520153212Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN",
+        "sha256": "EB:F2:5D:30:26:38:70:00:BB:5E:83:BF:74:CD:7D:EC:91:60:CF:29:DA:17:D4:53:A8:2B:56:FA:9C:21:42:58",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 5,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN",
+        "sha256": "F6:B5:6F:D4:82:DC:62:04:F3:E5:A1:D8:B3:DD:BF:2A:4E:EB:40:55:A7:15:48:5C:BA:EA:EA:19:35:F2:E6:1D",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 14,
+    "secondary_sw_id": 0,
+    "oem_id": 81,
+    "hw_id": 1089761,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "venus"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=OPPO 19021,O=OPPO,OU=None,C=CN",
+        "sha256": "2C:41:1B:D7:F5:59:D6:CF:59:54:77:7C:01:D3:46:EC:B1:51:B5:4B:E6:AF:DF:F8:51:4C:66:AA:86:45:8F:18",
+        "notbefore": "20210525151540Z",
+        "notafter": "20410520151540Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN",
+        "sha256": "EB:F2:5D:30:26:38:70:00:BB:5E:83:BF:74:CD:7D:EC:91:60:CF:29:DA:17:D4:53:A8:2B:56:FA:9C:21:42:58",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 5,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN",
+        "sha256": "F6:B5:6F:D4:82:DC:62:04:F3:E5:A1:D8:B3:DD:BF:2A:4E:EB:40:55:A7:15:48:5C:BA:EA:EA:19:35:F2:E6:1D",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2307,
+    "oem_id": 81,
+    "hw_id": 1089761,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "haventkn"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "70:4E:ED:8E:1E:64:8A:FD:3A:C5:28:D1:F6:66:AB:87:36:6A:89:13:DA:01:E5:FE:37:22:8B:F1:9D:36:69:E9",
+        "notbefore": "20210525151125Z",
+        "notafter": "20410520151125Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "smplap64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=OPPO 19021,O=OPPO,OU=None,C=CN",
+        "sha256": "19:9B:80:DA:EC:E3:96:23:67:EF:18:88:DB:BE:DD:F9:7E:DE:9C:52:DA:C9:B5:CD:DD:E0:20:D4:02:E2:C2:24",
+        "notbefore": "20210525151306Z",
+        "notafter": "20410520151306Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN",
+        "sha256": "EB:F2:5D:30:26:38:70:00:BB:5E:83:BF:74:CD:7D:EC:91:60:CF:29:DA:17:D4:53:A8:2B:56:FA:9C:21:42:58",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 5,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN",
+        "sha256": "F6:B5:6F:D4:82:DC:62:04:F3:E5:A1:D8:B3:DD:BF:2A:4E:EB:40:55:A7:15:48:5C:BA:EA:EA:19:35:F2:E6:1D",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2305,
+    "oem_id": 81,
+    "hw_id": 1089761,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "soter64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "B6:48:9D:81:D9:05:D8:F1:66:7F:EC:C8:2F:91:9E:A1:97:6A:49:BF:CD:A3:41:57:10:8F:C0:64:38:B1:39:01",
+        "notbefore": "20200911160923Z",
+        "notafter": "20220911160923Z",
+        "serialnumber": 121572185151161888618273944646514297931446464437,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=OPPO 19021,O=OPPO,OU=None,C=CN",
+        "sha256": "C4:17:44:7F:14:FB:DD:D8:CD:7B:A4:BF:2B:89:A9:55:F2:69:7D:D3:E7:33:AA:26:44:88:AC:11:EC:47:29:18",
+        "notbefore": "20210525151423Z",
+        "notafter": "20410520151423Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN",
+        "sha256": "EB:F2:5D:30:26:38:70:00:BB:5E:83:BF:74:CD:7D:EC:91:60:CF:29:DA:17:D4:53:A8:2B:56:FA:9C:21:42:58",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 5,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN",
+        "sha256": "F6:B5:6F:D4:82:DC:62:04:F3:E5:A1:D8:B3:DD:BF:2A:4E:EB:40:55:A7:15:48:5C:BA:EA:EA:19:35:F2:E6:1D",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "cmnlib64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=OPPO 19021,O=OPPO,OU=None,C=CN",
+        "sha256": "B8:4A:27:1C:04:CB:E1:F8:61:47:87:92:FD:CF:86:B1:30:74:31:F1:53:E0:93:83:C9:35:49:7B:D4:96:60:61",
+        "notbefore": "20210525151442Z",
+        "notafter": "20410520151442Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN",
+        "sha256": "EB:F2:5D:30:26:38:70:00:BB:5E:83:BF:74:CD:7D:EC:91:60:CF:29:DA:17:D4:53:A8:2B:56:FA:9C:21:42:58",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 5,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN",
+        "sha256": "F6:B5:6F:D4:82:DC:62:04:F3:E5:A1:D8:B3:DD:BF:2A:4E:EB:40:55:A7:15:48:5C:BA:EA:EA:19:35:F2:E6:1D",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 819,
+    "oem_id": 81,
+    "hw_id": 1089761,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=OPPO 19021,O=OPPO,OU=None,C=CN",
+        "sha256": "2C:41:1B:D7:F5:59:D6:CF:59:54:77:7C:01:D3:46:EC:B1:51:B5:4B:E6:AF:DF:F8:51:4C:66:AA:86:45:8F:18",
+        "notbefore": "20210525151540Z",
+        "notafter": "20410520151540Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN",
+        "sha256": "EB:F2:5D:30:26:38:70:00:BB:5E:83:BF:74:CD:7D:EC:91:60:CF:29:DA:17:D4:53:A8:2B:56:FA:9C:21:42:58",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 5,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN",
+        "sha256": "F6:B5:6F:D4:82:DC:62:04:F3:E5:A1:D8:B3:DD:BF:2A:4E:EB:40:55:A7:15:48:5C:BA:EA:EA:19:35:F2:E6:1D",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      },
+      {
+        "subject": "CN=Feature License Attestation Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "37:0E:17:E5:88:A1:12:1E:03:5F:C7:5A:F9:87:24:C9:D9:5E:16:07:92:28:08:95:9D:7D:46:B5:C0:47:4C:D3",
+        "notbefore": "20151002000001Z",
+        "notafter": "20451001235959Z",
+        "serialnumber": 173387853770470392918606252303726353709162129728104,
+        "issuer": "CN=Feature License Attestation Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=Insecure License Test Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "DA:7A:98:8E:D2:03:37:C8:F8:22:4A:09:A0:16:F6:C8:3C:D2:0A:96:FC:43:82:CC:E5:35:9A:BF:2D:41:63:83",
+        "notbefore": "20161208002525Z",
+        "notafter": "20361203002525Z",
+        "serialnumber": 173387853770470392918606252303726353709162129728104,
+        "issuer": "CN=Insecure License Test Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2307,
+    "oem_id": 81,
+    "hw_id": 1089761,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "haventk"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "8B:39:89:EC:EC:0D:4C:55:60:CA:53:86:60:65:26:01:BC:8D:01:C1:35:CB:13:71:07:E9:3E:B7:95:25:5C:A8",
+        "notbefore": "20200911160638Z",
+        "notafter": "20220911160638Z",
+        "serialnumber": 289497830766587725895792673824889342956562754716,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=OPPO 19021,O=OPPO,OU=None,C=CN",
+        "sha256": "AC:35:29:08:01:6E:26:5F:79:97:30:2A:E0:B0:A5:D4:2E:BE:28:33:41:C4:85:04:56:C6:B9:B5:36:F0:F2:E7",
+        "notbefore": "20210525151404Z",
+        "notafter": "20410520151404Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN",
+        "sha256": "EB:F2:5D:30:26:38:70:00:BB:5E:83:BF:74:CD:7D:EC:91:60:CF:29:DA:17:D4:53:A8:2B:56:FA:9C:21:42:58",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 5,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN",
+        "sha256": "F6:B5:6F:D4:82:DC:62:04:F3:E5:A1:D8:B3:DD:BF:2A:4E:EB:40:55:A7:15:48:5C:BA:EA:EA:19:35:F2:E6:1D",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "cmnlib"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=OPPO 19021,O=OPPO,OU=None,C=CN",
+        "sha256": "15:5D:4A:00:03:B4:D5:C0:09:F5:65:D3:83:EA:DF:9E:09:79:20:D5:B7:85:B1:EB:28:5A:57:BD:22:FD:8A:BE",
+        "notbefore": "20210525151501Z",
+        "notafter": "20410520151501Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO Attestation CA,O=OPPO,OU=General OPPO  attestation CA,C=CN",
+        "sha256": "EB:F2:5D:30:26:38:70:00:BB:5E:83:BF:74:CD:7D:EC:91:60:CF:29:DA:17:D4:53:A8:2B:56:FA:9C:21:42:58",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 5,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      },
+      {
+        "subject": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN",
+        "sha256": "F6:B5:6F:D4:82:DC:62:04:F3:E5:A1:D8:B3:DD:BF:2A:4E:EB:40:55:A7:15:48:5C:BA:EA:EA:19:35:F2:E6:1D",
+        "notbefore": "20190520215855Z",
+        "notafter": "20390515215855Z",
+        "serialnumber": 1,
+        "issuer": "CN=OPPO ROOT CA,O=OPPO,OU=General OPPO  Root CA,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2306,
+    "oem_id": 81,
+    "hw_id": 1089761,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "secure"
+  }
+]

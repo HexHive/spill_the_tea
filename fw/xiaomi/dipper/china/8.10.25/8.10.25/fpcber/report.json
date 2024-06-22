@@ -1,0 +1,37 @@
+[
+  {
+    "subject": "CN=SecTools Test User,O=SecTools,OU=01 000000000000000C SW_ID,C=US",
+    "sha256": "3A:AF:7A:EE:FE:D0:D1:4A:22:3A:0F:08:28:02:A4:5D:F2:57:A3:36:E9:F4:E2:F6:00:D9:4F:EE:B9:8C:69:E8",
+    "notbefore": "20181023143930Z",
+    "notafter": "20381018143930Z",
+    "serialnumber": 1,
+    "issuer": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+    "SW_ID": "000000000000000C",
+    "Version": "00000000",
+    "Image_ID": "0000000C",
+    "HW_ID": "6000000000720000",
+    "OEM_ID": "0072",
+    "SW_SIZE": "00000128",
+    "MODEL_ID": "0000",
+    "SHA256": "0001",
+    "DEBUG": "0000000000000002",
+    "APP_ID": "0000000000000795",
+    "IN_USE_SOC_HW_VERSION": "0001"
+  },
+  {
+    "subject": "CN=Xiaomi Attestation CA,O=Xiaomi,OU=Xiaomi,C=CN",
+    "sha256": "BE:B7:B3:D9:01:D8:60:28:5C:09:CA:1D:A2:4D:B8:09:86:48:5F:53:77:05:FC:67:BC:87:A8:15:A7:35:AC:DE",
+    "notbefore": "20171029040705Z",
+    "notafter": "20371024040705Z",
+    "serialnumber": 5,
+    "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+  },
+  {
+    "subject": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN",
+    "sha256": "C9:24:A3:5F:39:CE:1C:DD:1B:8D:5A:9F:3B:8E:3C:51:31:79:30:43:1D:7A:9D:D5:A5:50:28:CF:69:65:FE:65",
+    "notbefore": "20171029040611Z",
+    "notafter": "20371024040611Z",
+    "serialnumber": 1,
+    "issuer": "CN=Xiaomi Root CA,O=Xiaomi,OU=Xiaomi,C=CN"
+  }
+]

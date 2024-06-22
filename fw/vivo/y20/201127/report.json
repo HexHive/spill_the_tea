@@ -1,0 +1,466 @@
+[
+  {
+    "certs": [
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=None,C=CN",
+        "sha256": "38:0D:43:57:53:93:35:0A:E4:F8:46:D2:E3:A0:BF:EF:48:7A:98:48:EF:BF:23:2B:D6:21:82:67:98:28:61:61",
+        "notbefore": "20201127152003Z",
+        "notafter": "20401122152003Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN",
+        "sha256": "BB:37:B1:3F:64:19:CA:77:29:C5:34:F4:88:4B:5E:B6:CF:AD:18:23:E7:DA:19:BC:2D:F3:0F:AA:25:4D:A6:C3",
+        "notbefore": "20171027074808Z",
+        "notafter": "21090131074808Z",
+        "serialnumber": 5,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN",
+        "sha256": "2C:0A:52:FF:BD:8D:B6:87:B5:6F:6A:98:D8:84:0F:46:59:7A:4D:DE:6D:9D:C8:D0:00:39:87:3C:E6:D7:4F:60",
+        "notbefore": "20171026070939Z",
+        "notafter": "21090130070939Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 273,
+    "oem_id": 115,
+    "hw_id": 0,
+    "model_id": 3,
+    "old_mdt": false,
+    "ta_name": "smplap32"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "23:A5:EE:D0:24:68:4C:62:86:E2:EC:7C:5B:52:00:B0:99:95:38:80:0B:E7:7C:BA:E5:FF:0F:6E:F2:3B:AC:8E",
+        "notbefore": "20201015063539Z",
+        "notafter": "20401010063539Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "gptes"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "79:8D:60:C0:0A:1F:9C:89:01:0E:FA:09:78:8F:6B:42:53:69:1D:38:07:BD:39:5A:7A:01:4E:05:10:E5:B4:80",
+        "notbefore": "20200629130238Z",
+        "notafter": "20220629130238Z",
+        "serialnumber": 12405162163482200701873054793879303694706286037,
+        "issuer": "CN=QSEE Attestation Test Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Test Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "AE:84:51:18:3A:8E:AC:B9:81:08:3C:A5:10:61:5F:46:61:0B:CE:80:7A:DB:E8:BE:17:FD:5A:58:9F:2E:53:6B",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 310421348222422905953758916393145848864976050389028,
+        "issuer": "CN=QSEE Attestation Test Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Test Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "71:83:F9:FD:A2:DD:A2:9A:D0:AE:17:BD:A4:40:E7:F0:20:CE:4D:73:96:BE:A9:1E:83:1D:EF:3E:CB:BC:01:2E",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 310421348222422905953758916393145848864976050389027,
+        "issuer": "CN=QSEE Attestation Test Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "06:30:4A:01:C0:6A:42:96:4B:37:4C:09:5D:36:04:35:F5:9D:14:B4:A3:B5:57:B2:9B:DD:D1:CE:7B:F4:33:5E",
+        "notbefore": "20200629130245Z",
+        "notafter": "20400624130245Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "featenab"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=None,C=CN",
+        "sha256": "F9:F9:3A:72:F4:45:DE:C2:1A:30:AC:2C:C2:1E:13:20:AA:09:7F:55:36:C4:B5:B2:1B:19:B1:C2:F2:04:C8:C5",
+        "notbefore": "20201127152007Z",
+        "notafter": "20401122152007Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN",
+        "sha256": "BB:37:B1:3F:64:19:CA:77:29:C5:34:F4:88:4B:5E:B6:CF:AD:18:23:E7:DA:19:BC:2D:F3:0F:AA:25:4D:A6:C3",
+        "notbefore": "20171027074808Z",
+        "notafter": "21090131074808Z",
+        "serialnumber": 5,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN",
+        "sha256": "2C:0A:52:FF:BD:8D:B6:87:B5:6F:6A:98:D8:84:0F:46:59:7A:4D:DE:6D:9D:C8:D0:00:39:87:3C:E6:D7:4F:60",
+        "notbefore": "20171026070939Z",
+        "notafter": "21090130070939Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 819,
+    "oem_id": 115,
+    "hw_id": 0,
+    "model_id": 3,
+    "old_mdt": false,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "A2:09:86:13:F9:FA:6F:6B:77:F5:D0:88:8F:26:E8:27:3E:11:1E:12:86:D5:5F:2D:E0:0C:23:B5:9B:FF:9E:4F",
+        "notbefore": "20200630072331Z",
+        "notafter": "20220630072331Z",
+        "serialnumber": 71958597277667926148903071500886301019366752691,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "52:FC:EF:16:2D:C2:16:2B:6C:1F:2B:04:FA:64:E9:2A:76:39:EC:75:49:CD:A4:89:94:61:05:C3:65:14:99:97",
+        "notbefore": "20200630072353Z",
+        "notafter": "20400625072353Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "rtic"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=None,C=CN",
+        "sha256": "F1:97:DF:EA:EE:7A:7A:81:D8:59:B9:5A:FD:17:47:0D:82:B8:AB:09:F3:64:80:1D:75:66:9F:98:AB:52:40:CF",
+        "notbefore": "20201127152005Z",
+        "notafter": "20401122152005Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN",
+        "sha256": "BB:37:B1:3F:64:19:CA:77:29:C5:34:F4:88:4B:5E:B6:CF:AD:18:23:E7:DA:19:BC:2D:F3:0F:AA:25:4D:A6:C3",
+        "notbefore": "20171027074808Z",
+        "notafter": "21090131074808Z",
+        "serialnumber": 5,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN",
+        "sha256": "2C:0A:52:FF:BD:8D:B6:87:B5:6F:6A:98:D8:84:0F:46:59:7A:4D:DE:6D:9D:C8:D0:00:39:87:3C:E6:D7:4F:60",
+        "notbefore": "20171026070939Z",
+        "notafter": "21090130070939Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 274,
+    "oem_id": 115,
+    "hw_id": 0,
+    "model_id": 3,
+    "old_mdt": false,
+    "ta_name": "smplap64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "1A:25:32:EE:CF:F1:F3:95:3F:C6:90:1B:65:BF:98:E3:4C:36:0A:3F:96:75:E5:BE:46:A0:A6:13:0F:E7:6D:1B",
+        "notbefore": "20200629130751Z",
+        "notafter": "20400624130751Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "soter64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=None,C=CN",
+        "sha256": "F9:F9:3A:72:F4:45:DE:C2:1A:30:AC:2C:C2:1E:13:20:AA:09:7F:55:36:C4:B5:B2:1B:19:B1:C2:F2:04:C8:C5",
+        "notbefore": "20201127152007Z",
+        "notafter": "20401122152007Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN",
+        "sha256": "BB:37:B1:3F:64:19:CA:77:29:C5:34:F4:88:4B:5E:B6:CF:AD:18:23:E7:DA:19:BC:2D:F3:0F:AA:25:4D:A6:C3",
+        "notbefore": "20171027074808Z",
+        "notafter": "21090131074808Z",
+        "serialnumber": 5,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN",
+        "sha256": "2C:0A:52:FF:BD:8D:B6:87:B5:6F:6A:98:D8:84:0F:46:59:7A:4D:DE:6D:9D:C8:D0:00:39:87:3C:E6:D7:4F:60",
+        "notbefore": "20171026070939Z",
+        "notafter": "21090130070939Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 819,
+    "oem_id": 115,
+    "hw_id": 0,
+    "model_id": 3,
+    "old_mdt": false,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "BB:7E:4D:9D:4F:27:DC:68:57:FE:5F:54:40:34:45:C1:51:31:8F:50:DF:A2:D3:9A:57:5B:32:92:BF:D7:44:0C",
+        "notbefore": "20200630072421Z",
+        "notafter": "20220630072421Z",
+        "serialnumber": 558396789816548025928650596409961574416202384788,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "D2:0F:13:4C:FF:CF:C3:A3:79:58:E5:5A:0A:2D:07:56:B4:94:1B:30:70:16:2C:B7:C2:6B:54:A7:78:54:63:EB",
+        "notbefore": "20200630072444Z",
+        "notafter": "20400625072444Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Feature License Attestation Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "37:0E:17:E5:88:A1:12:1E:03:5F:C7:5A:F9:87:24:C9:D9:5E:16:07:92:28:08:95:9D:7D:46:B5:C0:47:4C:D3",
+        "notbefore": "20151002000001Z",
+        "notafter": "20451001235959Z",
+        "serialnumber": 173387853770470392918606252303726353709162129728104,
+        "issuer": "CN=Feature License Attestation Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=Insecure License Test Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "DA:7A:98:8E:D2:03:37:C8:F8:22:4A:09:A0:16:F6:C8:3C:D2:0A:96:FC:43:82:CC:E5:35:9A:BF:2D:41:63:83",
+        "notbefore": "20161208002525Z",
+        "notafter": "20361203002525Z",
+        "serialnumber": 173387853770470392918606252303726353709162129728104,
+        "issuer": "CN=Insecure License Test Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "haventk"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=None,C=CN",
+        "sha256": "95:4D:1C:A4:FD:3F:0B:AC:80:98:8C:E6:03:B6:7B:9D:98:82:35:73:BB:C0:97:3D:CB:68:08:DE:4C:5E:0F:3A",
+        "notbefore": "20201127152023Z",
+        "notafter": "20401122152023Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo scm,C=CN",
+        "sha256": "BB:37:B1:3F:64:19:CA:77:29:C5:34:F4:88:4B:5E:B6:CF:AD:18:23:E7:DA:19:BC:2D:F3:0F:AA:25:4D:A6:C3",
+        "notbefore": "20171027074808Z",
+        "notafter": "21090131074808Z",
+        "serialnumber": 5,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      },
+      {
+        "subject": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN",
+        "sha256": "2C:0A:52:FF:BD:8D:B6:87:B5:6F:6A:98:D8:84:0F:46:59:7A:4D:DE:6D:9D:C8:D0:00:39:87:3C:E6:D7:4F:60",
+        "notbefore": "20171026070939Z",
+        "notafter": "21090130070939Z",
+        "serialnumber": 1,
+        "issuer": "CN=vivo root gamma ANOTHER CA,O=vivo,OU=vivo root gamma ANOTHER CA by loki,C=CN"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1912,
+    "oem_id": 115,
+    "hw_id": 0,
+    "model_id": 3,
+    "old_mdt": false,
+    "ta_name": "hdcpsr"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "E2:5A:22:3D:B5:64:45:E2:29:AF:7B:38:36:70:C8:C6:65:94:DD:3E:73:50:A3:FC:CE:31:D6:EA:45:E5:79:CF",
+        "notbefore": "20200629130745Z",
+        "notafter": "20400624130745Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "secure"
+  }
+]

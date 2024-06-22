@@ -1,0 +1,737 @@
+[
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "2B:8E:C9:BF:96:45:28:8B:57:4D:7D:85:E7:66:C0:F9:B1:B8:B7:40:F1:B8:9D:2B:B9:2B:22:17:99:F6:AF:11",
+        "notbefore": "20190408235022Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 1063451386563759791890333766329085817130801230215,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 552,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 4,
+    "Version": 0,
+    "Image_ID": 4,
+    "old_mdt": true,
+    "ta_name": "adsp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "5B:22:00:EC:13:FA:F6:D6:CD:96:09:BD:47:F6:AB:10:72:A6:7C:D5:1A:76:82:C8:0F:85:D2:C0:91:F3:08:D4",
+        "notbefore": "20180804013936Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 99673811669647289369241118008576807150468343592,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 424,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 23,
+    "Version": 0,
+    "Image_ID": 23,
+    "old_mdt": true,
+    "ta_name": "cdsp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "29:25:12:6D:E8:F8:56:5F:DE:D5:19:14:C5:17:26:26:12:27:B6:E0:E5:5C:9E:62:59:5D:E9:0F:C6:38:1E:08",
+        "notbefore": "20190525033552Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 1377952600870472021226607747859939809466030991437,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 264,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 18,
+    "Version": 0,
+    "Image_ID": 18,
+    "old_mdt": true,
+    "ta_name": "wlanmdsp"
+  },
+  {
+    "certs": [],
+    "old_mdt": false,
+    "ta_name": "cpe_9340"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "D1:EC:D5:B7:86:AE:CF:35:FC:C0:82:1F:0E:E0:BC:50:A9:30:2D:36:25:32:F8:FD:A2:32:91:F2:28:6A:6E:87",
+        "notbefore": "20180524222657Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 433562011770812284385999265956593407897135740061,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "APP_ID": 1911,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 296,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "cppf"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "D5:7C:9E:C0:02:6D:5C:E4:75:89:AE:13:B2:37:63:89:1E:A2:0F:94:23:57:D9:BC:1F:38:B0:A7:6A:09:8E:75",
+        "notbefore": "20180525092559Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 1008209979052976155218027592119345205884740482626,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "APP_ID": 7381509141180805232,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 296,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "fpctzappfingerprin"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "C9:0C:0A:6A:B0:F8:B9:99:20:98:F3:B6:A9:0D:73:BB:27:07:60:18:EA:C1:90:A9:61:CB:42:E9:B2:FF:A8:15",
+        "notbefore": "20190222234650Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 732797772790762967008822052874114361545678615015,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 200,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 14,
+    "Version": 0,
+    "Image_ID": 14,
+    "old_mdt": true,
+    "ta_name": "venus"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "7A:6A:53:F6:64:60:B3:13:92:0B:17:5B:A2:09:FA:54:F8:40:43:BC:9B:B0:58:A5:35:B8:C7:3B:EA:53:C7:B8",
+        "notbefore": "20190405140256Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 84081328819134810221552033576420617681361236479,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "APP_ID": 819,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 296,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "2F:D0:2E:5F:B6:39:5E:F0:AC:BC:DA:4A:11:B9:90:AD:45:3C:F4:67:6B:73:9F:EC:73:37:4C:11:2B:68:79:E6",
+        "notbefore": "20180524222648Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 1416541871352977714474279784348930468516856407570,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 136,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 20,
+    "Version": 0,
+    "Image_ID": 20,
+    "old_mdt": true,
+    "ta_name": "a630_zap"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "C9:0C:0A:6A:B0:F8:B9:99:20:98:F3:B6:A9:0D:73:BB:27:07:60:18:EA:C1:90:A9:61:CB:42:E9:B2:FF:A8:15",
+        "notbefore": "20190222234650Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 732797772790762967008822052874114361545678615015,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 200,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 14,
+    "Version": 0,
+    "Image_ID": 14,
+    "old_mdt": true,
+    "ta_name": "venus"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "1F:28:10:D9:5C:B5:14:C6:EE:31:43:AB:94:0E:65:51:E3:0F:F1:3F:A2:CB:D9:35:12:87:C3:3C:E0:50:FD:38",
+        "notbefore": "20180719191521Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 351231819793863068226225183770422177925778785075,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "APP_ID": 1365,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 232,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 31,
+    "Version": 0,
+    "Image_ID": 31,
+    "old_mdt": true,
+    "ta_name": "cmnli"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "6C:9B:5C:92:93:E0:AA:61:09:76:8E:25:6B:6E:9B:98:CC:95:4F:8D:C8:7C:79:2A:51:4A:54:AE:6C:81:F9:23",
+        "notbefore": "20180719191530Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 322587574362422181971799871682898635487854348301,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "APP_ID": 1365,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 232,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 31,
+    "Version": 0,
+    "Image_ID": 31,
+    "old_mdt": true,
+    "ta_name": "cmnlib64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "D1:EC:D5:B7:86:AE:CF:35:FC:C0:82:1F:0E:E0:BC:50:A9:30:2D:36:25:32:F8:FD:A2:32:91:F2:28:6A:6E:87",
+        "notbefore": "20180524222657Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 433562011770812284385999265956593407897135740061,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "APP_ID": 1911,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 296,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "cppf"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "7A:6A:53:F6:64:60:B3:13:92:0B:17:5B:A2:09:FA:54:F8:40:43:BC:9B:B0:58:A5:35:B8:C7:3B:EA:53:C7:B8",
+        "notbefore": "20190405140256Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 84081328819134810221552033576420617681361236479,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "APP_ID": 819,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 296,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "6C:9B:5C:92:93:E0:AA:61:09:76:8E:25:6B:6E:9B:98:CC:95:4F:8D:C8:7C:79:2A:51:4A:54:AE:6C:81:F9:23",
+        "notbefore": "20180719191530Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 322587574362422181971799871682898635487854348301,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "APP_ID": 1365,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 232,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 31,
+    "Version": 0,
+    "Image_ID": 31,
+    "old_mdt": true,
+    "ta_name": "cmnlib64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "F0:E2:3E:31:10:41:C2:8E:82:13:22:A7:4C:00:C3:69:46:D6:BD:36:B7:86:F8:95:F2:D0:B6:E6:06:D1:D0:8F",
+        "notbefore": "20180524222630Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 122662324705520841516754606108561346062720407657,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 200,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 29,
+    "Version": 0,
+    "Image_ID": 29,
+    "old_mdt": true,
+    "ta_name": "ipa_fws"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "72:33:36:49:AE:92:D9:E6:0B:3D:97:76:D9:6A:83:72:27:C1:EB:24:C0:31:68:3D:BC:3E:1B:12:E9:20:2C:C1",
+        "notbefore": "20180719191455Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 922555256595876811249730031972956451466296282647,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "APP_ID": 7381509141180809328,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 296,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "confirmationui"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "1F:28:10:D9:5C:B5:14:C6:EE:31:43:AB:94:0E:65:51:E3:0F:F1:3F:A2:CB:D9:35:12:87:C3:3C:E0:50:FD:38",
+        "notbefore": "20180719191521Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 351231819793863068226225183770422177925778785075,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "APP_ID": 1365,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 232,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 31,
+    "Version": 0,
+    "Image_ID": 31,
+    "old_mdt": true,
+    "ta_name": "cmnlib"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android Signing Service,O=Google Inc.,OU=13 0001 IN_USE_SOC_HW_VERSION,C=US",
+        "sha256": "0F:4F:DA:E6:DE:15:3F:87:CE:C2:E9:C4:2F:6C:E0:7A:1A:D9:F6:43:AE:C6:63:26:DF:8C:7B:29:21:F6:B9:C3",
+        "notbefore": "20181109215421Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 130362453661684132363486322439888354877800415552,
+        "issuer": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=Pixel2018CA,O=Google Inc.,OU=Android,C=US",
+        "sha256": "D4:68:6B:12:37:DF:34:47:A9:31:CA:7B:2C:D1:2F:C2:51:90:34:5E:3E:4E:AB:71:B2:81:84:B7:2F:0C:2F:DB",
+        "notbefore": "20180419050310Z",
+        "notafter": "20450904050310Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      },
+      {
+        "subject": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US",
+        "sha256": "E6:93:A0:6F:0C:0E:7E:61:0D:FF:09:37:1F:1C:80:77:C5:EB:1B:DE:02:E7:AD:1D:A9:9B:8C:45:11:7F:8F:32",
+        "notbefore": "20180419050205Z",
+        "notafter": "20450904050205Z",
+        "serialnumber": 5,
+        "issuer": "CN=PixelRoot,O=Google, Inc.,OU=Android,C=US"
+      }
+    ],
+    "IN_USE_SOC_HW_VERSION": 1,
+    "SHA256": 1,
+    "MODEL_ID": 4,
+    "SW_SIZE": 808,
+    "OEM_ID": 66,
+    "DEBUG": 0,
+    "MSM_ID": 1610612736,
+    "SW_ID": 24,
+    "Version": 0,
+    "Image_ID": 24,
+    "old_mdt": true,
+    "ta_name": "slpi"
+  }
+]

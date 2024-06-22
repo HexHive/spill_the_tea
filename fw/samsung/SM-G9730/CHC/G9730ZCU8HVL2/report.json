@@ -1,0 +1,1562 @@
+[
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "38:86:CE:06:56:A0:2D:07:27:A2:3C:4B:DD:C8:A3:80:F4:61:F3:1F:DC:DD:CB:AD:CA:3D:FC:03:B4:5B:B5:FA",
+        "notbefore": "20221220063830Z",
+        "notafter": "20421215063830Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1911,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "hdcp2p2"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "7D:DE:5D:FB:7D:2B:7A:DE:F3:23:C4:79:1C:9C:3A:60:A4:B1:09:18:1F:A4:F9:65:FD:80:66:33:60:4D:61:BB",
+        "notbefore": "20221220063823Z",
+        "notafter": "20421215063823Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 1,
+    "sw_id": 12,
+    "secondary_sw_id": 264,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "tima_atn"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "AA:18:36:EE:3B:CD:FC:4E:E7:61:21:4E:04:E2:79:F6:89:4D:3D:3D:1E:23:F7:F2:5A:87:1E:52:57:6F:56:1A",
+        "notbefore": "20221220063832Z",
+        "notafter": "20421215063832Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 1,
+    "sw_id": 12,
+    "secondary_sw_id": 359,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "tigerfp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "82:D0:91:1B:0D:50:58:46:EB:15:AC:E3:EE:E9:B0:64:BB:70:46:D9:AD:AE:D2:EA:2A:29:02:14:16:06:93:BE",
+        "notbefore": "20221220063830Z",
+        "notafter": "20421215063830Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 278,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "sec_stor"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "9F:27:8F:51:8B:09:07:29:86:FD:35:93:88:FE:3A:38:BF:89:28:1A:54:FA:0B:11:78:48:BE:48:9F:54:F5:92",
+        "notbefore": "20221220063832Z",
+        "notafter": "20421215063832Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 520,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "tad"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "BA:67:57:E0:A6:49:03:3E:32:57:CC:12:60:4A:14:CB:98:4F:C9:B8:F8:1F:70:3D:D6:F7:20:A4:47:73:B0:6F",
+        "notbefore": "20181207021942Z",
+        "notafter": "20381202021942Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "voicepri"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "75:C1:2A:3F:7B:DF:63:BF:DB:9F:EB:C1:C1:10:63:5B:A7:20:18:80:8A:27:FE:E4:3D:F4:DE:32:BD:BD:67:81",
+        "notbefore": "20221220063832Z",
+        "notafter": "20421215063832Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 400,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "ifbio"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "0E:51:2B:79:D8:AF:B8:5C:E5:16:89:28:E0:CA:87:A5:4D:D5:AA:93:2F:C1:DB:BF:0F:9D:2E:B6:AA:6E:7E:7C",
+        "notbefore": "20221220063826Z",
+        "notafter": "20421215063826Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 24,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "mst"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "D1:48:A0:02:69:78:5D:6E:6F:0B:36:80:A7:8E:95:FF:B2:E2:3C:90:18:64:86:DD:3D:A4:74:EB:45:A8:AE:95",
+        "notbefore": "20221220063836Z",
+        "notafter": "20421215063836Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 8,
+    "sw_id": 40,
+    "secondary_sw_id": 0,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "npu"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "D6:96:98:00:BF:B9:7B:95:F4:03:75:7D:E3:02:E8:72:2F:61:01:66:7C:C1:E6:07:25:B4:C3:36:FE:E1:0A:04",
+        "notbefore": "20221220063822Z",
+        "notafter": "20421215063822Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 1,
+    "sw_id": 12,
+    "secondary_sw_id": 326,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "tz_iccc"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "66:B3:21:E4:12:83:61:B2:15:37:39:E0:01:F6:84:0C:45:6C:77:FC:0F:78:73:79:8D:CD:9C:EF:1C:71:08:66",
+        "notbefore": "20221220063839Z",
+        "notafter": "20421215063839Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 8,
+    "sw_id": 14,
+    "secondary_sw_id": 0,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "venus"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "CC:85:35:E6:B2:C2:7D:BB:9F:A7:86:2E:F9:6C:70:A7:90:59:53:9E:B0:FA:43:23:0E:75:1C:49:E1:48:A3:31",
+        "notbefore": "20221220063832Z",
+        "notafter": "20421215063832Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 533,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "ssu"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "80:A9:3B:3B:B1:40:2F:1E:DD:09:01:62:B0:D0:A8:0F:4B:E7:24:69:BD:8D:C5:DB:2F:75:06:63:93:A1:D2:64",
+        "notbefore": "20221220063828Z",
+        "notafter": "20421215063828Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 385,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "skpm"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "CC:15:91:43:A6:BE:AC:27:49:28:E5:85:96:00:90:48:48:F1:1E:45:A0:C1:33:C2:44:39:4F:12:33:19:33:56",
+        "notbefore": "20221220063822Z",
+        "notafter": "20421215063822Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 265,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "tima_key"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "4C:F4:55:F1:A3:3A:9C:E3:79:2C:3F:CB:C0:D0:9B:E7:FB:AF:52:7C:00:0F:EA:DD:41:6B:1A:3E:CE:6E:4F:F8",
+        "notbefore": "20221220063828Z",
+        "notafter": "20421215063828Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 376,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "smartfit"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "C1:99:83:62:48:B1:67:72:E8:87:50:F9:20:67:04:35:9F:FD:78:1A:EC:F5:71:80:6A:34:01:B1:01:E5:63:B0",
+        "notbefore": "20221220063828Z",
+        "notafter": "20421215063828Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 307,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "sem"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "AD:DC:61:53:60:99:4D:35:F2:26:F9:15:A4:EB:F8:07:78:95:65:62:A3:ED:5B:83:EB:26:B0:54:21:17:3E:74",
+        "notbefore": "20221220063830Z",
+        "notafter": "20421215063830Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1910,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "hdcp1"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "41:BC:7F:A8:9D:0E:08:1D:B6:6D:24:4B:0A:15:06:CD:B3:E0:38:DA:C4:8A:1D:FE:FE:5C:2C:20:07:E8:55:F5",
+        "notbefore": "20181207021932Z",
+        "notafter": "20381202021932Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "mldapta"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "1A:FE:52:10:B0:EE:01:5B:B5:2E:6D:30:C3:9C:76:DC:2D:61:97:3A:4C:39:3C:27:90:0C:C2:4A:EA:97:94:85",
+        "notbefore": "20221220063830Z",
+        "notafter": "20421215063830Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 305,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "haventkn"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "71:DF:44:DA:7F:C9:2D:F0:8D:2C:FE:8D:6A:DD:98:10:3D:93:0E:75:F5:AF:00:B5:61:D1:7C:8B:C3:12:BF:C5",
+        "notbefore": "20221220063839Z",
+        "notafter": "20421215063839Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 8,
+    "sw_id": 6,
+    "secondary_sw_id": 0,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "spss1p"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "F5:FD:79:BD:F9:2D:0D:11:DF:48:C4:FE:B2:E9:75:6C:A5:4D:3F:1D:00:5D:8C:03:4B:9E:F4:46:36:09:EA:80",
+        "notbefore": "20221220063834Z",
+        "notafter": "20421215063834Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "03:DD:6B:8F:41:1F:73:1E:6C:EC:12:37:36:D4:4B:3B:9D:CD:7B:04:F8:FB:2D:A4:52:2B:D8:4B:D0:15:03:C2",
+        "notbefore": "20180921051315Z",
+        "notafter": "20380916051315Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "90:C6:8E:D6:FC:BB:45:F2:A4:DD:FD:63:69:FE:2A:6B:7C:93:B9:2C:67:60:5C:14:FC:E8:6B:BE:BD:12:05:E9",
+        "notbefore": "20180921051314Z",
+        "notafter": "20181021051314Z",
+        "serialnumber": 12092099394290535606,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "sec_fr"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "2E:23:DE:C7:21:AB:8B:86:0B:F0:B0:D8:94:D1:03:78:79:43:0C:33:B4:45:0D:7B:A7:2B:95:03:12:9A:D0:1C",
+        "notbefore": "20221220063828Z",
+        "notafter": "20421215063828Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 312,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "skeymast"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "88:BB:00:EE:11:94:5E:48:19:95:25:F2:06:84:F2:9B:B9:9D:32:8D:73:4F:13:10:F0:C2:6B:7B:11:D6:16:FA",
+        "notbefore": "20181207020103Z",
+        "notafter": "20201207020103Z",
+        "serialnumber": 67425067000357065214061092847405502003,
+        "issuer": "CN=QSEE Attestation Test Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Test Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "AE:84:51:18:3A:8E:AC:B9:81:08:3C:A5:10:61:5F:46:61:0B:CE:80:7A:DB:E8:BE:17:FD:5A:58:9F:2E:53:6B",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 310421348222422905953758916393145848864976050389028,
+        "issuer": "CN=QSEE Attestation Test Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Test Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "71:83:F9:FD:A2:DD:A2:9A:D0:AE:17:BD:A4:40:E7:F0:20:CE:4D:73:96:BE:A9:1E:83:1D:EF:3E:CB:BC:01:2E",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 310421348222422905953758916393145848864976050389027,
+        "issuer": "CN=QSEE Attestation Test Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "89:DB:7E:24:9C:F4:01:45:AC:2F:BD:53:F6:79:E8:93:4A:3B:15:88:E1:2E:5D:7D:68:DA:A4:A9:26:D4:D0:4C",
+        "notbefore": "20221220063834Z",
+        "notafter": "20421215063834Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "cmnlib64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "70:40:74:61:69:84:74:E4:34:91:B9:85:D9:80:5D:B8:39:74:54:86:2A:8E:C7:56:17:47:A2:ED:9E:39:3E:4B",
+        "notbefore": "20221220063826Z",
+        "notafter": "20421215063826Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 8738,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "cppf"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "54:53:F3:2B:93:11:97:98:89:C5:9B:4B:D0:4A:31:CB:51:DC:30:D4:1E:15:2D:37:6B:4C:F1:DB:D5:DB:6A:FC",
+        "notbefore": "20221220063832Z",
+        "notafter": "20421215063832Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 521,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "arcounte"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "81:2A:E7:06:A7:1E:41:24:F1:CE:E5:54:CE:3C:CC:BF:C4:86:3B:79:99:F4:DE:DB:8A:5B:A0:2E:B4:10:8C:2B",
+        "notbefore": "20221220063825Z",
+        "notafter": "20421215063825Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "03:DD:6B:8F:41:1F:73:1E:6C:EC:12:37:36:D4:4B:3B:9D:CD:7B:04:F8:FB:2D:A4:52:2B:D8:4B:D0:15:03:C2",
+        "notbefore": "20180921051315Z",
+        "notafter": "20380916051315Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "90:C6:8E:D6:FC:BB:45:F2:A4:DD:FD:63:69:FE:2A:6B:7C:93:B9:2C:67:60:5C:14:FC:E8:6B:BE:BD:12:05:E9",
+        "notbefore": "20180921051314Z",
+        "notafter": "20181021051314Z",
+        "serialnumber": 12092099394290535606,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "securefp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "C0:DC:2B:9E:F7:CE:CC:D6:CC:DD:92:61:AF:84:4E:C3:09:3E:7B:31:BD:67:AB:E8:51:C8:C7:55:C7:9B:65:EE",
+        "notbefore": "20221220063823Z",
+        "notafter": "20421215063823Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 341,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "esecomm"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "B1:E9:E6:E5:40:84:00:C6:2F:E0:36:A9:84:3D:6F:DD:A6:DC:8C:B2:9B:FC:61:AC:6E:7D:BE:65:DC:85:5F:C8",
+        "notbefore": "20221220063824Z",
+        "notafter": "20421215063824Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 1,
+    "sw_id": 12,
+    "secondary_sw_id": 311,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "authhat"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "6C:EC:DE:26:A8:C4:F5:BD:C5:7C:B2:27:25:7B:98:9C:7C:C8:0D:E6:97:EB:EF:7A:AD:B8:F8:F3:8E:0E:AD:40",
+        "notbefore": "20221220063830Z",
+        "notafter": "20421215063830Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 819,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "80:E5:DC:F4:7D:80:9A:5F:1D:42:F1:37:9A:B7:52:E6:4E:EA:1F:9E:1A:ED:FE:DC:A6:51:64:A2:F1:55:88:43",
+        "notbefore": "20221220063826Z",
+        "notafter": "20421215063826Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 342,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "softsim"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "4D:8F:33:EB:40:42:D4:A0:21:90:57:D7:A3:12:83:96:94:DF:9D:6D:1F:3F:93:4A:7E:CB:13:8F:0C:4C:48:F8",
+        "notbefore": "20221220063832Z",
+        "notafter": "20421215063832Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 390,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "chnactiv"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "C2:6C:B0:CB:4D:D0:F5:BB:41:37:C5:25:4A:8E:34:B1:B2:CA:BA:61:50:66:A6:AB:DA:C2:61:93:6E:46:EC:02",
+        "notbefore": "20221220063824Z",
+        "notafter": "20421215063824Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2184,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "bksecapp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "93:FE:B7:D0:32:ED:2D:39:FA:BE:A4:33:5A:FE:7E:94:60:ED:88:17:61:83:D8:DF:D0:6D:6E:6F:EE:E1:CB:FD",
+        "notbefore": "20221220063839Z",
+        "notafter": "20421215063839Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 8,
+    "sw_id": 6,
+    "secondary_sw_id": 0,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "spss2p"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "48:96:32:90:C6:9A:F3:9B:DA:6D:C2:03:19:6F:9A:91:B5:EF:94:A2:28:63:AD:28:9D:80:94:7F:7F:E0:36:0C",
+        "notbefore": "20221220063828Z",
+        "notafter": "20421215063828Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1909,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "sshdcpap"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "95:6D:C3:E3:FD:F1:15:2A:02:40:AE:30:D6:B9:93:07:8D:9A:B0:D4:37:E9:07:4C:F4:4C:70:0E:CB:E9:41:16",
+        "notbefore": "20221220063822Z",
+        "notafter": "20421215063822Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 535,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "tz_ddar"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "C7:FF:AB:77:FB:B9:A6:62:88:3C:A5:57:F5:EC:78:66:EC:B8:A8:67:C9:A3:B7:D8:E7:AA:45:AD:5D:2A:73:A9",
+        "notbefore": "20221220063830Z",
+        "notafter": "20421215063830Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 65540,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "hdcpsrm"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "F1:01:D6:61:9B:FA:E1:81:01:AA:BA:66:F2:CA:E6:6B:10:D4:A7:A5:01:74:B2:C7:A9:B7:AB:B5:70:A2:D0:A1",
+        "notbefore": "20221220063832Z",
+        "notafter": "20421215063832Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 1,
+    "sw_id": 12,
+    "secondary_sw_id": 361,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "proca"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "FD:43:9F:9E:A4:D9:E5:24:9D:E9:36:4D:ED:6C:31:E9:02:03:B1:B7:92:D5:E3:44:0F:4D:67:1C:F9:99:E4:F2",
+        "notbefore": "20181207020045Z",
+        "notafter": "20201207020045Z",
+        "serialnumber": 267885801970709195432243342704518242643,
+        "issuer": "CN=QSEE Attestation Test Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Test Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "AE:84:51:18:3A:8E:AC:B9:81:08:3C:A5:10:61:5F:46:61:0B:CE:80:7A:DB:E8:BE:17:FD:5A:58:9F:2E:53:6B",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 310421348222422905953758916393145848864976050389028,
+        "issuer": "CN=QSEE Attestation Test Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Test Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "71:83:F9:FD:A2:DD:A2:9A:D0:AE:17:BD:A4:40:E7:F0:20:CE:4D:73:96:BE:A9:1E:83:1D:EF:3E:CB:BC:01:2E",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 310421348222422905953758916393145848864976050389027,
+        "issuer": "CN=QSEE Attestation Test Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "20:8F:8B:7B:C8:E9:DE:35:68:66:07:AD:72:D3:79:7E:26:35:1D:BD:99:8D:DD:20:40:76:67:37:56:74:93:3C",
+        "notbefore": "20221220063834Z",
+        "notafter": "20421215063834Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "cmnlib"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "5D:63:35:EF:A2:7E:AA:E3:6D:42:88:99:47:9E:D2:8C:09:B8:AA:C4:D5:80:5D:43:92:81:08:EC:81:1D:B2:F1",
+        "notbefore": "20221220063828Z",
+        "notafter": "20421215063828Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 279,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "wsm"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "F8:BF:AE:F3:7B:F1:EF:A6:5E:8C:F7:A4:1A:B1:0D:AF:AB:5A:6C:7A:ED:3D:04:C6:2C:C9:27:69:93:62:33:05",
+        "notbefore": "20221220063832Z",
+        "notafter": "20421215063832Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 406,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "engmode"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "75:88:DA:7A:DA:EC:28:43:44:AB:E5:FA:03:17:63:32:3C:A3:38:71:F2:83:42:7E:7C:B7:3A:07:A0:CA:A3:41",
+        "notbefore": "20221220063826Z",
+        "notafter": "20421215063826Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 1,
+    "sw_id": 12,
+    "secondary_sw_id": 274,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "skm"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "9F:B3:37:B4:1B:B1:FD:55:54:EE:A6:55:66:60:AC:AE:B6:86:C1:1F:F3:81:09:8B:54:72:70:B0:5B:3D:6C:0B",
+        "notbefore": "20221220063826Z",
+        "notafter": "20421215063826Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 530,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "securemm"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "E0:D9:A6:88:A4:01:2F:5C:91:A4:DC:74:0F:10:B4:28:CA:52:35:7E:45:DE:43:C8:B8:1F:94:67:9B:61:D1:6C",
+        "notbefore": "20221220063830Z",
+        "notafter": "20421215063830Z",
+        "serialnumber": 1,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "69:6B:9C:82:DA:7C:E0:C9:62:AA:07:A0:6D:EA:87:DA:B9:A8:87:3C:83:BD:BA:2A:66:06:D8:54:69:E6:32:54",
+        "notbefore": "20180919232825Z",
+        "notafter": "20380914232825Z",
+        "serialnumber": 5,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      },
+      {
+        "subject": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR",
+        "sha256": "84:17:EA:A0:C3:D2:A6:47:B9:0A:ED:E9:E5:A8:85:99:3A:99:7C:ED:8A:76:D7:11:60:D2:D6:48:66:D6:76:78",
+        "notbefore": "20180919232825Z",
+        "notafter": "20181019232825Z",
+        "serialnumber": 12828022729931826082,
+        "issuer": "CN=Samsung Root CA cert,O=Samsung Corporation,OU=DMC,C=KR"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 405,
+    "oem_id": 32,
+    "hw_id": 676065,
+    "model_id": 0,
+    "old_mdt": false,
+    "ta_name": "vaultkee"
+  }
+]

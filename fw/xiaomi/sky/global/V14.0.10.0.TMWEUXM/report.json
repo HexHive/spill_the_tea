@@ -1,0 +1,868 @@
+[
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "AD:24:5F:A7:0F:93:40:CE:43:07:D6:6A:1C:6F:1B:96:FC:AC:4F:05:0F:59:62:C1:09:9F:CC:E7:3D:22:B6:FE",
+        "notbefore": "20231213063836Z",
+        "notafter": "20431208063836Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "eid"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "90:91:F6:11:66:E8:D4:0A:A5:AE:D0:A2:1F:E1:BD:D2:EA:60:E3:87:06:44:FB:4F:BB:52:CF:F1:74:03:12:7B",
+        "notbefore": "20231213063900Z",
+        "notafter": "20431208063900Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "cardapp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "6C:12:7D:D2:86:E9:18:D2:7E:CD:AD:46:5C:A6:84:CD:EE:C2:8D:96:F0:52:DA:B7:42:5D:07:12:47:21:F7:39",
+        "notbefore": "20231213063918Z",
+        "notafter": "20431208063918Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "evautil64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "67:CA:0E:DE:F7:A1:94:5F:E5:20:2D:F6:91:9C:D5:86:13:E0:FA:40:C2:DE:0F:4B:DF:96:BB:29:45:C6:48:96",
+        "notbefore": "20231213063753Z",
+        "notafter": "20431208063753Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "loadalgota64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "BC:A9:EA:CF:74:D4:2A:9E:A3:1B:5D:19:B2:33:0B:14:05:C8:0A:5A:A0:22:9A:97:83:C3:1D:C8:31:46:1E:F2",
+        "notbefore": "20231213063852Z",
+        "notafter": "20431208063852Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "gpqese"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "D4:DD:77:5D:D3:A1:C6:47:9D:37:35:68:04:5C:F1:6E:79:62:60:14:73:86:9E:F8:47:94:3C:BC:D2:3A:76:4A",
+        "notbefore": "20231213063840Z",
+        "notafter": "20431208063840Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "5E:AF:98:A1:33:5D:78:0A:47:19:59:88:81:EA:4E:B7:9E:3E:25:9B:FC:A1:69:F2:89:52:D9:D8:51:8E:0F:BC",
+        "notbefore": "20231213063833Z",
+        "notafter": "20431208063833Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "eseservice"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "C8:83:9F:12:3B:64:8F:3D:FC:FD:73:71:21:51:08:C0:98:4E:65:30:E8:7C:1B:50:3A:0A:C0:58:77:E8:FA:35",
+        "notbefore": "20231213063737Z",
+        "notafter": "20431208063737Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "smplap64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "1F:3F:38:4B:F2:16:65:7A:56:48:FA:C9:9F:69:66:2C:05:DC:B9:5F:42:EC:2B:D7:C6:E4:E1:AD:40:94:DF:F5",
+        "notbefore": "20230310204846Z",
+        "notafter": "20430305204846Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT0,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "AC:B5:B1:17:04:4E:62:11:A3:54:19:CE:8D:0B:F1:8C:C2:B6:16:0F:77:A9:4A:A2:C7:A2:F8:77:DA:AD:4B:2C",
+        "notbefore": "20160321215215Z",
+        "notafter": "20360316215215Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US",
+        "sha256": "9C:DA:62:68:C1:19:16:FF:53:B4:1F:2B:17:01:E2:75:8F:C3:BB:D2:27:53:8E:E1:27:15:8F:7C:95:27:A4:54",
+        "notbefore": "20160321215211Z",
+        "notafter": "20360316215211Z",
+        "serialnumber": 1,
+        "issuer": "CN=SECTOOLS SECP384R1 CURVE TEST ROOT,O=QUALCOMM,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "sp_license"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "05:7E:88:A8:3A:76:D2:FC:21:54:D0:56:F4:11:48:22:A2:83:13:D5:6D:84:26:29:E9:1F:7A:A8:E3:A6:A2:39",
+        "notbefore": "20231213063814Z",
+        "notafter": "20431208063814Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "mldapta"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "03:71:5F:91:0C:95:0B:6E:DE:39:D7:33:6E:CD:FB:4C:10:58:6D:91:78:53:4D:2F:A0:7B:65:2C:B1:08:31:31",
+        "notbefore": "20231213063838Z",
+        "notafter": "20431208063838Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "soter64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "F9:01:DE:43:55:D1:06:54:D9:26:88:B7:EB:47:C4:7D:AE:FE:82:68:57:B2:1F:32:A4:C5:C3:4E:C8:2A:2E:1F",
+        "notbefore": "20231213063924Z",
+        "notafter": "20431208063924Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "hdcpsrm"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL4,O=QUALCOMM,OU=None,C=US",
+        "sha256": "19:06:00:E1:B5:F2:FA:EB:F3:B9:F8:91:91:09:6B:22:39:EF:1E:DC:0E:41:13:DF:9F:C9:88:54:3C:6E:C6:E4",
+        "notbefore": "20230314114039Z",
+        "notafter": "20250314114039Z",
+        "serialnumber": 101203448624861820959845186287570503452033032789,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SRoT MBNv7 Image Signing Root CA 6 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "94:5D:44:CE:F4:35:81:75:01:A7:0B:DC:61:C1:56:C0:ED:55:05:04:A0:65:80:10:4E:E6:2F:FA:DB:6D:74:03",
+        "notbefore": "20200825220346Z",
+        "notafter": "20300825220346Z",
+        "serialnumber": 996091429729812749978817681183613880540367235477,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "6D:8D:59:5F:C1:AD:2F:80:38:3F:26:64:53:F9:B4:8B:35:F4:8A:09:7C:C8:1B:1E:C2:82:16:1C:56:1D:47:F6",
+        "notbefore": "20200825215431Z",
+        "notafter": "20500825215431Z",
+        "serialnumber": 10049847127100329645,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "5A:EB:6F:B7:74:E5:99:A9:AB:59:B2:6B:F2:9F:D3:0A:B4:E8:CE:12:18:98:2A:8E:9E:08:EA:B1:84:CD:FF:AF",
+        "notbefore": "20231213063939Z",
+        "notafter": "20431208063939Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "featenabler"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "D2:F2:6A:A5:5F:C4:02:C3:B6:72:D3:D8:90:24:CA:33:37:B4:A1:A4:98:79:04:07:90:88:56:9A:3F:72:21:1B",
+        "notbefore": "20231213063930Z",
+        "notafter": "20431208063930Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "tuiauthapp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "A5:EF:B8:A9:AF:B4:70:83:01:43:CA:91:E4:DA:E8:BC:69:71:25:2B:5A:EF:82:EB:28:7D:12:1B:FE:C1:7D:E6",
+        "notbefore": "20231213063804Z",
+        "notafter": "20431208063804Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "goodixfp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "8E:61:E4:B9:DA:43:38:85:4D:58:7B:94:DB:E3:1D:58:3E:CB:FA:69:54:7A:C7:46:10:71:D6:05:6E:AC:D7:C2",
+        "notbefore": "20231213063742Z",
+        "notafter": "20431208063742Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "vsimapp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "96:DC:93:19:55:2A:FB:EC:75:61:91:33:D0:89:E0:2C:95:4A:2F:8C:8F:88:E6:F6:FC:63:39:9F:DA:A7:5C:DF",
+        "notbefore": "20231213063816Z",
+        "notafter": "20431208063816Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "mfido"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "70:0A:CF:69:66:5F:87:C5:A5:54:9B:23:F7:08:3D:F8:1F:29:93:3D:0B:80:F5:97:AF:DA:3F:22:7E:6D:6D:D8",
+        "notbefore": "20231213063823Z",
+        "notafter": "20431208063823Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "secauth"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      },
+      {
+        "subject": "CN=CASS - SBL4,O=QUALCOMM,OU=None,C=US",
+        "sha256": "35:E8:F8:7A:C4:96:80:F9:89:84:B8:A1:5D:01:01:CE:79:BF:D9:78:1B:49:52:EB:AE:1E:72:1B:E9:1C:35:6B",
+        "notbefore": "20230314114043Z",
+        "notafter": "20250314114043Z",
+        "serialnumber": 185865828423560121873411865123168752371751464779,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SRoT MBNv7 Image Signing Root CA 6 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "94:5D:44:CE:F4:35:81:75:01:A7:0B:DC:61:C1:56:C0:ED:55:05:04:A0:65:80:10:4E:E6:2F:FA:DB:6D:74:03",
+        "notbefore": "20200825220346Z",
+        "notafter": "20300825220346Z",
+        "serialnumber": 996091429729812749978817681183613880540367235477,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "6D:8D:59:5F:C1:AD:2F:80:38:3F:26:64:53:F9:B4:8B:35:F4:8A:09:7C:C8:1B:1E:C2:82:16:1C:56:1D:47:F6",
+        "notbefore": "20200825215431Z",
+        "notafter": "20500825215431Z",
+        "serialnumber": 10049847127100329645,
+        "issuer": "CN=SRoT MBNv7 Image Signing Root CA 6,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "AF:16:11:70:5D:32:5A:D3:99:77:BF:C2:92:BB:90:7E:12:D3:F0:E5:E4:08:C1:6A:CD:B3:F2:B6:EA:50:6F:C0",
+        "notbefore": "20231213063937Z",
+        "notafter": "20431208063937Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "rtic"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "03:31:D4:C0:13:8B:4D:BF:72:12:41:A1:E0:E2:DA:BF:4B:19:0F:1B:02:47:64:D3:6D:BF:D3:CD:B2:3D:C5:CD",
+        "notbefore": "20231213063938Z",
+        "notafter": "20431208063938Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "ic3"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "D3:73:65:41:86:E3:87:6D:20:99:4B:01:52:7F:14:A6:28:83:CF:F5:DD:61:25:3B:CE:A7:BB:39:99:52:09:53",
+        "notbefore": "20231213063809Z",
+        "notafter": "20431208063809Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "hdcp1"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "60:43:7D:2C:C7:A0:41:0C:18:38:3E:15:57:B8:70:9B:9D:6F:0E:AD:D9:7C:21:B8:5A:CA:6C:21:DC:F7:42:94",
+        "notbefore": "20231213063856Z",
+        "notafter": "20431208063856Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "ops"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "AF:7A:3D:B7:ED:60:82:91:B3:0F:DD:1C:A7:CE:9B:65:0D:2E:7C:09:E2:BB:77:93:9F:D6:F1:9C:48:4C:40:8E",
+        "notbefore": "20231213063841Z",
+        "notafter": "20431208063841Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "otrpapp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "E7:5C:48:82:80:4A:52:02:D0:A4:B3:07:9A:78:50:31:BF:3F:D1:7B:29:45:C5:F8:BA:28:A3:25:24:30:6A:D7",
+        "notbefore": "20231213063758Z",
+        "notafter": "20431208063758Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "hdcp2p2"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "11:7C:D7:B8:FC:9C:25:BE:BC:F5:D3:C3:22:F4:9F:A3:8E:0E:EE:4E:75:67:27:3B:7B:BA:CD:46:84:35:64:2C",
+        "notbefore": "20231213063934Z",
+        "notafter": "20431208063934Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "mlipay"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "9B:08:6F:E5:3F:07:DB:F8:50:B5:6D:F3:5A:62:C9:5E:85:4F:C9:46:72:78:A7:2E:16:B4:75:64:2D:AC:BF:C7",
+        "notbefore": "20231213063741Z",
+        "notafter": "20431208063741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "fingerpr"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "FC:1E:F3:79:A1:A0:1B:39:41:80:9A:F2:CC:23:43:E8:CA:B2:9D:DD:B9:A1:E1:2B:3C:83:1E:31:E5:D2:E3:76",
+        "notbefore": "20231213063901Z",
+        "notafter": "20431208063901Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "56:5C:7E:ED:6F:05:76:E9:70:DC:A2:05:3D:9E:09:36:0A:F6:87:36:10:44:59:CF:38:08:9B:BF:B9:C6:C2:47",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US",
+        "sha256": "1C:84:5B:80:80:D4:CE:3E:DF:C8:96:49:26:9E:28:62:7C:8F:A7:89:CC:A6:28:2A:68:28:AC:01:49:40:D0:63",
+        "notbefore": "20210727070953Z",
+        "notafter": "20410722070953Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Xiaomi Root CA,O=SecToolsV2,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "fpctzappfingerprint"
+  }
+]

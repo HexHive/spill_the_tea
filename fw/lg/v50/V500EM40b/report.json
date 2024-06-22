@@ -1,0 +1,1727 @@
+[
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "D9:A7:75:9C:56:C9:4F:9A:97:52:31:27:69:B0:D1:15:84:8D:4C:52:EC:13:9B:09:CB:48:E4:CB:DF:E8:F7:16",
+        "notbefore": "20220516062600Z",
+        "notafter": "20420512062600Z",
+        "serialnumber": 336266,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "smplap32"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "8B:2E:D3:B0:50:B5:0E:91:99:92:FA:98:D1:8D:E5:33:9A:E1:78:E2:39:F3:C2:45:76:35:83:CB:E7:18:66:E8",
+        "notbefore": "20220516062703Z",
+        "notafter": "20420512062703Z",
+        "serialnumber": 733193,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 4,
+    "Version": 0,
+    "Image_ID": 4,
+    "old_mdt": true,
+    "ta_name": "adsp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "11:F0:F2:92:AD:06:1C:CD:8D:2E:4D:31:90:6F:BA:D0:88:33:42:B4:E7:7F:8E:15:79:D2:E5:9E:85:D4:45:20",
+        "notbefore": "20220516062653Z",
+        "notafter": "20420512062653Z",
+        "serialnumber": 671273,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "hdcp2p2"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "1A:E2:91:96:34:18:11:B9:61:46:58:B1:40:DA:19:E7:91:E3:89:6E:84:85:62:42:16:49:93:84:5A:F0:14:EF",
+        "notbefore": "20220516062620Z",
+        "notafter": "20420512062620Z",
+        "serialnumber": 906403,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "egista"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "38:B7:61:7C:02:18:CB:F6:91:E6:06:09:52:34:78:3E:0A:36:6E:F9:0C:41:02:74:02:8E:BF:06:78:41:2C:B5",
+        "notbefore": "20220516062616Z",
+        "notafter": "20420512062616Z",
+        "serialnumber": 491798,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "xhdcp2"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "1E:DE:D5:A9:E7:C7:D8:44:60:39:09:9C:49:C5:A2:51:36:18:84:7C:02:91:A8:15:D4:E3:80:F7:7D:E2:0A:23",
+        "notbefore": "20220516062620Z",
+        "notafter": "20420512062620Z",
+        "serialnumber": 180058,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "csfido"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "7F:DC:08:03:DD:21:8F:5E:79:CE:79:82:4A:55:25:01:D7:1E:42:6B:2A:F4:E0:35:6D:4F:91:64:58:8D:92:2D",
+        "notbefore": "20220516062657Z",
+        "notafter": "20420512062657Z",
+        "serialnumber": 210641,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 23,
+    "Version": 0,
+    "Image_ID": 23,
+    "old_mdt": true,
+    "ta_name": "cdsp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "73:6D:C6:08:1B:47:19:6F:A3:3D:A8:15:60:2B:77:62:17:85:1B:C6:83:4E:F0:FD:65:99:29:3F:93:68:25:5F",
+        "notbefore": "20220516062659Z",
+        "notafter": "20420512062659Z",
+        "serialnumber": 702841,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 18,
+    "Version": 0,
+    "Image_ID": 18,
+    "old_mdt": true,
+    "ta_name": "wlanmdsp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "06:43:24:AA:A0:56:37:5D:6F:B4:42:29:0C:DC:5A:07:E9:5B:18:6C:3B:B9:C8:9A:4E:C1:B8:9A:C3:DA:C7:3E",
+        "notbefore": "20220516062613Z",
+        "notafter": "20420512062613Z",
+        "serialnumber": 863488,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "goodixfp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "D3:1C:B5:89:55:C1:A6:B9:44:32:92:44:B1:D7:24:B6:CF:ED:54:62:92:94:6F:4E:D0:5E:D7:FF:6E:D6:F4:95",
+        "notbefore": "20220516062608Z",
+        "notafter": "20420512062608Z",
+        "serialnumber": 203209,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "ltz64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "BF:9C:52:6F:EC:3C:39:CC:25:30:84:4B:06:63:91:18:D6:06:E2:20:A1:D6:6F:F0:BA:CE:6C:9B:DB:24:A9:F7",
+        "notbefore": "20220516062625Z",
+        "notafter": "20420512062625Z",
+        "serialnumber": 261869,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "voicepri"
+  },
+  {
+    "certs": [],
+    "old_mdt": false,
+    "ta_name": "cpe_9340"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "F4:93:87:05:2F:E6:1F:09:3B:2F:A8:7E:7A:F3:4D:E3:3D:AD:47:42:26:4C:10:9E:24:B6:BF:F6:D5:E0:27:D0",
+        "notbefore": "20220516062658Z",
+        "notafter": "20420512062658Z",
+        "serialnumber": 967508,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "imeipro"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "13:36:87:4D:F4:57:06:CD:DA:E3:5E:9D:96:C3:1B:9F:BC:46:48:F9:F9:0E:11:30:19:08:6D:1B:C5:D6:FE:F7",
+        "notbefore": "20220516062628Z",
+        "notafter": "20420512062628Z",
+        "serialnumber": 729502,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "giftcar"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "6A:8F:33:F7:DF:90:73:A8:5C:F1:45:2C:A9:79:05:DA:41:0B:79:DE:1E:D2:07:A5:D4:8A:84:0A:DE:D3:34:FE",
+        "notbefore": "20220516062559Z",
+        "notafter": "20420512062559Z",
+        "serialnumber": 206012,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "akmu"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "C0:E9:6E:25:17:6C:E9:C7:1B:61:AA:54:6F:1C:EB:53:20:A6:3C:8D:77:13:60:D5:05:24:7D:76:56:23:12:09",
+        "notbefore": "20220516062702Z",
+        "notafter": "20420512062702Z",
+        "serialnumber": 755903,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 40,
+    "Version": 0,
+    "Image_ID": 40,
+    "old_mdt": true,
+    "ta_name": "npu"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "C3:91:1B:21:4D:DE:9D:0A:5D:FE:3E:9C:73:F4:6F:0F:3D:C2:F6:86:40:1E:C9:77:EB:B5:49:CF:F1:7F:EE:AF",
+        "notbefore": "20220516062619Z",
+        "notafter": "20420512062619Z",
+        "serialnumber": 468991,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "cdcv"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "FB:8A:D4:A6:1B:A2:36:0A:43:71:D0:B0:CE:94:2E:9A:FB:78:79:F3:69:93:9F:48:0E:A3:A4:9B:B6:6F:FC:6C",
+        "notbefore": "20220516062702Z",
+        "notafter": "20420512062702Z",
+        "serialnumber": 850918,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 14,
+    "Version": 0,
+    "Image_ID": 14,
+    "old_mdt": true,
+    "ta_name": "venus"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "CD:55:70:F7:87:7B:A7:6D:C7:3C:83:2C:FD:A9:51:47:32:2C:A3:8D:0D:36:5B:E2:4D:7E:19:47:72:14:FD:B2",
+        "notbefore": "20220516062626Z",
+        "notafter": "20420512062626Z",
+        "serialnumber": 349509,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "fingerpr"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "55:6F:48:E7:C9:24:D8:6F:EB:F3:DA:6D:F2:6B:C1:5F:14:9D:2E:B9:65:A2:82:59:ED:44:06:DE:87:0A:5C:DC",
+        "notbefore": "20220516062630Z",
+        "notafter": "20420512062630Z",
+        "serialnumber": 144540,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "aster"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "0A:22:03:1C:BE:B2:6B:37:5E:33:61:12:94:CC:B2:A3:B3:B8:58:A6:C0:34:C3:F7:9B:75:13:6C:F6:7F:1A:C4",
+        "notbefore": "20220516062652Z",
+        "notafter": "20420512062652Z",
+        "serialnumber": 578126,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "6F:C7:D3:76:0A:A3:14:F1:CC:7D:2E:F3:99:8C:17:54:4A:AE:29:E2:6D:0E:75:5F:5C:A7:DA:CD:3C:81:30:DB",
+        "notbefore": "20220516062653Z",
+        "notafter": "20420512062653Z",
+        "serialnumber": 475036,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "rtic"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "48:C3:4A:E3:B0:7D:91:79:2F:21:75:AD:6E:1B:AD:EE:8B:0F:F1:51:7E:54:75:75:B3:F0:8C:00:D0:94:2E:0D",
+        "notbefore": "20220516062606Z",
+        "notafter": "20420512062606Z",
+        "serialnumber": 145659,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "a_vis"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "20:B6:65:63:2D:79:00:B3:0C:57:EF:35:29:7F:AE:7B:58:61:29:08:3F:82:59:82:D3:C9:E8:4A:7E:2C:53:85",
+        "notbefore": "20220517031254Z",
+        "notafter": "20420512031254Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "seccam64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "31:2C:A3:C8:F3:C8:3E:E3:03:A3:09:E4:47:B3:11:FA:A2:E7:CF:40:8E:6E:F9:4F:12:A4:A2:A2:9F:DE:AA:1D",
+        "notbefore": "20220516062623Z",
+        "notafter": "20420512062623Z",
+        "serialnumber": 590216,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 2,
+    "Version": 0,
+    "Image_ID": 2,
+    "old_mdt": true,
+    "ta_name": "ode"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "33:82:66:90:71:21:5E:AD:D0:75:AD:D6:B9:C6:26:31:82:EB:7A:D4:25:A3:78:38:2D:1F:39:E8:17:73:E0:29",
+        "notbefore": "20220517031302Z",
+        "notafter": "20420512031302Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "base"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "05:3D:EC:5C:D3:78:79:4E:A7:07:5F:8D:EE:5E:84:6A:DB:24:DD:AF:73:A6:39:AB:26:7B:D3:45:75:9E:C4:C7",
+        "notbefore": "20220516062608Z",
+        "notafter": "20420512062608Z",
+        "serialnumber": 465011,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "stool"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "12:CD:F1:37:80:A1:93:41:DB:60:99:1F:27:FA:F3:82:F3:E9:17:C9:3E:E4:5B:DE:0F:C9:02:CF:B7:60:E2:AA",
+        "notbefore": "20220516062658Z",
+        "notafter": "20420512062658Z",
+        "serialnumber": 647014,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "hdcp1"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "CF:19:81:0F:29:A7:FF:11:8C:FD:D2:2B:D5:B5:15:45:A2:97:99:02:23:97:8B:73:3F:B6:44:04:F3:04:41:D9",
+        "notbefore": "20220517031243Z",
+        "notafter": "20420512031243Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "faceid64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "53:AC:CB:3F:C4:84:2F:AC:D5:B0:24:C4:BF:99:65:66:07:E9:50:A8:92:55:10:B9:79:B9:E0:BB:ED:88:CC:74",
+        "notbefore": "20190624115458Z",
+        "notafter": "20390619115458Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "ldapta"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "1B:84:2B:8D:0C:01:10:3A:32:9B:B5:26:D6:0A:72:45:0E:44:83:25:3B:D5:33:77:06:62:92:91:92:58:55:83",
+        "notbefore": "20220516062702Z",
+        "notafter": "20420512062702Z",
+        "serialnumber": 394529,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "haventkn"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "6C:CF:14:15:A0:10:BA:0E:9B:7F:35:C1:63:B8:CC:C6:E7:2B:30:61:D7:E1:12:73:34:11:B6:CC:B9:7E:5B:60",
+        "notbefore": "20220516062614Z",
+        "notafter": "20420512062614Z",
+        "serialnumber": 481252,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "smplap64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "10:E6:9E:5D:EF:2E:2F:9F:A2:C8:7F:10:E6:B3:F8:56:50:AF:AB:B3:E9:D7:80:52:90:1C:E6:55:85:30:C4:B3",
+        "notbefore": "20211129222521Z",
+        "notafter": "20411124222521Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "soter64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "A6:78:7C:DE:0A:77:19:9A:1A:07:4A:13:DB:6B:C4:CC:2A:9B:97:5F:6D:8F:18:09:50:3D:97:7F:F0:B0:DA:DB",
+        "notbefore": "20211213141137Z",
+        "notafter": "20231213141137Z",
+        "serialnumber": 33737102433928021135627321262586744335612671918,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "C8:43:D1:53:13:F5:16:FA:E1:8D:47:C6:03:50:42:64:A0:D8:C8:FF:A7:0B:3E:53:6F:4E:41:AE:E8:AB:B3:09",
+        "notbefore": "20220516062652Z",
+        "notafter": "20420512062652Z",
+        "serialnumber": 547832,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 31,
+    "Version": 0,
+    "Image_ID": 31,
+    "old_mdt": true,
+    "ta_name": "cmnlib64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "D6:F8:C8:75:19:73:B0:EE:5E:C9:7A:E1:3B:F6:C4:A4:63:19:E6:8C:04:22:DF:84:36:D9:A1:F5:27:76:26:54",
+        "notbefore": "20220516062620Z",
+        "notafter": "20420512062620Z",
+        "serialnumber": 814181,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "a_mc"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "8F:51:2F:2F:F2:5E:F6:02:E0:69:FF:F1:B5:C3:A0:CF:E6:4F:5D:E6:D0:46:B6:79:34:F8:C2:90:C1:61:84:38",
+        "notbefore": "20220516062610Z",
+        "notafter": "20420512062610Z",
+        "serialnumber": 631219,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "cppf"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "8E:85:C2:5D:13:6C:C2:6E:52:6A:4C:50:13:46:37:E6:77:48:EB:B5:FB:6F:31:4A:97:13:7E:BB:F9:69:6B:D9",
+        "notbefore": "20220516062628Z",
+        "notafter": "20420512062628Z",
+        "serialnumber": 420386,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "a_cp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "A1:61:1A:55:93:A5:71:29:41:BB:17:8E:6F:AD:35:DD:56:C3:99:FD:ED:78:A5:C0:C2:3E:E7:0F:E2:80:1B:AD",
+        "notbefore": "20220516062559Z",
+        "notafter": "20420512062559Z",
+        "serialnumber": 824987,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 29,
+    "Version": 0,
+    "Image_ID": 29,
+    "old_mdt": true,
+    "ta_name": "ipa_fws"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "1B:84:2B:8D:0C:01:10:3A:32:9B:B5:26:D6:0A:72:45:0E:44:83:25:3B:D5:33:77:06:62:92:91:92:58:55:83",
+        "notbefore": "20220516062702Z",
+        "notafter": "20420512062702Z",
+        "serialnumber": 394529,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=Feature License Attestation Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "37:0E:17:E5:88:A1:12:1E:03:5F:C7:5A:F9:87:24:C9:D9:5E:16:07:92:28:08:95:9D:7D:46:B5:C0:47:4C:D3",
+        "notbefore": "20151002000001Z",
+        "notafter": "20451001235959Z",
+        "serialnumber": 173387853770470392918606252303726353709162129728104,
+        "issuer": "CN=Feature License Attestation Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=Insecure License Test Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "DA:7A:98:8E:D2:03:37:C8:F8:22:4A:09:A0:16:F6:C8:3C:D2:0A:96:FC:43:82:CC:E5:35:9A:BF:2D:41:63:83",
+        "notbefore": "20161208002525Z",
+        "notafter": "20361203002525Z",
+        "serialnumber": 173387853770470392918606252303726353709162129728104,
+        "issuer": "CN=Insecure License Test Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "haventk"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "6D:4F:2E:6F:B7:80:C2:67:8B:95:56:DC:42:78:9C:74:8E:01:61:96:EF:E8:65:A4:F9:84:33:68:9D:49:5B:63",
+        "notbefore": "20220516062631Z",
+        "notafter": "20420512062631Z",
+        "serialnumber": 355855,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "e"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "40:B5:B4:8E:F0:42:D6:01:59:C8:77:F2:F3:18:18:08:10:1F:FF:90:4E:9A:D4:CF:2E:F0:A6:28:76:D9:3D:19",
+        "notbefore": "20220516062702Z",
+        "notafter": "20420512062702Z",
+        "serialnumber": 739177,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "hdcpsr"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "65:D5:0D:9D:B0:FE:73:24:27:61:63:E6:90:08:F3:7F:EF:62:AD:C9:1A:F5:79:00:8D:A5:82:7D:3C:C4:0E:BB",
+        "notbefore": "20211213141304Z",
+        "notafter": "20231213141304Z",
+        "serialnumber": 569243548719250732231878920722704963154556996830,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "08:4C:C6:78:7E:D0:78:2D:19:DF:8A:0E:15:ED:24:DD:B3:CD:E9:33:8B:4B:10:7C:A9:7E:03:93:D6:17:5C:35",
+        "notbefore": "20220516062651Z",
+        "notafter": "20420512062651Z",
+        "serialnumber": 921818,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 31,
+    "Version": 0,
+    "Image_ID": 31,
+    "old_mdt": true,
+    "ta_name": "cmnlib"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "0D:50:3E:92:16:B4:F2:F7:C6:0B:C7:43:F5:3F:A2:90:C2:2C:22:D8:35:07:89:B2:E8:DA:94:98:C3:D8:78:23",
+        "notbefore": "20220516062617Z",
+        "notafter": "20420512062617Z",
+        "serialnumber": 355397,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "old_mdt": true,
+    "ta_name": "secure"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=sunchul.park,O=LGE,OU=General LGE attestation,C=KR",
+        "sha256": "3D:BE:AA:9D:3E:83:4B:E7:A5:E5:FB:22:C5:88:BC:C9:51:20:BF:DB:8E:06:45:D9:A5:5D:DF:FD:A3:C5:92:2F",
+        "notbefore": "20220516062708Z",
+        "notafter": "20420512062708Z",
+        "serialnumber": 573789,
+        "issuer": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR"
+      },
+      {
+        "subject": "CN=LGE attestation CA,O=LGE,OU=General LGE attestation CA,C=KR",
+        "sha256": "97:BC:E5:82:A4:F5:15:9C:37:70:F9:E3:CF:98:61:AA:D3:68:17:71:C3:84:28:3D:33:A7:35:7D:ED:42:DC:6C",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 995593732921398107,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      },
+      {
+        "subject": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR",
+        "sha256": "10:30:CD:12:CE:70:8F:29:D6:91:4D:75:29:DF:75:14:9D:8E:F9:1C:27:DA:F0:E1:F8:4B:90:F4:B7:07:32:9A",
+        "notbefore": "20180109081650Z",
+        "notafter": "20380105081650Z",
+        "serialnumber": 17386206462600474876,
+        "issuer": "CN=LGE ROOT CA,O=LGE,OU=General LGE rootca,C=KR"
+      }
+    ],
+    "SHA256": 1,
+    "MODEL_ID": 0,
+    "SW_SIZE": 0,
+    "OEM_ID": 49,
+    "DEBUG": 1,
+    "MSM_ID": 676065,
+    "SW_ID": 24,
+    "Version": 0,
+    "Image_ID": 24,
+    "old_mdt": true,
+    "ta_name": "slpi"
+  }
+]

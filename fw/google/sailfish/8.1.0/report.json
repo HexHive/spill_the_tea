@@ -1,0 +1,480 @@
+[
+  {
+    "certs": [
+      {
+        "subject": "CN=hTC User,O=SecTools,OU=01 0000000000000004 SW_ID,C=TW",
+        "sha256": "9D:11:36:A8:5F:C7:82:AC:46:A9:2B:4F:6E:2E:DD:11:D6:8A:34:19:D5:F4:7C:92:F6:F5:15:29:F8:68:C1:D8",
+        "notbefore": "20170113033645Z",
+        "notafter": "20370108033645Z",
+        "serialnumber": 1,
+        "issuer": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW"
+      },
+      {
+        "subject": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW",
+        "sha256": "6A:AD:98:46:F4:90:A3:A4:FA:A2:8B:0A:D5:E2:B4:5E:7A:3B:BF:25:DE:D2:7B:E4:D3:D1:C3:56:6F:BE:ED:37",
+        "notbefore": "20141002040308Z",
+        "notafter": "20340927040308Z",
+        "serialnumber": 5,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      },
+      {
+        "subject": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW",
+        "sha256": "BA:21:02:DA:99:C9:24:05:8C:75:8F:A9:F4:25:08:47:C9:2C:AB:DE:17:FD:CE:F0:1D:4D:AF:F8:DF:5D:67:53",
+        "notbefore": "20110225111457Z",
+        "notafter": "20310220111457Z",
+        "serialnumber": 1,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      }
+    ],
+    "SW_ID": 4,
+    "Version": 0,
+    "Image_ID": 4,
+    "MSM_ID": 389345,
+    "OEM_ID": 0,
+    "SW_SIZE": 392,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "DEBUG": 0,
+    "old_mdt": true,
+    "ta_name": "adsp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=hTC User,O=SecTools,OU=01 0000000000000014 SW_ID,C=TW",
+        "sha256": "7D:D5:F3:34:53:F3:30:A0:2D:51:25:84:D0:F7:C4:03:2B:9F:60:4B:AA:15:A7:DB:9E:DE:E4:41:0F:38:FF:84",
+        "notbefore": "20160423011942Z",
+        "notafter": "20360418011942Z",
+        "serialnumber": 1,
+        "issuer": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW"
+      },
+      {
+        "subject": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW",
+        "sha256": "6A:AD:98:46:F4:90:A3:A4:FA:A2:8B:0A:D5:E2:B4:5E:7A:3B:BF:25:DE:D2:7B:E4:D3:D1:C3:56:6F:BE:ED:37",
+        "notbefore": "20141002040308Z",
+        "notafter": "20340927040308Z",
+        "serialnumber": 5,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      },
+      {
+        "subject": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW",
+        "sha256": "BA:21:02:DA:99:C9:24:05:8C:75:8F:A9:F4:25:08:47:C9:2C:AB:DE:17:FD:CE:F0:1D:4D:AF:F8:DF:5D:67:53",
+        "notbefore": "20110225111457Z",
+        "notafter": "20310220111457Z",
+        "serialnumber": 1,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      }
+    ],
+    "SW_ID": 20,
+    "Version": 0,
+    "Image_ID": 20,
+    "MSM_ID": 389345,
+    "OEM_ID": 0,
+    "SW_SIZE": 136,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "DEBUG": 0,
+    "old_mdt": true,
+    "ta_name": "a530_zap_signed"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=hTC User,O=SecTools,OU=01 000000000000000C SW_ID,C=TW",
+        "sha256": "B6:B0:72:0E:7D:13:27:BC:7A:23:20:75:1E:3F:FF:52:DA:5A:7C:8A:4E:A1:58:C9:40:CD:CA:4F:CF:E0:D1:A2",
+        "notbefore": "20170622090200Z",
+        "notafter": "20370617090200Z",
+        "serialnumber": 1,
+        "issuer": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW"
+      },
+      {
+        "subject": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW",
+        "sha256": "6A:AD:98:46:F4:90:A3:A4:FA:A2:8B:0A:D5:E2:B4:5E:7A:3B:BF:25:DE:D2:7B:E4:D3:D1:C3:56:6F:BE:ED:37",
+        "notbefore": "20141002040308Z",
+        "notafter": "20340927040308Z",
+        "serialnumber": 5,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      },
+      {
+        "subject": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW",
+        "sha256": "BA:21:02:DA:99:C9:24:05:8C:75:8F:A9:F4:25:08:47:C9:2C:AB:DE:17:FD:CE:F0:1D:4D:AF:F8:DF:5D:67:53",
+        "notbefore": "20110225111457Z",
+        "notafter": "20310220111457Z",
+        "serialnumber": 1,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 389345,
+    "OEM_ID": 0,
+    "SW_SIZE": 264,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "DEBUG": 0,
+    "APP_ID": 7381509141180805232,
+    "old_mdt": true,
+    "ta_name": "fpctzappfingerprin"
+  },
+  {
+    "certs": [],
+    "old_mdt": false,
+    "ta_name": "cpe_9335"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=hTC User,O=SecTools,OU=01 0000000000000014 SW_ID,C=TW",
+        "sha256": "7D:D5:F3:34:53:F3:30:A0:2D:51:25:84:D0:F7:C4:03:2B:9F:60:4B:AA:15:A7:DB:9E:DE:E4:41:0F:38:FF:84",
+        "notbefore": "20160423011942Z",
+        "notafter": "20360418011942Z",
+        "serialnumber": 1,
+        "issuer": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW"
+      },
+      {
+        "subject": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW",
+        "sha256": "6A:AD:98:46:F4:90:A3:A4:FA:A2:8B:0A:D5:E2:B4:5E:7A:3B:BF:25:DE:D2:7B:E4:D3:D1:C3:56:6F:BE:ED:37",
+        "notbefore": "20141002040308Z",
+        "notafter": "20340927040308Z",
+        "serialnumber": 5,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      },
+      {
+        "subject": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW",
+        "sha256": "BA:21:02:DA:99:C9:24:05:8C:75:8F:A9:F4:25:08:47:C9:2C:AB:DE:17:FD:CE:F0:1D:4D:AF:F8:DF:5D:67:53",
+        "notbefore": "20110225111457Z",
+        "notafter": "20310220111457Z",
+        "serialnumber": 1,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      }
+    ],
+    "SW_ID": 20,
+    "Version": 0,
+    "Image_ID": 20,
+    "MSM_ID": 389345,
+    "OEM_ID": 0,
+    "SW_SIZE": 136,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "DEBUG": 0,
+    "old_mdt": true,
+    "ta_name": "a530_zap_signe"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=hTC User,O=SecTools,OU=01 000000000000000E SW_ID,C=TW",
+        "sha256": "8E:88:B1:89:96:89:1E:9D:B9:9D:F4:A0:27:F9:61:C3:1D:0C:F8:6E:01:7A:F4:2E:7F:E7:4E:6F:CF:47:28:AE",
+        "notbefore": "20180207055102Z",
+        "notafter": "20380202055102Z",
+        "serialnumber": 1,
+        "issuer": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW"
+      },
+      {
+        "subject": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW",
+        "sha256": "6A:AD:98:46:F4:90:A3:A4:FA:A2:8B:0A:D5:E2:B4:5E:7A:3B:BF:25:DE:D2:7B:E4:D3:D1:C3:56:6F:BE:ED:37",
+        "notbefore": "20141002040308Z",
+        "notafter": "20340927040308Z",
+        "serialnumber": 5,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      },
+      {
+        "subject": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW",
+        "sha256": "BA:21:02:DA:99:C9:24:05:8C:75:8F:A9:F4:25:08:47:C9:2C:AB:DE:17:FD:CE:F0:1D:4D:AF:F8:DF:5D:67:53",
+        "notbefore": "20110225111457Z",
+        "notafter": "20310220111457Z",
+        "serialnumber": 1,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      }
+    ],
+    "SW_ID": 14,
+    "Version": 0,
+    "Image_ID": 14,
+    "MSM_ID": 389345,
+    "OEM_ID": 0,
+    "SW_SIZE": 200,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "DEBUG": 0,
+    "old_mdt": true,
+    "ta_name": "venus"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=hTC User,O=SecTools,OU=01 000000000000000E SW_ID,C=TW",
+        "sha256": "8E:88:B1:89:96:89:1E:9D:B9:9D:F4:A0:27:F9:61:C3:1D:0C:F8:6E:01:7A:F4:2E:7F:E7:4E:6F:CF:47:28:AE",
+        "notbefore": "20180207055102Z",
+        "notafter": "20380202055102Z",
+        "serialnumber": 1,
+        "issuer": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW"
+      },
+      {
+        "subject": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW",
+        "sha256": "6A:AD:98:46:F4:90:A3:A4:FA:A2:8B:0A:D5:E2:B4:5E:7A:3B:BF:25:DE:D2:7B:E4:D3:D1:C3:56:6F:BE:ED:37",
+        "notbefore": "20141002040308Z",
+        "notafter": "20340927040308Z",
+        "serialnumber": 5,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      },
+      {
+        "subject": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW",
+        "sha256": "BA:21:02:DA:99:C9:24:05:8C:75:8F:A9:F4:25:08:47:C9:2C:AB:DE:17:FD:CE:F0:1D:4D:AF:F8:DF:5D:67:53",
+        "notbefore": "20110225111457Z",
+        "notafter": "20310220111457Z",
+        "serialnumber": 1,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      }
+    ],
+    "SW_ID": 14,
+    "Version": 0,
+    "Image_ID": 14,
+    "MSM_ID": 389345,
+    "OEM_ID": 0,
+    "SW_SIZE": 200,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "DEBUG": 0,
+    "old_mdt": true,
+    "ta_name": "venus"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=hTC User,O=SecTools,OU=01 000000000000000C SW_ID,C=TW",
+        "sha256": "3D:20:1B:98:5A:08:79:A2:08:9B:50:7A:BF:B5:58:DD:F3:FD:0C:29:8B:27:AF:89:F7:64:C9:F6:FA:79:EE:1C",
+        "notbefore": "20170622033926Z",
+        "notafter": "20370617033926Z",
+        "serialnumber": 1,
+        "issuer": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW"
+      },
+      {
+        "subject": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW",
+        "sha256": "6A:AD:98:46:F4:90:A3:A4:FA:A2:8B:0A:D5:E2:B4:5E:7A:3B:BF:25:DE:D2:7B:E4:D3:D1:C3:56:6F:BE:ED:37",
+        "notbefore": "20141002040308Z",
+        "notafter": "20340927040308Z",
+        "serialnumber": 5,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      },
+      {
+        "subject": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW",
+        "sha256": "BA:21:02:DA:99:C9:24:05:8C:75:8F:A9:F4:25:08:47:C9:2C:AB:DE:17:FD:CE:F0:1D:4D:AF:F8:DF:5D:67:53",
+        "notbefore": "20110225111457Z",
+        "notafter": "20310220111457Z",
+        "serialnumber": 1,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 389345,
+    "OEM_ID": 0,
+    "SW_SIZE": 232,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "DEBUG": 0,
+    "APP_ID": 1365,
+    "old_mdt": true,
+    "ta_name": "cmnlib64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=hTC User,O=SecTools,OU=01 000000000000000C SW_ID,C=TW",
+        "sha256": "49:97:B6:4D:FC:A9:88:2B:7C:94:00:AD:E0:F2:37:BF:C0:BB:A4:3C:2F:83:41:9C:03:A7:31:93:2C:81:96:55",
+        "notbefore": "20170622033937Z",
+        "notafter": "20370617033937Z",
+        "serialnumber": 1,
+        "issuer": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW"
+      },
+      {
+        "subject": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW",
+        "sha256": "6A:AD:98:46:F4:90:A3:A4:FA:A2:8B:0A:D5:E2:B4:5E:7A:3B:BF:25:DE:D2:7B:E4:D3:D1:C3:56:6F:BE:ED:37",
+        "notbefore": "20141002040308Z",
+        "notafter": "20340927040308Z",
+        "serialnumber": 5,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      },
+      {
+        "subject": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW",
+        "sha256": "BA:21:02:DA:99:C9:24:05:8C:75:8F:A9:F4:25:08:47:C9:2C:AB:DE:17:FD:CE:F0:1D:4D:AF:F8:DF:5D:67:53",
+        "notbefore": "20110225111457Z",
+        "notafter": "20310220111457Z",
+        "serialnumber": 1,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 389345,
+    "OEM_ID": 0,
+    "SW_SIZE": 264,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "DEBUG": 0,
+    "APP_ID": 819,
+    "old_mdt": true,
+    "ta_name": "cppf"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=01 0000000000000014 SW_ID,C=US",
+        "sha256": "FA:B7:60:11:BB:23:2A:CE:8B:1F:79:C5:3F:C9:11:5D:80:D5:77:C2:DE:51:EF:43:DC:B0:60:AF:46:13:BE:D5",
+        "notbefore": "20161220102012Z",
+        "notafter": "20361215102012Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "4F:38:D2:78:7D:80:4D:46:0A:EE:56:6A:B0:F3:59:76:3C:87:96:8D:57:9B:02:DC:1A:CA:A3:7D:2E:39:D3:E8",
+        "notbefore": "20161220102011Z",
+        "notafter": "20361215102011Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "AF:EF:FB:8E:30:0A:56:83:1E:38:E8:02:45:F5:B5:35:CC:42:1C:22:3F:24:1B:AE:BE:FE:F6:54:13:D0:48:02",
+        "notbefore": "20161220102011Z",
+        "notafter": "20361215102011Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "SW_ID": 20,
+    "Version": 0,
+    "Image_ID": 20,
+    "MSM_ID": 0,
+    "OEM_ID": 0,
+    "SW_SIZE": 136,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "DEBUG": 2,
+    "old_mdt": true,
+    "ta_name": "a530_zap"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=hTC User,O=SecTools,OU=01 000000000000000C SW_ID,C=TW",
+        "sha256": "7C:F3:3E:28:8B:E0:BD:7A:A2:49:FD:B4:11:97:91:96:99:F2:BC:94:10:96:0B:2A:C0:21:C2:54:B6:67:A2:D2",
+        "notbefore": "20170810110519Z",
+        "notafter": "20370805110519Z",
+        "serialnumber": 1,
+        "issuer": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW"
+      },
+      {
+        "subject": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW",
+        "sha256": "6A:AD:98:46:F4:90:A3:A4:FA:A2:8B:0A:D5:E2:B4:5E:7A:3B:BF:25:DE:D2:7B:E4:D3:D1:C3:56:6F:BE:ED:37",
+        "notbefore": "20141002040308Z",
+        "notafter": "20340927040308Z",
+        "serialnumber": 5,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      },
+      {
+        "subject": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW",
+        "sha256": "BA:21:02:DA:99:C9:24:05:8C:75:8F:A9:F4:25:08:47:C9:2C:AB:DE:17:FD:CE:F0:1D:4D:AF:F8:DF:5D:67:53",
+        "notbefore": "20110225111457Z",
+        "notafter": "20310220111457Z",
+        "serialnumber": 1,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 389345,
+    "OEM_ID": 0,
+    "SW_SIZE": 264,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "DEBUG": 0,
+    "APP_ID": 819,
+    "old_mdt": true,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=hTC User,O=SecTools,OU=01 000000000000000C SW_ID,C=TW",
+        "sha256": "34:F7:07:B2:3E:99:7E:AA:C2:BA:A3:CF:46:8A:35:2D:7A:E8:93:59:88:CB:2C:B9:60:B0:18:1F:2E:76:2E:DE",
+        "notbefore": "20170622033921Z",
+        "notafter": "20370617033921Z",
+        "serialnumber": 1,
+        "issuer": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW"
+      },
+      {
+        "subject": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW",
+        "sha256": "6A:AD:98:46:F4:90:A3:A4:FA:A2:8B:0A:D5:E2:B4:5E:7A:3B:BF:25:DE:D2:7B:E4:D3:D1:C3:56:6F:BE:ED:37",
+        "notbefore": "20141002040308Z",
+        "notafter": "20340927040308Z",
+        "serialnumber": 5,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      },
+      {
+        "subject": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW",
+        "sha256": "BA:21:02:DA:99:C9:24:05:8C:75:8F:A9:F4:25:08:47:C9:2C:AB:DE:17:FD:CE:F0:1D:4D:AF:F8:DF:5D:67:53",
+        "notbefore": "20110225111457Z",
+        "notafter": "20310220111457Z",
+        "serialnumber": 1,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      }
+    ],
+    "SW_ID": 12,
+    "Version": 0,
+    "Image_ID": 12,
+    "MSM_ID": 389345,
+    "OEM_ID": 0,
+    "SW_SIZE": 232,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "DEBUG": 0,
+    "APP_ID": 1365,
+    "old_mdt": true,
+    "ta_name": "cmnlib"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=hTC User,O=SecTools,OU=01 0000000000000018 SW_ID,C=TW",
+        "sha256": "30:E5:01:E9:6E:11:99:B8:AA:9C:B8:AB:F3:CC:BF:97:94:01:4C:DF:0B:28:C8:AF:61:5C:32:8A:8B:A3:E6:4E",
+        "notbefore": "20160721125121Z",
+        "notafter": "20360716125121Z",
+        "serialnumber": 1,
+        "issuer": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW"
+      },
+      {
+        "subject": "CN=OEM attestation CA,O=hTC,OU=General OEM attestation CA,C=TW",
+        "sha256": "6A:AD:98:46:F4:90:A3:A4:FA:A2:8B:0A:D5:E2:B4:5E:7A:3B:BF:25:DE:D2:7B:E4:D3:D1:C3:56:6F:BE:ED:37",
+        "notbefore": "20141002040308Z",
+        "notafter": "20340927040308Z",
+        "serialnumber": 5,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      },
+      {
+        "subject": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW",
+        "sha256": "BA:21:02:DA:99:C9:24:05:8C:75:8F:A9:F4:25:08:47:C9:2C:AB:DE:17:FD:CE:F0:1D:4D:AF:F8:DF:5D:67:53",
+        "notbefore": "20110225111457Z",
+        "notafter": "20310220111457Z",
+        "serialnumber": 1,
+        "issuer": "CN=HTC Root CA,O=HTC,OU=HTC Corp,C=TW"
+      }
+    ],
+    "SW_ID": 24,
+    "Version": 0,
+    "Image_ID": 24,
+    "MSM_ID": 389345,
+    "OEM_ID": 0,
+    "SW_SIZE": 552,
+    "MODEL_ID": 0,
+    "SHA256": 1,
+    "DEBUG": 0,
+    "old_mdt": true,
+    "ta_name": "slpi"
+  }
+]

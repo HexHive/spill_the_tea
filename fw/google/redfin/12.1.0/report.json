@@ -1,0 +1,616 @@
+[
+  {
+    "certs": [
+      {
+        "subject": "CN=Android,O=Pixel,OU=\"Google\",C=US",
+        "sha256": "86:A5:F6:9D:FB:65:7A:0B:3E:D1:7A:8B:0A:DD:AB:2D:12:C0:77:8B:A7:31:4D:7F:BA:0B:00:EB:95:21:7C:0E",
+        "notbefore": "20190630221530Z",
+        "notafter": "20461115221530Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US",
+        "sha256": "52:F7:A3:40:F0:AF:3A:EE:36:50:06:0B:48:FB:20:28:5C:75:38:D9:D5:81:E5:EB:93:9F:C7:F2:EB:C8:B0:01",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US",
+        "sha256": "53:81:28:99:6C:60:E5:F9:B2:89:6E:80:22:DE:1E:49:FB:5D:FB:91:CD:81:72:A9:C7:A2:98:49:DA:60:D6:10",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2053206128,
+    "oem_id": 102,
+    "hw_id": 1171681,
+    "model_id": 10,
+    "old_mdt": false,
+    "ta_name": "fpctzappfingerprint"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android,O=Pixel,OU=\"Google\",C=US",
+        "sha256": "86:A5:F6:9D:FB:65:7A:0B:3E:D1:7A:8B:0A:DD:AB:2D:12:C0:77:8B:A7:31:4D:7F:BA:0B:00:EB:95:21:7C:0E",
+        "notbefore": "20190630221530Z",
+        "notafter": "20461115221530Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US",
+        "sha256": "52:F7:A3:40:F0:AF:3A:EE:36:50:06:0B:48:FB:20:28:5C:75:38:D9:D5:81:E5:EB:93:9F:C7:F2:EB:C8:B0:01",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US",
+        "sha256": "53:81:28:99:6C:60:E5:F9:B2:89:6E:80:22:DE:1E:49:FB:5D:FB:91:CD:81:72:A9:C7:A2:98:49:DA:60:D6:10",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "adsp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android,O=Pixel,OU=\"Google\",C=US",
+        "sha256": "86:A5:F6:9D:FB:65:7A:0B:3E:D1:7A:8B:0A:DD:AB:2D:12:C0:77:8B:A7:31:4D:7F:BA:0B:00:EB:95:21:7C:0E",
+        "notbefore": "20190630221530Z",
+        "notafter": "20461115221530Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US",
+        "sha256": "52:F7:A3:40:F0:AF:3A:EE:36:50:06:0B:48:FB:20:28:5C:75:38:D9:D5:81:E5:EB:93:9F:C7:F2:EB:C8:B0:01",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US",
+        "sha256": "53:81:28:99:6C:60:E5:F9:B2:89:6E:80:22:DE:1E:49:FB:5D:FB:91:CD:81:72:A9:C7:A2:98:49:DA:60:D6:10",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "cdsp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android,O=Pixel,OU=\"Google\",C=US",
+        "sha256": "86:A5:F6:9D:FB:65:7A:0B:3E:D1:7A:8B:0A:DD:AB:2D:12:C0:77:8B:A7:31:4D:7F:BA:0B:00:EB:95:21:7C:0E",
+        "notbefore": "20190630221530Z",
+        "notafter": "20461115221530Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US",
+        "sha256": "52:F7:A3:40:F0:AF:3A:EE:36:50:06:0B:48:FB:20:28:5C:75:38:D9:D5:81:E5:EB:93:9F:C7:F2:EB:C8:B0:01",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US",
+        "sha256": "53:81:28:99:6C:60:E5:F9:B2:89:6E:80:22:DE:1E:49:FB:5D:FB:91:CD:81:72:A9:C7:A2:98:49:DA:60:D6:10",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 18,
+    "secondary_sw_id": 0,
+    "oem_id": 102,
+    "hw_id": 1171681,
+    "model_id": 10,
+    "old_mdt": false,
+    "ta_name": "wlanmdsp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android,O=Pixel,OU=\"Google\",C=US",
+        "sha256": "86:A5:F6:9D:FB:65:7A:0B:3E:D1:7A:8B:0A:DD:AB:2D:12:C0:77:8B:A7:31:4D:7F:BA:0B:00:EB:95:21:7C:0E",
+        "notbefore": "20190630221530Z",
+        "notafter": "20461115221530Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US",
+        "sha256": "52:F7:A3:40:F0:AF:3A:EE:36:50:06:0B:48:FB:20:28:5C:75:38:D9:D5:81:E5:EB:93:9F:C7:F2:EB:C8:B0:01",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US",
+        "sha256": "53:81:28:99:6C:60:E5:F9:B2:89:6E:80:22:DE:1E:49:FB:5D:FB:91:CD:81:72:A9:C7:A2:98:49:DA:60:D6:10",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2053206128,
+    "oem_id": 102,
+    "hw_id": 1171681,
+    "model_id": 10,
+    "old_mdt": false,
+    "ta_name": "fpctzappfingerprin"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android,O=Pixel,OU=\"Google\",C=US",
+        "sha256": "86:A5:F6:9D:FB:65:7A:0B:3E:D1:7A:8B:0A:DD:AB:2D:12:C0:77:8B:A7:31:4D:7F:BA:0B:00:EB:95:21:7C:0E",
+        "notbefore": "20190630221530Z",
+        "notafter": "20461115221530Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US",
+        "sha256": "52:F7:A3:40:F0:AF:3A:EE:36:50:06:0B:48:FB:20:28:5C:75:38:D9:D5:81:E5:EB:93:9F:C7:F2:EB:C8:B0:01",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US",
+        "sha256": "53:81:28:99:6C:60:E5:F9:B2:89:6E:80:22:DE:1E:49:FB:5D:FB:91:CD:81:72:A9:C7:A2:98:49:DA:60:D6:10",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 20,
+    "secondary_sw_id": 0,
+    "oem_id": 102,
+    "hw_id": 1171681,
+    "model_id": 10,
+    "old_mdt": false,
+    "ta_name": "a620_zap"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android,O=Pixel,OU=\"Google\",C=US",
+        "sha256": "86:A5:F6:9D:FB:65:7A:0B:3E:D1:7A:8B:0A:DD:AB:2D:12:C0:77:8B:A7:31:4D:7F:BA:0B:00:EB:95:21:7C:0E",
+        "notbefore": "20190630221530Z",
+        "notafter": "20461115221530Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US",
+        "sha256": "52:F7:A3:40:F0:AF:3A:EE:36:50:06:0B:48:FB:20:28:5C:75:38:D9:D5:81:E5:EB:93:9F:C7:F2:EB:C8:B0:01",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US",
+        "sha256": "53:81:28:99:6C:60:E5:F9:B2:89:6E:80:22:DE:1E:49:FB:5D:FB:91:CD:81:72:A9:C7:A2:98:49:DA:60:D6:10",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 14,
+    "secondary_sw_id": 0,
+    "oem_id": 102,
+    "hw_id": 1171681,
+    "model_id": 10,
+    "old_mdt": false,
+    "ta_name": "venus"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android,O=Pixel,OU=\"Google\",C=US",
+        "sha256": "86:A5:F6:9D:FB:65:7A:0B:3E:D1:7A:8B:0A:DD:AB:2D:12:C0:77:8B:A7:31:4D:7F:BA:0B:00:EB:95:21:7C:0E",
+        "notbefore": "20190630221530Z",
+        "notafter": "20461115221530Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US",
+        "sha256": "52:F7:A3:40:F0:AF:3A:EE:36:50:06:0B:48:FB:20:28:5C:75:38:D9:D5:81:E5:EB:93:9F:C7:F2:EB:C8:B0:01",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US",
+        "sha256": "53:81:28:99:6C:60:E5:F9:B2:89:6E:80:22:DE:1E:49:FB:5D:FB:91:CD:81:72:A9:C7:A2:98:49:DA:60:D6:10",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 819,
+    "oem_id": 102,
+    "hw_id": 1171681,
+    "model_id": 10,
+    "old_mdt": false,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "EC:EE:1E:59:63:33:92:FA:55:0B:3C:27:98:CB:23:04:FE:80:47:41:9A:51:BA:1F:EE:67:28:BD:F8:8C:29:E9",
+        "notbefore": "20210405072721Z",
+        "notafter": "20410331072721Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "a650_zap"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "51:43:42:B9:46:1B:F1:DD:8E:3D:24:AF:4E:B7:6C:44:5F:6B:B9:EA:52:89:B2:62:74:59:49:DB:8B:A4:E2:D3",
+        "notbefore": "20220111132646Z",
+        "notafter": "20240111132646Z",
+        "serialnumber": 112362020962115597799466125954434714833016443803,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=Android,O=Pixel,OU=\"Google\",C=US",
+        "sha256": "86:A5:F6:9D:FB:65:7A:0B:3E:D1:7A:8B:0A:DD:AB:2D:12:C0:77:8B:A7:31:4D:7F:BA:0B:00:EB:95:21:7C:0E",
+        "notbefore": "20190630221530Z",
+        "notafter": "20461115221530Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US",
+        "sha256": "52:F7:A3:40:F0:AF:3A:EE:36:50:06:0B:48:FB:20:28:5C:75:38:D9:D5:81:E5:EB:93:9F:C7:F2:EB:C8:B0:01",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US",
+        "sha256": "53:81:28:99:6C:60:E5:F9:B2:89:6E:80:22:DE:1E:49:FB:5D:FB:91:CD:81:72:A9:C7:A2:98:49:DA:60:D6:10",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "featenabler"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android,O=Pixel,OU=\"Google\",C=US",
+        "sha256": "86:A5:F6:9D:FB:65:7A:0B:3E:D1:7A:8B:0A:DD:AB:2D:12:C0:77:8B:A7:31:4D:7F:BA:0B:00:EB:95:21:7C:0E",
+        "notbefore": "20190630221530Z",
+        "notafter": "20461115221530Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US",
+        "sha256": "52:F7:A3:40:F0:AF:3A:EE:36:50:06:0B:48:FB:20:28:5C:75:38:D9:D5:81:E5:EB:93:9F:C7:F2:EB:C8:B0:01",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US",
+        "sha256": "53:81:28:99:6C:60:E5:F9:B2:89:6E:80:22:DE:1E:49:FB:5D:FB:91:CD:81:72:A9:C7:A2:98:49:DA:60:D6:10",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 819,
+    "oem_id": 102,
+    "hw_id": 1171681,
+    "model_id": 10,
+    "old_mdt": false,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android,O=Pixel,OU=\"Google\",C=US",
+        "sha256": "86:A5:F6:9D:FB:65:7A:0B:3E:D1:7A:8B:0A:DD:AB:2D:12:C0:77:8B:A7:31:4D:7F:BA:0B:00:EB:95:21:7C:0E",
+        "notbefore": "20190630221530Z",
+        "notafter": "20461115221530Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US",
+        "sha256": "52:F7:A3:40:F0:AF:3A:EE:36:50:06:0B:48:FB:20:28:5C:75:38:D9:D5:81:E5:EB:93:9F:C7:F2:EB:C8:B0:01",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US",
+        "sha256": "53:81:28:99:6C:60:E5:F9:B2:89:6E:80:22:DE:1E:49:FB:5D:FB:91:CD:81:72:A9:C7:A2:98:49:DA:60:D6:10",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 29,
+    "secondary_sw_id": 0,
+    "oem_id": 102,
+    "hw_id": 1171681,
+    "model_id": 10,
+    "old_mdt": false,
+    "ta_name": "ipa_fws"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "8A:A6:35:B9:C4:97:ED:ED:04:96:7E:ED:22:13:52:8A:0D:90:67:08:BA:9A:35:1A:AD:0A:E2:EF:2E:A0:1D:4E",
+        "notbefore": "20220111132616Z",
+        "notafter": "20240111132616Z",
+        "serialnumber": 387452486433523187512113610904205580413072137884,
+        "issuer": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "76:08:7C:88:BE:A3:F2:C2:D4:D2:B7:28:0D:31:24:F1:8D:24:AC:AA:81:52:F9:33:CF:9B:D6:56:41:12:12:34",
+        "notbefore": "20170609000001Z",
+        "notafter": "20270608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606280,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "83:E8:6B:BC:6B:C4:5F:60:53:0E:7C:C8:E4:22:7A:26:07:88:E7:1F:65:78:E7:F1:44:67:C8:A7:B6:4E:70:38",
+        "notbefore": "20170609000001Z",
+        "notafter": "20470608235959Z",
+        "serialnumber": 330852769858715125944296728127885026639300056606279,
+        "issuer": "CN=QSEE Attestation Root CA 2,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=Android,O=Pixel,OU=\"Google\",C=US",
+        "sha256": "86:A5:F6:9D:FB:65:7A:0B:3E:D1:7A:8B:0A:DD:AB:2D:12:C0:77:8B:A7:31:4D:7F:BA:0B:00:EB:95:21:7C:0E",
+        "notbefore": "20190630221530Z",
+        "notafter": "20461115221530Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US",
+        "sha256": "52:F7:A3:40:F0:AF:3A:EE:36:50:06:0B:48:FB:20:28:5C:75:38:D9:D5:81:E5:EB:93:9F:C7:F2:EB:C8:B0:01",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US",
+        "sha256": "53:81:28:99:6C:60:E5:F9:B2:89:6E:80:22:DE:1E:49:FB:5D:FB:91:CD:81:72:A9:C7:A2:98:49:DA:60:D6:10",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      },
+      {
+        "subject": "CN=Feature License Attestation Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "37:0E:17:E5:88:A1:12:1E:03:5F:C7:5A:F9:87:24:C9:D9:5E:16:07:92:28:08:95:9D:7D:46:B5:C0:47:4C:D3",
+        "notbefore": "20151002000001Z",
+        "notafter": "20451001235959Z",
+        "serialnumber": 173387853770470392918606252303726353709162129728104,
+        "issuer": "CN=Feature License Attestation Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=Insecure License Test Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "DA:7A:98:8E:D2:03:37:C8:F8:22:4A:09:A0:16:F6:C8:3C:D2:0A:96:FC:43:82:CC:E5:35:9A:BF:2D:41:63:83",
+        "notbefore": "20161208002525Z",
+        "notafter": "20361203002525Z",
+        "serialnumber": 173387853770470392918606252303726353709162129728104,
+        "issuer": "CN=Insecure License Test Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "haventk"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "48:EA:6C:7F:EF:9B:C0:46:99:7C:A9:C8:83:5C:01:83:D7:D5:44:E2:73:B5:A0:AF:68:99:22:FB:6C:B3:E2:22",
+        "notbefore": "20210405072730Z",
+        "notafter": "20410331072730Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "C0:A6:92:56:7D:FB:F1:EF:51:3C:BC:F7:E2:27:37:49:4F:72:4E:83:0E:B6:37:2A:67:5E:B8:67:33:9A:17:A7",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "95:9B:8D:05:49:EF:41:BE:FA:BC:24:F5:1E:FE:84:FE:E3:66:AC:16:9A:B0:4A:0D:B3:0C:79:9B:32:4F:D7:98",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "a615_zap"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=Android,O=Pixel,OU=\"Google\",C=US",
+        "sha256": "86:A5:F6:9D:FB:65:7A:0B:3E:D1:7A:8B:0A:DD:AB:2D:12:C0:77:8B:A7:31:4D:7F:BA:0B:00:EB:95:21:7C:0E",
+        "notbefore": "20190630221530Z",
+        "notafter": "20461115221530Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Attestation CA\",O=Pixel,OU=\"Google\",C=US",
+        "sha256": "52:F7:A3:40:F0:AF:3A:EE:36:50:06:0B:48:FB:20:28:5C:75:38:D9:D5:81:E5:EB:93:9F:C7:F2:EB:C8:B0:01",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 5,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      },
+      {
+        "subject": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US",
+        "sha256": "53:81:28:99:6C:60:E5:F9:B2:89:6E:80:22:DE:1E:49:FB:5D:FB:91:CD:81:72:A9:C7:A2:98:49:DA:60:D6:10",
+        "notbefore": "20190630221529Z",
+        "notafter": "20461115221529Z",
+        "serialnumber": 1,
+        "issuer": "CN=\"Pixel Root CA\",O=Pixel,OU=Google,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2053210224,
+    "oem_id": 102,
+    "hw_id": 1171681,
+    "model_id": 10,
+    "old_mdt": false,
+    "ta_name": "confirmationui"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "7E:A7:EC:63:7E:E6:40:20:62:A1:DE:57:F0:CD:2F:CD:5C:FC:0B:76:AE:10:FF:CA:80:BB:C4:66:47:A9:D1:3E",
+        "notbefore": "20220105193338Z",
+        "notafter": "20411231193338Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "89:01:3C:D7:F5:74:E4:CA:68:96:C8:D6:AD:09:7D:1D:07:3A:1B:16:C7:CC:64:03:68:29:50:CD:33:AF:4D:0F",
+        "notbefore": "20150910222743Z",
+        "notafter": "20350905222743Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "F8:AB:20:52:63:58:C4:FA:4C:EF:96:D7:8C:45:18:0D:C3:DB:75:E8:F2:40:51:AD:62:44:48:C1:34:B4:E8:61",
+        "notbefore": "20150910222741Z",
+        "notafter": "20350905222741Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "hdcpsr"
+  }
+]

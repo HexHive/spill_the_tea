@@ -1,0 +1,1104 @@
+[
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "02:3B:C4:C1:F4:0A:A6:42:D8:9D:FE:4A:5C:73:ED:87:01:13:F0:2C:70:F4:22:F8:0C:60:7B:FB:1F:43:DF:A8",
+        "notbefore": "20211111134850Z",
+        "notafter": "20411106134850Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 273,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "smplap32"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "6E:5D:BF:B5:55:D2:7C:2C:B6:ED:F0:4D:36:1F:82:5C:97:93:88:26:A6:9F:3F:FC:E6:8F:D0:71:E2:C8:5D:4E",
+        "notbefore": "20211111134824Z",
+        "notafter": "20411106134824Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2048,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "alipay"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "58:49:AC:CA:09:DE:D4:AF:B2:8F:17:68:7D:32:7C:74:73:EC:9A:2D:E4:41:BE:0B:C6:2E:C5:4C:AA:95:7B:10",
+        "notbefore": "20201111192749Z",
+        "notafter": "20401106192749Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "C0:A6:92:56:7D:FB:F1:EF:51:3C:BC:F7:E2:27:37:49:4F:72:4E:83:0E:B6:37:2A:67:5E:B8:67:33:9A:17:A7",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "95:9B:8D:05:49:EF:41:BE:FA:BC:24:F5:1E:FE:84:FE:E3:66:AC:16:9A:B0:4A:0D:B3:0C:79:9B:32:4F:D7:98",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "sp_license"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "6D:C2:3A:32:A4:08:44:0F:7F:1F:A3:6A:3E:B5:72:EB:96:FE:DA:EA:A0:51:C1:5A:4E:F1:A9:AB:F7:EF:CD:4C",
+        "notbefore": "20211111134832Z",
+        "notafter": "20411106134832Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "adsp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "EC:66:63:FA:84:DD:D6:EA:35:53:9C:A0:2C:47:A3:F8:57:3D:7C:93:12:2A:0E:90:9D:15:89:C6:27:5A:C3:9B",
+        "notbefore": "20211111134909Z",
+        "notafter": "20411106134909Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1911,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "hdcp2p2"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "E9:AF:C6:AA:2E:A9:53:8A:F9:70:21:65:36:E6:90:A9:DC:35:ED:CA:E6:B6:89:00:74:0A:EE:0B:31:D6:35:60",
+        "notbefore": "20211111134836Z",
+        "notafter": "20411106134836Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "cdsp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "C6:19:78:F8:F5:FB:D3:61:5A:A0:BC:A9:AD:14:E0:1E:94:58:FB:A2:00:90:84:14:85:32:B9:F0:A8:25:11:4D",
+        "notbefore": "20211111134915Z",
+        "notafter": "20411106134915Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 353,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "voicepri"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "86:FE:5A:C4:34:9C:3B:77:A0:D7:03:84:CC:6C:E3:18:16:E7:65:D7:12:9D:D0:A4:A5:D6:8F:EF:10:1B:F9:7A",
+        "notbefore": "20211111134853Z",
+        "notafter": "20411106134853Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2049,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "faceapp"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "DB:32:C1:5A:CB:1C:6C:7A:C0:98:92:93:B0:B7:88:B9:D2:A4:B0:7E:0C:7C:CE:6B:9E:A1:34:A6:F2:7E:3A:D6",
+        "notbefore": "20211111134926Z",
+        "notafter": "20411106134926Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2050,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "gpqese"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "3A:38:F0:56:3D:25:E0:1E:8D:22:55:FD:C5:DE:DE:FC:56:D4:0B:CE:12:22:3E:C4:31:48:90:11:C6:C6:E9:2B",
+        "notbefore": "20201111191817Z",
+        "notafter": "20401106191817Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "C0:A6:92:56:7D:FB:F1:EF:51:3C:BC:F7:E2:27:37:49:4F:72:4E:83:0E:B6:37:2A:67:5E:B8:67:33:9A:17:A7",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "95:9B:8D:05:49:EF:41:BE:FA:BC:24:F5:1E:FE:84:FE:E3:66:AC:16:9A:B0:4A:0D:B3:0C:79:9B:32:4F:D7:98",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "eid"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "7A:AE:DB:40:42:D9:CD:8B:C9:2A:50:26:5F:A7:59:03:14:4C:39:E9:9D:EA:34:46:4C:9C:25:6C:D6:BD:58:C3",
+        "notbefore": "20211111134903Z",
+        "notafter": "20411106134903Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 337,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "fingerpr"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "50:3C:02:54:F7:A8:4F:BA:52:4A:D8:AB:3C:87:3E:0D:50:7D:82:D6:3F:4D:96:AB:E7:5F:99:C9:F7:0A:7F:13",
+        "notbefore": "20211111134912Z",
+        "notafter": "20411106134912Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 819,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "widevine"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "FD:C7:80:0B:D2:76:E9:95:5E:93:DD:AA:22:1E:7A:56:DB:DF:0D:85:33:02:F2:A5:14:EF:8E:8D:7D:F0:FF:EA",
+        "notbefore": "20201117152222Z",
+        "notafter": "20221117152222Z",
+        "serialnumber": 319919285301809927869598030123003225928276687627,
+        "issuer": "CN=QSEE Attestation Root CA 4 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 4 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "9A:4E:CB:29:9E:AE:62:AC:9C:0E:A8:73:FF:FA:EF:87:2B:F8:BA:CE:F2:24:46:A8:D1:67:97:CC:32:CD:03:73",
+        "notbefore": "20170801223003Z",
+        "notafter": "20270801223003Z",
+        "serialnumber": 12367844569064031078735733646651534169759711126905,
+        "issuer": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "CD:68:2B:2E:C7:0D:CE:D3:EA:F4:18:8C:A7:65:26:07:0A:6A:EC:EA:B5:AB:2E:15:EE:62:8A:11:BB:1E:15:37",
+        "notbefore": "20170801222541Z",
+        "notafter": "20470801222541Z",
+        "serialnumber": 12711044623020681667,
+        "issuer": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "74:EC:2B:37:98:55:31:BD:32:51:BD:21:AE:3D:57:56:11:2C:F3:FD:76:BF:97:4A:36:BF:B1:9F:A3:58:A8:30",
+        "notbefore": "20211111134922Z",
+        "notafter": "20411106134922Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "rtic"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "94:88:EF:F0:BD:6D:1E:6A:78:F8:6D:C1:14:2C:AB:0C:70:64:76:65:BA:F6:C9:3F:99:A3:04:E8:E7:3A:D1:FE",
+        "notbefore": "20211111135434Z",
+        "notafter": "20411106135434Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "ode"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "7A:64:4D:CF:6D:35:59:1D:51:14:A6:06:53:37:F8:97:BD:F5:AA:21:82:A7:A9:6F:DC:9D:4A:F7:A3:D6:21:1C",
+        "notbefore": "20201111192550Z",
+        "notafter": "20401106192550Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "C0:A6:92:56:7D:FB:F1:EF:51:3C:BC:F7:E2:27:37:49:4F:72:4E:83:0E:B6:37:2A:67:5E:B8:67:33:9A:17:A7",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "95:9B:8D:05:49:EF:41:BE:FA:BC:24:F5:1E:FE:84:FE:E3:66:AC:16:9A:B0:4A:0D:B3:0C:79:9B:32:4F:D7:98",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "loadalgota64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "82:56:01:8A:D5:8C:02:8B:37:38:04:6A:8E:76:B0:96:BB:52:60:C2:FE:36:AC:2B:55:70:BD:90:92:A6:28:99",
+        "notbefore": "20211111134907Z",
+        "notafter": "20411106134907Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1910,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "hdcp1"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "39:4B:19:85:92:C4:06:C1:A6:50:A5:08:85:57:E6:4A:9A:44:E1:3A:C3:23:EE:0C:C5:DA:38:35:7E:46:7E:2C",
+        "notbefore": "20201111192557Z",
+        "notafter": "20401106192557Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "C0:A6:92:56:7D:FB:F1:EF:51:3C:BC:F7:E2:27:37:49:4F:72:4E:83:0E:B6:37:2A:67:5E:B8:67:33:9A:17:A7",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "95:9B:8D:05:49:EF:41:BE:FA:BC:24:F5:1E:FE:84:FE:E3:66:AC:16:9A:B0:4A:0D:B3:0C:79:9B:32:4F:D7:98",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "ldapta"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "4E:97:FC:1B:79:BB:29:02:8A:E5:9B:06:F7:34:9D:8B:A6:59:FC:F7:DB:7C:B0:30:7E:43:E7:9C:08:BE:0D:55",
+        "notbefore": "20201117152247Z",
+        "notafter": "20221117152247Z",
+        "serialnumber": 712097306379354737151080030090346392374431522012,
+        "issuer": "CN=QSEE Attestation Root CA 4 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 4 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "9A:4E:CB:29:9E:AE:62:AC:9C:0E:A8:73:FF:FA:EF:87:2B:F8:BA:CE:F2:24:46:A8:D1:67:97:CC:32:CD:03:73",
+        "notbefore": "20170801223003Z",
+        "notafter": "20270801223003Z",
+        "serialnumber": 12367844569064031078735733646651534169759711126905,
+        "issuer": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "CD:68:2B:2E:C7:0D:CE:D3:EA:F4:18:8C:A7:65:26:07:0A:6A:EC:EA:B5:AB:2E:15:EE:62:8A:11:BB:1E:15:37",
+        "notbefore": "20170801222541Z",
+        "notafter": "20470801222541Z",
+        "serialnumber": 12711044623020681667,
+        "issuer": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "8D:B6:BC:C6:E6:5F:23:22:FF:3B:44:91:2F:74:B3:D7:6F:5D:A9:91:ED:DA:54:33:C9:6D:CD:AD:76:6C:7C:49",
+        "notbefore": "20211111134918Z",
+        "notafter": "20411106134918Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "haventkn"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "E9:12:19:6B:D8:A0:28:DB:52:B4:0D:C0:8D:5F:D8:82:6A:C3:93:CD:60:43:2A:7B:26:E7:E9:17:43:FA:2F:56",
+        "notbefore": "20211111134852Z",
+        "notafter": "20411106134852Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 274,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "smplap64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "5E:FD:46:5A:0F:E7:48:C9:EE:DE:E8:E1:51:15:00:C0:46:C2:2D:F7:0F:A4:29:F5:B0:BA:3B:6A:CE:10:E8:D1",
+        "notbefore": "20211111134916Z",
+        "notafter": "20411106134916Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2053,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "soter64"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "19:35:75:E9:73:39:BF:B0:E7:1D:2A:AB:A3:2C:A2:88:86:EC:64:D0:3B:FB:19:35:C8:08:DE:15:3D:10:85:C6",
+        "notbefore": "20211111134927Z",
+        "notafter": "20411106134927Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2051,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "eseservice"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "BA:73:1E:7D:61:C7:A0:3B:04:08:E6:94:0D:32:33:DF:FE:D5:D7:E8:59:42:31:85:C1:AB:38:95:8E:5A:4C:50",
+        "notbefore": "20201117152312Z",
+        "notafter": "20221117152312Z",
+        "serialnumber": 134363034690384638212016168826446339855986031960,
+        "issuer": "CN=QSEE Attestation Root CA 4 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 4 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "9A:4E:CB:29:9E:AE:62:AC:9C:0E:A8:73:FF:FA:EF:87:2B:F8:BA:CE:F2:24:46:A8:D1:67:97:CC:32:CD:03:73",
+        "notbefore": "20170801223003Z",
+        "notafter": "20270801223003Z",
+        "serialnumber": 12367844569064031078735733646651534169759711126905,
+        "issuer": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "CD:68:2B:2E:C7:0D:CE:D3:EA:F4:18:8C:A7:65:26:07:0A:6A:EC:EA:B5:AB:2E:15:EE:62:8A:11:BB:1E:15:37",
+        "notbefore": "20170801222541Z",
+        "notafter": "20470801222541Z",
+        "serialnumber": 12711044623020681667,
+        "issuer": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "20:F2:5E:C9:BF:F6:5C:41:FD:F7:BE:F2:84:3F:5A:42:95:04:29:CE:E1:B5:C8:2D:CB:64:F2:B3:C9:22:A5:B5",
+        "notbefore": "20211111134855Z",
+        "notafter": "20411106134855Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "featenabler"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "67:48:AF:49:A8:20:29:CF:18:7A:19:07:1B:3F:AF:FA:29:50:8B:C8:6C:E5:24:91:F8:57:17:86:C9:61:DD:1F",
+        "notbefore": "20201111192552Z",
+        "notafter": "20401106192552Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Attestation CA,O=SecTools,OU=None,C=US",
+        "sha256": "C0:A6:92:56:7D:FB:F1:EF:51:3C:BC:F7:E2:27:37:49:4F:72:4E:83:0E:B6:37:2A:67:5E:B8:67:33:9A:17:A7",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US",
+        "sha256": "95:9B:8D:05:49:EF:41:BE:FA:BC:24:F5:1E:FE:84:FE:E3:66:AC:16:9A:B0:4A:0D:B3:0C:79:9B:32:4F:D7:98",
+        "notbefore": "20160408192642Z",
+        "notafter": "20360403192642Z",
+        "serialnumber": 1,
+        "issuer": "CN=Generated Test Root CA,O=SecTools,OU=CDMA Technologies,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "dcompress"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "25:1C:02:5C:17:AB:A7:33:4E:D5:CC:EB:CC:C0:BD:D8:2E:3D:5A:1C:4E:6B:B7:09:F8:98:8B:05:90:AE:1E:45",
+        "notbefore": "20211111134920Z",
+        "notafter": "20411106134920Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 529,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "winsecap"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=CASS - SBL3,O=QUALCOMM,OU=None,C=US",
+        "sha256": "4E:97:FC:1B:79:BB:29:02:8A:E5:9B:06:F7:34:9D:8B:A6:59:FC:F7:DB:7C:B0:30:7E:43:E7:9C:08:BE:0D:55",
+        "notbefore": "20201117152247Z",
+        "notafter": "20221117152247Z",
+        "serialnumber": 712097306379354737151080030090346392374431522012,
+        "issuer": "CN=QSEE Attestation Root CA 4 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 4 SubCA 1,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "9A:4E:CB:29:9E:AE:62:AC:9C:0E:A8:73:FF:FA:EF:87:2B:F8:BA:CE:F2:24:46:A8:D1:67:97:CC:32:CD:03:73",
+        "notbefore": "20170801223003Z",
+        "notafter": "20270801223003Z",
+        "serialnumber": 12367844569064031078735733646651534169759711126905,
+        "issuer": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "CD:68:2B:2E:C7:0D:CE:D3:EA:F4:18:8C:A7:65:26:07:0A:6A:EC:EA:B5:AB:2E:15:EE:62:8A:11:BB:1E:15:37",
+        "notbefore": "20170801222541Z",
+        "notafter": "20470801222541Z",
+        "serialnumber": 12711044623020681667,
+        "issuer": "CN=QSEE Attestation Root CA 4,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "8D:B6:BC:C6:E6:5F:23:22:FF:3B:44:91:2F:74:B3:D7:6F:5D:A9:91:ED:DA:54:33:C9:6D:CD:AD:76:6C:7C:49",
+        "notbefore": "20211111134918Z",
+        "notafter": "20411106134918Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=Feature License Attestation Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "37:0E:17:E5:88:A1:12:1E:03:5F:C7:5A:F9:87:24:C9:D9:5E:16:07:92:28:08:95:9D:7D:46:B5:C0:47:4C:D3",
+        "notbefore": "20151002000001Z",
+        "notafter": "20451001235959Z",
+        "serialnumber": 173387853770470392918606252303726353709162129728104,
+        "issuer": "CN=Feature License Attestation Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=Insecure License Test Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None",
+        "sha256": "DA:7A:98:8E:D2:03:37:C8:F8:22:4A:09:A0:16:F6:C8:3C:D2:0A:96:FC:43:82:CC:E5:35:9A:BF:2D:41:63:83",
+        "notbefore": "20161208002525Z",
+        "notafter": "20361203002525Z",
+        "serialnumber": 173387853770470392918606252303726353709162129728104,
+        "issuer": "CN=Insecure License Test Root CA,O=Qualcomm Technologies, Inc.,OU=Qualcomm Cryptographic Operations,C=None"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      },
+      {
+        "subject": "CN=sz.com,O=sz,OU=None,C=US",
+        "sha256": "6A:2C:80:A8:DF:D9:68:3F:55:FA:F2:A5:E0:E7:50:9F:06:3A:94:8F:85:4A:A2:BC:6B:9B:0F:49:84:71:0D:E8",
+        "notbefore": "20160424195056Z",
+        "notafter": "20260422195056Z",
+        "serialnumber": 15854114979687379482,
+        "issuer": "CN=sz.com,O=sz,OU=None,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "haventk"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "56:6F:2D:A4:88:86:E1:6F:BC:93:86:22:B7:03:81:5F:FB:1F:50:C8:44:D9:34:8C:41:EC:F9:84:87:51:28:B7",
+        "notbefore": "20211111134826Z",
+        "notafter": "20411106134826Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 2055,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "gfp9578"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "10:AE:88:28:5E:66:7D:53:AF:28:C1:7B:3C:F7:02:6D:31:19:75:64:8C:61:10:DA:6E:2D:A1:6F:2C:DB:06:60",
+        "notbefore": "20211111134910Z",
+        "notafter": "20411106134910Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 1912,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "hdcpsr"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "58:1E:D4:02:3D:F5:2C:9D:9D:39:D5:8D:E4:4A:0B:01:23:60:51:49:12:A3:AB:65:59:88:16:7B:D0:C0:C7:1B",
+        "notbefore": "20211111134914Z",
+        "notafter": "20411106134914Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "anti_rollback": 0,
+    "sw_id": 12,
+    "secondary_sw_id": 530,
+    "oem_id": 81,
+    "hw_id": 0,
+    "model_id": 19815,
+    "old_mdt": false,
+    "ta_name": "secure"
+  },
+  {
+    "certs": [
+      {
+        "subject": "CN=SecTools Test User,O=SecTools,OU=None,C=US",
+        "sha256": "60:D3:54:F5:14:F1:CD:DC:52:FE:68:0B:E1:25:AF:66:CF:C8:DE:C8:91:71:19:6E:F9:19:4C:96:F4:1D:A7:37",
+        "notbefore": "20211111134841Z",
+        "notafter": "20411106134841Z",
+        "serialnumber": 1,
+        "issuer": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US"
+      },
+      {
+        "subject": "CN=ONEPLUS Attestation CA,O=ONEPLUS,OU=CDMA Technologies,C=US",
+        "sha256": "F7:0A:8B:9B:3E:50:07:A8:86:96:C3:9D:C0:FE:5F:7B:07:8A:1D:B6:BB:52:79:4E:18:C4:C5:01:6A:38:54:CF",
+        "notbefore": "20200911071408Z",
+        "notafter": "20400906071408Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      },
+      {
+        "subject": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US",
+        "sha256": "9A:0A:3D:89:A1:9B:46:D3:5D:7F:77:D5:AF:2E:AB:B3:D2:90:6D:72:6A:5F:62:D8:19:FB:AC:43:4A:CC:BE:9B",
+        "notbefore": "20200911071347Z",
+        "notafter": "20400906071347Z",
+        "serialnumber": 1,
+        "issuer": "CN=QCT Root CA 1,O=ONEPLUS,OU=General Use Key,C=US"
+      }
+    ],
+    "old_mdt": false,
+    "ta_name": "slpi"
+  }
+]
