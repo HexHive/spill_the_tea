@@ -219,7 +219,8 @@ def extract_from_super_image(super_img: BinaryIO) -> List[Tuple[str, BinaryIO]]:
     return extracted_images
 
 
-def extract_tas(extracted_images: List[Tuple[str, BinaryIO]], fw_out_dir: str):
+def extract_tas(extracted_images: List[Tuple[str, BinaryIO]], fw_out_dir: str) -> int:
+    status = 0
 
     for img_filename, img in extracted_images:
         if img is None:
@@ -277,7 +278,9 @@ def extract_tas(extracted_images: List[Tuple[str, BinaryIO]], fw_out_dir: str):
                     pf.write("\n")
         else:
             log.error("Could not find TAs in {} ({})".format(img, tmpdir))
+            status = 1
         shutil.rmtree(tmpdir)
+        return status
 
 
 def extract_sboot(sboot: BinaryIO, out_dir: str):
@@ -331,7 +334,9 @@ def extract_bootimg(bootimg: BinaryIO, out_dir: str):
             taf.write(ta.read())
 
 
-def extract(firmware_path, out_dir, tas=False):
+def extract(firmware_path, out_dir, tas=False) -> int:
+
+    status = 0
 
     # normalize fw path
     firmware_path = os.path.normpath(firmware_path)
@@ -350,7 +355,13 @@ def extract(firmware_path, out_dir, tas=False):
 
     # get relevant tar archives from `firmware_path`
     tar_archives = get_tar_archives(firmware_path)
+    if not tar_archives:
+        return 1
+
     extracted_images = extract_images(tar_archives)
+
+    if not extracted_images:
+        return 1
 
     sboot = None
     bootimg = None
@@ -376,7 +387,7 @@ def extract(firmware_path, out_dir, tas=False):
         extracted_images.extend(extract_from_super_image(fobj))
 
     if tas:
-        extract_tas(extracted_images, fw_out_dir)
+        status = extract_tas(extracted_images, fw_out_dir)
 
         if sboot:
             extract_sboot(sboot, fw_out_dir)
@@ -393,7 +404,7 @@ def extract(firmware_path, out_dir, tas=False):
 
     # delete temporary dir
     shutil.rmtree(TMP_DIR)
-    return
+    return status
 
 
 def multi_extract(fw_dir, our_dir, tas=False):
@@ -449,14 +460,16 @@ def main():
     arg_parser = setup_args()
     args = arg_parser.parse_args()
 
+    log.info(f"tmp dir: {TMP_DIR}")
     if args.firmware:
-        extract(args.firmware, args.out, args.tas)
+        status = extract(args.firmware, args.out, args.tas)
     elif args.firmware_dir:
-        multi_extract(args.firmware_dir, args.out, args.tas)
+        status = multi_extract(args.firmware_dir, args.out, args.tas)
     else:
         arg_parser.print_help()
+        status = 1
 
-    sys.exit()
+    sys.exit(status)
 
 
 if __name__ == "__main__":

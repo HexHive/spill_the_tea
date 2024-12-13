@@ -10,11 +10,8 @@ import logging
 import pexpect
 import struct
 import fs
-import pprint
-import pyfatfs
 
 # local imports
-from utils import dump_ext4, utils
 from utils.utils import SPARSE_HEADER_MAGIC
 from utils.simg2img import simg2img
 
@@ -199,7 +196,7 @@ def extract_tas(extracted_images: List[Tuple[str, BinaryIO]], fw_out_dir: str):
     return
 
 
-def extract(firmware_path: str, out_dir: str, tas: bool = False) -> None:
+def extract(firmware_path: str, out_dir: str, tas: bool = False) -> int:
 
     log.debug(f"extracting {firmware_path}...")
 
@@ -210,7 +207,7 @@ def extract(firmware_path: str, out_dir: str, tas: bool = False) -> None:
     fw_zip_name = os.path.basename(firmware_path)
     if not fw_zip_name.endswith(".tgz"):
         log.error("{} is no .tgz file.".format(firmware_path))
-        return
+        return 1
 
     fw_name = firmware_path.split("/")[-2]
     fw_out_dir = os.path.join(out_dir, fw_name)
@@ -240,10 +237,13 @@ def extract(firmware_path: str, out_dir: str, tas: bool = False) -> None:
 
     extract_tas(extracted_images, fw_out_dir)
 
-    return
+    return 0
 
 
 def multi_extract(fw_dir, our_dir, tas=False):
+
+    status = 0
+
     fw_paths = [
         os.path.join(fw_dir, fw_name)
         for fw_name in os.listdir(fw_dir)
@@ -251,7 +251,9 @@ def multi_extract(fw_dir, our_dir, tas=False):
     ]
 
     for fw_path in fw_paths:
-        extract(fw_path, our_dir, tas)
+        if extract(fw_path, our_dir, tas) != 0:
+            status = 1
+    return status
 
 
 def setup_args():
@@ -297,13 +299,14 @@ def main():
     args = arg_parser.parse_args()
 
     if args.firmware:
-        extract(args.firmware, args.out, args.tas)
+        status = extract(args.firmware, args.out, args.tas)
     elif args.firmware_dir:
-        multi_extract(args.firmware_dir, args.out, args.tas)
+        status = multi_extract(args.firmware_dir, args.out, args.tas)
     else:
         arg_parser.print_help()
+        status = 1
 
-    sys.exit(0)
+    sys.exit(status)
 
 
 if __name__ == "__main__":

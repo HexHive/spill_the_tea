@@ -4,7 +4,6 @@ import argparse
 import tempfile
 import os
 import shutil
-import zipfile
 import tarfile
 import logging
 import io
@@ -24,7 +23,7 @@ TA_PARTITIONS = ["system", "vendor", "vendor_a", "super"]
 VERBOSE = True
 
 
-def extract(firmware_path, out_dir, tas=False):
+def extract(firmware_path, out_dir, tas=False) -> int:
     """
     Philipp: Firmware is the .tgz file downloaded from -> out_dir/fw_name/tas/..
     """
@@ -46,7 +45,7 @@ def extract(firmware_path, out_dir, tas=False):
     if os.path.isfile(firmware_path):
         if not fw_tgz_name.endswith(".tgz"):
             log.error("{} is no .tgz file.".format(firmware_path))
-            return None
+            return 1
         log.info(f"Detected firmware {fw_tgz_name} of type tgz")
 
         fw_name = firmware_path.split("/")[-2]
@@ -84,7 +83,7 @@ def extract(firmware_path, out_dir, tas=False):
                 image_file = extimg
             else:
                 log.error("super.img isn't an Android SPARC image?!?")
-                return None
+                return 1
             image_file.seek(0)
 
             vendor_partitions = ["vendor", "vendor_a"]
@@ -142,7 +141,7 @@ def extract(firmware_path, out_dir, tas=False):
                 except Exception as e: 
                     erofs_fail = True
                     log.error(f"failed erofs for {image_filename}, {e}")
-                    
+
             if erofs_fail:
                 # ok let's just mount it 
                 mounted = True
@@ -185,13 +184,16 @@ def extract(firmware_path, out_dir, tas=False):
 
     # delete temporary dir
     shutil.rmtree(TMP_DIR)
-    return fw_out_dir
+    return 0
 
-def multi_extract(fw_dir, our_dir, tas=False):
+def multi_extract(fw_dir, our_dir, tas=False) -> int:
     fw_paths = [os.path.join(fw_dir, fw_name) for fw_name in os.listdir(fw_dir) if fw_name.endswith(".tgz")]
 
+    status = 0
     for fw_path in fw_paths:
-        extract(fw_path, our_dir, tas)
+        if extract(fw_path, our_dir, tas) != 0:
+            status = 1
+    return status
 
 
 def setup_args():
@@ -216,13 +218,14 @@ def main():
     args = arg_parser.parse_args()
 
     if args.firmware:
-        extract(args.firmware, args.out, args.tas)
+        status = extract(args.firmware, args.out, args.tas)
     elif args.firmware_dir:
-        multi_extract(args.firmware_dir, args.out, args.tas)
+        status = multi_extract(args.firmware_dir, args.out, args.tas)
     else:
         arg_parser.print_help()
+        status = 1
 
-    sys.exit()
+    sys.exit(status)
 
 
 if __name__ == "__main__":

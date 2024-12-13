@@ -10,13 +10,10 @@ import logging
 import pexpect
 import struct
 import fs
-import pprint
-import pyfatfs
 import zipfile
 import lz4
 
 # local imports
-from utils import dump_ext4, utils
 from utils.utils import SPARSE_HEADER_MAGIC
 from utils.simg2img import simg2img
 
@@ -232,12 +229,12 @@ def unify_tas(file_chunk_dir: str, fw_out_dir: str):
             chunk_path = os.path.join(file_chunk_dir, filename)
             filetype = pexpect.run(f"file -b {chunk_path}").decode()
             if filetype.startswith("data"):
-                log.warn(f"Filetype data of {filename}")
+                log.warning(f"Filetype data of {filename}")
                 continue
             bitness = filetype.split(",")[0].split(" ")[1].split("-")[0]
             arch = filetype.split(",")[1]
             if "arm" not in arch.lower():
-                log.warn(f"Arch of {filename} is not arm, it is {arch}")
+                log.warning(f"Arch of {filename} is not arm, it is {arch}")
                 continue
             mdn_file_path = os.path.join(fw_out_dir, filename)
             mdn = open(os.path.join(chunk_path), "rb")
@@ -302,12 +299,12 @@ def extract_tas(extracted_images: List[Tuple[str, BinaryIO]], fw_out_dir: str):
     return
 
 
-def extract(firmware_path: str, out_dir: str, tas: bool = False) -> None:
+def extract(firmware_path: str, out_dir: str, tas: bool = False) -> int:
 
     log.debug(f"extracting {firmware_path}... to {out_dir}")
 
     if not os.path.exists(out_dir):
-        log.warn(f"Output dir {out_dir} does not exist. Creating...")
+        log.warning(f"Output dir {out_dir} does not exist. Creating...")
         os.mkdir(out_dir)
 
     fw_name = os.path.basename(os.path.normpath(firmware_path))
@@ -315,10 +312,12 @@ def extract(firmware_path: str, out_dir: str, tas: bool = False) -> None:
     if not os.path.exists(fw_out_dir):
         os.makedirs(fw_out_dir)
     else:
-        log.warn("Output dir {} already exist.".format(fw_out_dir))
-    print(fw_out_dir, "!!!")
+        log.warning("Output dir {} already exist.".format(fw_out_dir))
 
     tar_archives = get_tar_archives(firmware_path)
+    if not tar_archives:
+        return 1
+
     image_match_rule = lambda x: os.path.basename(x).endswith("modem.img") or os.path.basename(x).endswith("NON-HLOS.bin")
     extracted_images = list()
     for f in tar_archives:
@@ -331,7 +330,8 @@ def extract(firmware_path: str, out_dir: str, tas: bool = False) -> None:
                 fd = open(os.path.join(fw_out_dir, f), "rb")
                 extracted_images.append((fd.name, fd))
 
-    
+    if not extracted_images:
+        return 1
 
     # create temporary dir for files
     tmp_dir = tempfile.mkdtemp(dir=TMP_DIR)
@@ -339,7 +339,7 @@ def extract(firmware_path: str, out_dir: str, tas: bool = False) -> None:
 
     extract_tas(extracted_images, fw_out_dir)
 
-    return
+    return 0
 
 
 def multi_extract(fw_dir, our_dir, tas=False):
@@ -348,9 +348,12 @@ def multi_extract(fw_dir, our_dir, tas=False):
         for fw_name in os.listdir(fw_dir)
         if fw_name.endswith(".zip")
     ]
+    status = 0
 
     for fw_path in fw_paths:
-        extract(fw_path, our_dir, tas)
+        if extract(fw_path, our_dir, tas) != 0:
+            status = 1
+    return status
 
 
 def setup_args():
@@ -396,13 +399,15 @@ def main():
     args = arg_parser.parse_args()
 
     if args.firmware:
-        extract(args.firmware, args.out, args.tas)
+        status = extract(args.firmware, args.out, args.tas)
     elif args.firmware_dir:
-        multi_extract(args.firmware_dir, args.out, args.tas)
+        status = multi_extract(args.firmware_dir, args.out, args.tas)
     else:
         arg_parser.print_help()
+        status = 1
 
-    sys.exit(0)
+    shutil.rmtree(TMP_DIR )
+    sys.exit(status)
 
 
 if __name__ == "__main__":
