@@ -205,3 +205,18 @@ Run aggregation script:
 PYTHONPATH=`pwd` python3 paper_scripts/gen_number_better.py
 ```
 
+## Acknowledgements
+
+A heartfelt thanks to the infosec community for their dedication to open-sourcing tools, sharing knowledge, and empowering others to learn, build, and secure the world together.
+
+Special thanks goes to:
+
+* [bkerler](https://github.com/bkerler/oppo_decrypt)
+* [srlabs](https://github.com/srlabs/extractor)
+* [cubinator](https://github.com/cubinator)
+* [quarkslab](https://github.com/quarkslab/samsung-trustzone-research/tree/master)
+* [unix3dgforce](https://github.com/unix3dgforce/lpunpack)
+* [Karl Zheng and TwizzyIndy](https://gist.github.com/TwizzyIndy)
+* [Michele Lizzit](https://lizzit.it/)
+* [laginimaineb](https://github.com/laginimaineb/unify_trustlet)
+* [pandasauce](https://github.com/pandasauce/unify_trustlet)
